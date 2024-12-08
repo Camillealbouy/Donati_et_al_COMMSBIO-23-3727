@@ -1,0 +1,1489 @@
+Region,Site,Location,year,depth,Site.ID,RF_geomorpho,exposure,GPS.Latitude,GPS.Longitude,Sample_ID,Family,genus_species,weight,temperature
+WIO,Mafia,small rock,2017,13.3,1.1,Patch,Medium,7.955361111,39.79766667,17_MF_009,Chaetodontidae,Chaetodon_trifasciatus,34,27
+WIO,Mafia,small rock,2017,13.3,1.1,Patch,Medium,7.955361111,39.79766667,17_MF_010,Chaetodontidae,Chaetodon_trifasciatus,41,27
+WIO,Mafia,small rock,2017,13.3,1.1,Patch,Medium,7.955361111,39.79766667,17_MF_011,Chaetodontidae,Chaetodon_trifasciatus,39,27
+WIO,Mafia,small rock,2017,13.3,1.1,Patch,Medium,7.955361111,39.79766667,17_MF_012,Chaetodontidae,Chaetodon_trifasciatus,28,27
+WIO,Mafia,small rock,2017,13.3,1.1,Patch,Medium,7.955361111,39.79766667,17_MF_032,Pomacentridae,Chromis_weberi,6,27
+WIO,Mafia,small rock,2017,13.3,1.1,Patch,Medium,7.955361111,39.79766667,17_MF_033,Pomacentridae,Chromis_weberi,6,27
+WIO,Mafia,small rock,2017,13.3,1.1,Patch,Medium,7.955361111,39.79766667,17_MF_024,Acanthuridae,Ctenochaetus_striatus,76,27
+WIO,Mafia,small rock,2017,13.3,1.1,Patch,Medium,7.955361111,39.79766667,17_MF_025,Acanthuridae,Ctenochaetus_striatus,131,27
+WIO,Mafia,small rock,2017,13.3,1.1,Patch,Medium,7.955361111,39.79766667,17_MF_026,Acanthuridae,Ctenochaetus_striatus,90,27
+WIO,Mafia,small rock,2017,13.3,1.1,Patch,Medium,7.955361111,39.79766667,17_MF_001,Labridae,Halichoeres_hortulanus,45,27
+WIO,Mafia,small rock,2017,13.3,1.1,Patch,Medium,7.955361111,39.79766667,17_MF_002,Labridae,Halichoeres_hortulanus,42,27
+WIO,Mafia,small rock,2017,13.3,1.1,Patch,Medium,7.955361111,39.79766667,17_MF_003,Labridae,Halichoeres_hortulanus,60,27
+WIO,Mafia,small rock,2017,13.3,1.1,Patch,Medium,7.955361111,39.79766667,17_MF_016,Labridae,Halichoeres_hortulanus,92,27
+WIO,Mafia,small rock,2017,13.3,1.1,Patch,Medium,7.955361111,39.79766667,17_MF_017,Labridae,Halichoeres_hortulanus,22,27
+WIO,Mafia,small rock,2017,13.3,1.1,Patch,Medium,7.955361111,39.79766667,17_MF_031,Labridae,Hemigymnus_fasciatus,241,27
+WIO,Mafia,small rock,2017,13.3,1.1,Patch,Medium,7.955361111,39.79766667,17_MF_034,Lethrinidae,Monotaxis_grandoculis,513,27
+WIO,Mafia,small rock,2017,13.3,1.1,Patch,Medium,7.961611111,39.79494444,17_MF_035,Lethrinidae,Monotaxis_grandoculis,493,27
+WIO,Mafia,small rock,2017,13.3,1.1,Patch,Medium,7.955361111,39.79766667,17_MF_027,Acanthuridae,Naso_brevirostris,144,27
+WIO,Mafia,small rock,2017,13.3,1.1,Patch,Medium,7.955361111,39.79766667,17_MF_028,Acanthuridae,Naso_brevirostris,95,27
+WIO,Mafia,small rock,2017,13.3,1.1,Patch,Medium,7.955361111,39.79766667,17_MF_029,Acanthuridae,Naso_brevirostris,133,27
+WIO,Mafia,small rock,2017,13.3,1.1,Patch,Medium,7.955361111,39.79766667,17_MF_030,Labridae,Oxycheilinus_digramma,126,27
+WIO,Mafia,small rock,2017,13.3,1.1,Patch,Medium,7.955361111,39.79766667,17_MF_013,Mullidae,Parupeneus_macronemus,55,27
+WIO,Mafia,small rock,2017,13.3,1.1,Patch,Medium,7.955361111,39.79766667,17_MF_014,Mullidae,Parupeneus_macronemus,27,27
+WIO,Mafia,small rock,2017,13.3,1.1,Patch,Medium,7.955361111,39.79766667,17_MF_015,Mullidae,Parupeneus_macronemus,38,27
+WIO,Mafia,small rock,2017,13.3,1.1,Patch,Medium,7.955361111,39.79766667,17_MF_018,Mullidae,Parupeneus_macronemus,82,27
+WIO,Mafia,small rock,2017,13.3,1.1,Patch,Medium,7.955361111,39.79766667,17_MF_019,Serranidae,Pseudanthias_squamipinnis,11,27
+WIO,Mafia,small rock,2017,13.3,1.1,Patch,Medium,7.955361111,39.79766667,17_MF_020,Serranidae,Pseudanthias_squamipinnis,12,27
+WIO,Mafia,small rock,2017,13.3,1.1,Patch,Medium,7.955361111,39.79766667,17_MF_021,Serranidae,Pseudanthias_squamipinnis,11,27
+WIO,Mafia,small rock,2017,13.3,1.1,Patch,Medium,7.955361111,39.79766667,17_MF_022,Serranidae,Pseudanthias_squamipinnis,10,27
+WIO,Mafia,small rock,2017,13.3,1.1,Patch,Medium,7.955361111,39.79766667,17_MF_023,Serranidae,Pseudanthias_squamipinnis,11,27
+WIO,Mafia,small rock,2017,13.3,1.1,Patch,Medium,7.955361111,39.79766667,17_MF_004,Zanclidae,Zanclus_cornutus,102,27
+WIO,Mafia,small rock,2017,13.3,1.1,Patch,Medium,7.955361111,39.79766667,17_MF_005,Zanclidae,Zanclus_cornutus,96,27
+WIO,Mafia,small rock,2017,13.3,1.1,Patch,Medium,7.955361111,39.79766667,17_MF_006,Zanclidae,Zanclus_cornutus,133,27
+WIO,Mafia,small rock,2017,13.3,1.1,Patch,Medium,7.955361111,39.79766667,17_MF_007,Zanclidae,Zanclus_cornutus,120,27
+WIO,Mafia,small rock,2017,13.3,1.1,Patch,Medium,7.955361111,39.79766667,17_MF_008,Zanclidae,Zanclus_cornutus,105,27
+WIO,Mafia,Mozambique,2017,7.6,1.2,Patch,Medium,7.961611111,39.79494444,17_MF_050,Pomacentridae,Amphiprion_akallopisos,30,27
+WIO,Mafia,Mozambique,2017,7.6,1.2,Patch,Medium,7.961611111,39.79494444,17_MF_051,Pomacentridae,Amphiprion_akallopisos,10,27
+WIO,Mafia,Mozambique,2017,7.6,1.2,Patch,Medium,7.961611111,39.79494444,17_MF_052,Pomacentridae,Amphiprion_akallopisos,13,27
+WIO,Mafia,Mozambique,2017,7.6,1.2,Patch,Medium,7.961611111,39.79494444,17_MF_043,Tetraodontidae,Canthigaster_valentini,11,27
+WIO,Mafia,Mozambique,2017,7.6,1.2,Patch,Medium,7.961611111,39.79494444,17_MF_044,Tetraodontidae,Canthigaster_valentini,10,27
+WIO,Mafia,Mozambique,2017,7.6,1.2,Patch,Medium,7.961611111,39.79494444,17_MF_045,Tetraodontidae,Canthigaster_valentini,7,27
+WIO,Mafia,Mozambique,2017,7.6,1.2,Patch,Medium,7.961611111,39.79494444,17_MF_046,Tetraodontidae,Canthigaster_valentini,6,27
+WIO,Mafia,Mozambique,2017,7.6,1.2,Patch,Medium,7.961611111,39.79494444,17_MF_047,Tetraodontidae,Canthigaster_valentini,10,27
+WIO,Mafia,Mozambique,2017,7.6,1.2,Patch,Medium,7.961611111,39.79494444,17_MF_036,Chaetodontidae,Chaetodon_trifasciatus,34,27
+WIO,Mafia,Mozambique,2017,7.6,1.2,Patch,Medium,7.961611111,39.79494444,17_MF_038,Pomacentridae,Chromis_ternatensis,12,27
+WIO,Mafia,Mozambique,2017,7.6,1.2,Patch,Medium,7.961611111,39.79494444,17_MF_039,Pomacentridae,Chromis_ternatensis,8,27
+WIO,Mafia,Mozambique,2017,7.6,1.2,Patch,Medium,7.961611111,39.79494444,17_MF_040,Pomacentridae,Chromis_ternatensis,11,27
+WIO,Mafia,Mozambique,2017,7.6,1.2,Patch,Medium,7.961611111,39.79494444,17_MF_041,Pomacentridae,Chromis_ternatensis,9,27
+WIO,Mafia,Mozambique,2017,7.6,1.2,Patch,Medium,7.961611111,39.79494444,17_MF_042,Pomacentridae,Chromis_ternatensis,11,27
+WIO,Mafia,Mozambique,2017,7.6,1.2,Patch,Medium,7.961611111,39.79494444,17_MF_053,Pomacentridae,Dascyllus_aruanus,8,27
+WIO,Mafia,Mozambique,2017,7.6,1.2,Patch,Medium,7.961611111,39.79494444,17_MF_054,Pomacentridae,Dascyllus_aruanus,4,27
+WIO,Mafia,Mozambique,2017,7.6,1.2,Patch,Medium,7.961611111,39.79494444,17_MF_055,Pomacentridae,Dascyllus_aruanus,1,27
+WIO,Mafia,Mozambique,2017,7.6,1.2,Patch,Medium,7.961611111,39.79494444,17_MF_056,Pomacentridae,Dascyllus_trimaculatus,1,27
+WIO,Mafia,Mozambique,2017,7.6,1.2,Patch,Medium,7.961611111,39.79494444,17_MF_037,Labridae,Halichoeres_hortulanus,97,27
+WIO,Mafia,Mozambique,2017,7.6,1.2,Patch,Medium,7.961611111,39.79494444,17_MF_048,Pinguipedidae,Parapercis_hexophtalma,29,27
+WIO,Mafia,Mozambique,2017,7.6,1.2,Patch,Medium,7.961611111,39.79494444,17_MF_049,Pinguipedidae,Parapercis_hexophtalma,10,27
+WIO,Mafia,Mozambique,2017,7.6,1.2,Patch,Medium,7.961611111,39.79494444,17_MF_057,Pinguipedidae,Parapercis_hexophtalma,29,27
+WIO,Mafia,Coral garden,2017,6,10.2,Patch,Medium,7.958944444,39.79783333,17_MF_270,Monacanthidae,Oxymonacanthus_longirostris,8,NA
+WIO,Mafia,Coral garden,2017,6,10.2,Patch,Medium,7.958944444,39.79783333,17_MF_271,Monacanthidae,Oxymonacanthus_longirostris,14,NA
+WIO,Mafia,Coral garden,2017,6,10.2,Patch,Medium,7.958944444,39.79783333,17_MF_272,Monacanthidae,Oxymonacanthus_longirostris,9,NA
+WIO,Mafia,Coral garden,2017,6,10.2,Patch,Medium,7.958944444,39.79783333,17_MF_273,Monacanthidae,Oxymonacanthus_longirostris,9,NA
+WIO,Mafia,Mirimani south,2017,12.8,2.1,Patch,Medium,7.97245,39.74913333,17_MF_078,Pomacentridae,Amphiprion_akallopisos,16,27
+WIO,Mafia,Mirimani south,2017,12.8,2.1,Patch,Medium,7.97245,39.74913333,17_MF_094,Tetraodontidae,Canthigaster_valentini,6,27
+WIO,Mafia,Mirimani south,2017,12.8,2.1,Patch,Medium,7.97245,39.74913333,17_MF_095,Tetraodontidae,Canthigaster_valentini,5,27
+WIO,Mafia,Mirimani south,2017,12.8,2.1,Patch,Medium,7.97245,39.74913333,17_MF_063,Chaetodontidae,Chaetodon_trifasciatus,29,27
+WIO,Mafia,Mirimani south,2017,12.8,2.1,Patch,Medium,7.97245,39.74913333,17_MF_064,Chaetodontidae,Chaetodon_trifasciatus,26,27
+WIO,Mafia,Mirimani south,2017,12.8,2.1,Patch,Medium,7.97245,39.74913333,17_MF_098,Pomacentridae,Chromis_atripectoralis,6,27
+WIO,Mafia,Mirimani south,2017,12.8,2.1,Patch,Medium,7.97245,39.74913333,17_MF_099,Pomacentridae,Chromis_atripectoralis,3,27
+WIO,Mafia,Mirimani south,2017,12.8,2.1,Patch,Medium,7.97245,39.74913333,17_MF_085,Pomacentridae,Chromis_ternatensis,8,27
+WIO,Mafia,Mirimani south,2017,12.8,2.1,Patch,Medium,7.97245,39.74913333,17_MF_086,Pomacentridae,Chromis_ternatensis,9,27
+WIO,Mafia,Mirimani south,2017,12.8,2.1,Patch,Medium,7.97245,39.74913333,17_MF_087,Pomacentridae,Chromis_ternatensis,6,27
+WIO,Mafia,Mirimani south,2017,12.8,2.1,Patch,Medium,7.97245,39.74913333,17_MF_088,Pomacentridae,Chromis_ternatensis,5,27
+WIO,Mafia,Mirimani south,2017,12.8,2.1,Patch,Medium,7.97245,39.74913333,17_MF_089,Pomacentridae,Chromis_ternatensis,7,27
+WIO,Mafia,Mirimani south,2017,12.8,2.1,Patch,Medium,7.97245,39.74913333,17_MF_090,Pomacentridae,Chromis_ternatensis,8,27
+WIO,Mafia,Mirimani south,2017,12.8,2.1,Patch,Medium,7.97245,39.74913333,17_MF_069,Acanthuridae,Ctenochaetus_striatus,62,27
+WIO,Mafia,Mirimani south,2017,12.8,2.1,Patch,Medium,7.97245,39.74913333,17_MF_100,Pomacentridae,Dascyllus_aruanus,4,27
+WIO,Mafia,Mirimani south,2017,12.8,2.1,Patch,Medium,7.97245,39.74913333,17_MF_096,Pomacentridae,Dascyllus_carneus,8,27
+WIO,Mafia,Mirimani south,2017,12.8,2.1,Patch,Medium,7.97245,39.74913333,17_MF_097,Pomacentridae,Dascyllus_carneus,5,27
+WIO,Mafia,Mirimani south,2017,12.8,2.1,Patch,Medium,7.97245,39.74913333,17_MF_079,Pomacentridae,Dascyllus_trimaculatus,11,27
+WIO,Mafia,Mirimani south,2017,12.8,2.1,Patch,Medium,7.97245,39.74913333,17_MF_080,Pomacentridae,Dascyllus_trimaculatus,17,27
+WIO,Mafia,Mirimani south,2017,12.8,2.1,Patch,Medium,7.97245,39.74913333,17_MF_081,Pomacentridae,Dascyllus_trimaculatus,8,27
+WIO,Mafia,Mirimani south,2017,12.8,2.1,Patch,Medium,7.97245,39.74913333,17_MF_082,Pomacentridae,Dascyllus_trimaculatus,27,27
+WIO,Mafia,Mirimani south,2017,12.8,2.1,Patch,Medium,7.97245,39.74913333,17_MF_083,Pomacentridae,Dascyllus_trimaculatus,15,27
+WIO,Mafia,Mirimani south,2017,12.8,2.1,Patch,Medium,7.97245,39.74913333,17_MF_084,Pomacentridae,Dascyllus_trimaculatus,8,27
+WIO,Mafia,Mirimani south,2017,12.8,2.1,Patch,Medium,7.97245,39.74913333,17_MF_066,Labridae,Gomphosus_caeruleus,60,27
+WIO,Mafia,Mirimani south,2017,12.8,2.1,Patch,Medium,7.97245,39.74913333,17_MF_067,Labridae,Gomphosus_caeruleus,68,27
+WIO,Mafia,Mirimani south,2017,12.8,2.1,Patch,Medium,7.97245,39.74913333,17_MF_068,Labridae,Gomphosus_caeruleus,41,27
+WIO,Mafia,Mirimani south,2017,12.8,2.1,Patch,Medium,7.97245,39.74913333,17_MF_091,Labridae,Gomphosus_caeruleus,22,27
+WIO,Mafia,Mirimani south,2017,12.8,2.1,Patch,Medium,7.97245,39.74913333,17_MF_065,Labridae,Halichoeres_hortulanus,61,27
+WIO,Mafia,Mirimani south,2017,12.8,2.1,Patch,Medium,7.97245,39.74913333,17_MF_070,Lutjanidae,Lutjanus_kasmira,18,27
+WIO,Mafia,Mirimani south,2017,12.8,2.1,Patch,Medium,7.97245,39.74913333,17_MF_071,Lutjanidae,Lutjanus_kasmira,15,27
+WIO,Mafia,Mirimani south,2017,12.8,2.1,Patch,Medium,7.97245,39.74913333,17_MF_072,Lutjanidae,Lutjanus_kasmira,19,27
+WIO,Mafia,Mirimani south,2017,12.8,2.1,Patch,Medium,7.97245,39.74913333,17_MF_073,Lutjanidae,Lutjanus_kasmira,18,27
+WIO,Mafia,Mirimani south,2017,12.8,2.1,Patch,Medium,7.97245,39.74913333,17_MF_074,Lutjanidae,Lutjanus_kasmira,17,27
+WIO,Mafia,Mirimani south,2017,12.8,2.1,Patch,Medium,7.97245,39.74913333,17_MF_092,Lethrinidae,Monotaxis_grandoculis,29,27
+WIO,Mafia,Mirimani south,2017,12.8,2.1,Patch,Medium,7.97245,39.74913333,17_MF_060,Holocentridae,Myripristis_violacea,153,27
+WIO,Mafia,Mirimani south,2017,12.8,2.1,Patch,Medium,7.97245,39.74913333,17_MF_061,Holocentridae,Myripristis_violacea,141,27
+WIO,Mafia,Mirimani south,2017,12.8,2.1,Patch,Medium,7.97245,39.74913333,17_MF_062,Holocentridae,Myripristis_violacea,144,27
+WIO,Mafia,Mirimani south,2017,12.8,2.1,Patch,Medium,7.97245,39.74913333,17_MF_093,Pinguipedidae,Parapercis_hexophtalma,27,27
+WIO,Mafia,Mirimani south,2017,12.8,2.1,Patch,Medium,7.97245,39.74913333,17_MF_075,Mullidae,Parupeneus_macronemus,31,27
+WIO,Mafia,Mirimani south,2017,12.8,2.1,Patch,Medium,7.97245,39.74913333,17_MF_076,Mullidae,Parupeneus_macronemus,15,27
+WIO,Mafia,Mirimani south,2017,12.8,2.1,Patch,Medium,7.97245,39.74913333,17_MF_077,Mullidae,Parupeneus_macronemus,13,27
+WIO,Mafia,Mirimani south,2017,12.8,2.1,Patch,Medium,7.97245,39.74913333,17_MF_101,Serranidae,Pseudanthias_squamipinnis,4,27
+WIO,Mafia,Mirimani south,2017,19.1,3.1,Patch,Medium,7.947722222,39.785,17_MF_109,Chaetodontidae,Chaetodon_trifasciatus,38,28
+WIO,Mafia,Mirimani south,2017,19.1,3.1,Patch,Medium,7.947722222,39.785,17_MF_110,Chaetodontidae,Chaetodon_trifasciatus,41,28
+WIO,Mafia,Mirimani south,2017,19.1,3.1,Patch,Medium,7.947722222,39.785,17_MF_111,Chaetodontidae,Chaetodon_trifasciatus,43,28
+WIO,Mafia,Mirimani south,2017,19.1,3.1,Patch,Medium,7.947722222,39.785,17_MF_112,Chaetodontidae,Chaetodon_trifasciatus,33,28
+WIO,Mafia,Mirimani south,2017,19.1,3.1,Patch,Medium,7.947722222,39.785,17_MF_118,Pomacentridae,Chromis_weberi,17,28
+WIO,Mafia,Mirimani south,2017,19.1,3.1,Patch,Medium,7.947722222,39.785,17_MF_113,Labridae,Halichoeres_hortulanus,71,28
+WIO,Mafia,Mirimani south,2017,19.1,3.1,Patch,Medium,7.947722222,39.785,17_MF_114,Labridae,Halichoeres_hortulanus,38,28
+WIO,Mafia,Mirimani south,2017,19.1,3.1,Patch,Medium,7.947722222,39.785,17_MF_104,Lutjanidae,Lutjanus_kasmira,119,28
+WIO,Mafia,Mirimani south,2017,19.1,3.1,Patch,Medium,7.947722222,39.785,17_MF_105,Lutjanidae,Lutjanus_kasmira,110,28
+WIO,Mafia,Mirimani south,2017,19.1,3.1,Patch,Medium,7.947722222,39.785,17_MF_106,Lutjanidae,Lutjanus_kasmira,62,28
+WIO,Mafia,Mirimani south,2017,19.1,3.1,Patch,Medium,7.947722222,39.785,17_MF_107,Lutjanidae,Lutjanus_kasmira,59,28
+WIO,Mafia,Mirimani south,2017,19.1,3.1,Patch,Medium,7.947722222,39.785,17_MF_108,Lutjanidae,Lutjanus_kasmira,31,28
+WIO,Mafia,Mirimani south,2017,19.1,3.1,Patch,Medium,7.947722222,39.785,17_MF_103,Labridae,Oxycheilinus_digramma,179,28
+WIO,Mafia,Mirimani south,2017,19.1,3.1,Patch,Medium,7.947722222,39.785,17_MF_115,Serranidae,Pseudanthias_squamipinnis,8,28
+WIO,Mafia,Mirimani south,2017,19.1,3.1,Patch,Medium,7.947722222,39.785,17_MF_116,Serranidae,Pseudanthias_squamipinnis,8,28
+WIO,Mafia,Mirimani south,2017,19.1,3.1,Patch,Medium,7.947722222,39.785,17_MF_117,Serranidae,Pseudanthias_squamipinnis,9,28
+WIO,Mafia,Mirimani south,2017,19.1,3.1,Patch,Medium,7.947722222,39.785,17_MF_102,Zanclidae,Zanclus_cornutus,92,28
+WIO,Mafia,Coral garden,2017,10.8,3.2,Patch,Medium,7.949055556,39.78741667,17_MF_131,Pomacentridae,Chromis_atripectoralis,27,28
+WIO,Mafia,Coral garden,2017,10.8,3.2,Patch,Medium,7.949055556,39.78741667,17_MF_132,Pomacentridae,Chromis_atripectoralis,22,28
+WIO,Mafia,Coral garden,2017,10.8,3.2,Patch,Medium,7.949055556,39.78741667,17_MF_133,Pomacentridae,Chromis_weberi,18,28
+WIO,Mafia,Coral garden,2017,10.8,3.2,Patch,Medium,7.949055556,39.78741667,17_MF_134,Pomacentridae,Chromis_weberi,19,28
+WIO,Mafia,Coral garden,2017,10.8,3.2,Patch,Medium,7.949055556,39.78741667,17_MF_135,Pomacentridae,Chromis_weberi,17,28
+WIO,Mafia,Coral garden,2017,10.8,3.2,Patch,Medium,7.949055556,39.78741667,17_MF_136,Pomacentridae,Chromis_weberi,13,28
+WIO,Mafia,Coral garden,2017,10.8,3.2,Patch,Medium,7.949055556,39.78741667,17_MF_137,Pomacentridae,Chromis_weberi,17,28
+WIO,Mafia,Coral garden,2017,10.8,3.2,Patch,Medium,7.949055556,39.78741667,17_MF_138,Pomacentridae,Chromis_weberi,19,28
+WIO,Mafia,Coral garden,2017,10.8,3.2,Patch,Medium,7.949055556,39.78741667,17_MF_139,Pomacentridae,Chromis_weberi,23,28
+WIO,Mafia,Coral garden,2017,10.8,3.2,Patch,Medium,7.949055556,39.78741667,17_MF_140,Pomacentridae,Chromis_weberi,20,28
+WIO,Mafia,Coral garden,2017,10.8,3.2,Patch,Medium,7.949055556,39.78741667,17_MF_122,Acanthuridae,Ctenochaetus_striatus,121,28
+WIO,Mafia,Coral garden,2017,10.8,3.2,Patch,Medium,7.949055556,39.78741667,17_MF_123,Acanthuridae,Ctenochaetus_striatus,95,28
+WIO,Mafia,Coral garden,2017,10.8,3.2,Patch,Medium,7.949055556,39.78741667,17_MF_124,Acanthuridae,Ctenochaetus_striatus,70,28
+WIO,Mafia,Coral garden,2017,10.8,3.2,Patch,Medium,7.949055556,39.78741667,17_MF_125,Acanthuridae,Ctenochaetus_striatus,45,28
+WIO,Mafia,Coral garden,2017,10.8,3.2,Patch,Medium,7.949055556,39.78741667,17_MF_126,Acanthuridae,Ctenochaetus_striatus,93,28
+WIO,Mafia,Coral garden,2017,10.8,3.2,Patch,Medium,7.949055556,39.78741667,17_MF_141,Pomacentridae,Dascyllus_carneus,4,28
+WIO,Mafia,Coral garden,2017,10.8,3.2,Patch,Medium,7.949055556,39.78741667,17_MF_142,Pomacentridae,Dascyllus_carneus,6,28
+WIO,Mafia,Coral garden,2017,10.8,3.2,Patch,Medium,7.949055556,39.78741667,17_MF_143,Pomacentridae,Dascyllus_carneus,7,28
+WIO,Mafia,Coral garden,2017,10.8,3.2,Patch,Medium,7.949055556,39.78741667,17_MF_144,Pomacentridae,Dascyllus_carneus,3,28
+WIO,Mafia,Coral garden,2017,10.8,3.2,Patch,Medium,7.949055556,39.78741667,17_MF_127,Labridae,Gomphosus_caeruleus,75,28
+WIO,Mafia,Coral garden,2017,10.8,3.2,Patch,Medium,7.949055556,39.78741667,17_MF_128,Labridae,Gomphosus_caeruleus,20,28
+WIO,Mafia,Coral garden,2017,10.8,3.2,Patch,Medium,7.949055556,39.78741667,17_MF_120,Labridae,Hemigymnus_fasciatus,72,28
+WIO,Mafia,Coral garden,2017,10.8,3.2,Patch,Medium,7.949055556,39.78741667,17_MF_121,Labridae,Hemigymnus_fasciatus,48,28
+WIO,Mafia,Coral garden,2017,10.8,3.2,Patch,Medium,7.949055556,39.78741667,17_MF_119,Labridae,Oxycheilinus_digramma,157,28
+WIO,Mafia,Coral garden,2017,10.8,3.2,Patch,Medium,7.949055556,39.78741667,17_MF_129,Pinguipedidae,Parapercis_hexophtalma,50,28
+WIO,Mafia,Coral garden,2017,10.8,3.2,Patch,Medium,7.949055556,39.78741667,17_MF_130,Pinguipedidae,Parapercis_hexophtalma,14,28
+WIO,Mafia,Big_rock,2017,8,4.2,Patch,Medium,7.958766667,39.79775,17_MF_160,Pomacentridae,Amphiprion_akallopisos,23,26
+WIO,Mafia,Big_rock,2017,8,4.2,Patch,Medium,7.958766667,39.79775,17_MF_161,Pomacentridae,Amphiprion_akallopisos,12,26
+WIO,Mafia,Big_rock,2017,8,4.2,Patch,Medium,7.958766667,39.79775,17_MF_162,Pomacentridae,Amphiprion_akallopisos,8,26
+WIO,Mafia,Big_rock,2017,8,4.2,Patch,Medium,7.958766667,39.79775,17_MF_158,Tetraodontidae,Canthigaster_valentini,3,26
+WIO,Mafia,Big_rock,2017,8,4.2,Patch,Medium,7.958766667,39.79775,17_MF_159,Tetraodontidae,Canthigaster_valentini,9,26
+WIO,Mafia,Big_rock,2017,8,4.2,Patch,Medium,7.958766667,39.79775,17_MF_155,Pomacentridae,Dascyllus_carneus,4,26
+WIO,Mafia,Big_rock,2017,8,4.2,Patch,Medium,7.958766667,39.79775,17_MF_156,Pomacentridae,Dascyllus_carneus,11,26
+WIO,Mafia,Big_rock,2017,8,4.2,Patch,Medium,7.958766667,39.79775,17_MF_153,Pomacentridae,Dascyllus_trimaculatus,18,26
+WIO,Mafia,Big_rock,2017,8,4.2,Patch,Medium,7.958766667,39.79775,17_MF_154,Pomacentridae,Dascyllus_trimaculatus,17,26
+WIO,Mafia,Big_rock,2017,8,4.2,Patch,Medium,7.958766667,39.79775,17_MF_157,Labridae,Halichoeres_hortulanus,40,26
+WIO,Mafia,Big_rock,2017,8,4.2,Patch,Medium,7.958766667,39.79775,17_MF_151,Lethrinidae,Monotaxis_grandoculis,15,26
+WIO,Mafia,Big_rock,2017,8,4.2,Patch,Medium,7.958766667,39.79775,17_MF_150,Pinguipedidae,Parapercis_hexophtalma,53,26
+WIO,Mafia,Big_rock,2017,8,4.2,Patch,Medium,7.958766667,39.79775,17_MF_145,Serranidae,Pseudanthias_squamipinnis,19,26
+WIO,Mafia,Big_rock,2017,8,4.2,Patch,Medium,7.958766667,39.79775,17_MF_146,Serranidae,Pseudanthias_squamipinnis,14,26
+WIO,Mafia,Big_rock,2017,8,4.2,Patch,Medium,7.958766667,39.79775,17_MF_147,Serranidae,Pseudanthias_squamipinnis,12,26
+WIO,Mafia,Big_rock,2017,8,4.2,Patch,Medium,7.958766667,39.79775,17_MF_148,Serranidae,Pseudanthias_squamipinnis,18,26
+WIO,Mafia,Big_rock,2017,8,4.2,Patch,Medium,7.958766667,39.79775,17_MF_149,Serranidae,Pseudanthias_squamipinnis,14,26
+WIO,Mafia,Big_rock,2017,8,4.2,Patch,Medium,7.958766667,39.79775,17_MF_152,Caesionidae,Pterocaesio_pisang,21,26
+WIO,Mafia,Mirimani south,2017,8,5.1,Patch,Medium,7.94945,39.78573333,17_MF_189,Pomacentridae,Amphiprion_akallopisos,20,28
+WIO,Mafia,Mirimani south,2017,8,5.1,Patch,Medium,7.94945,39.78573333,17_MF_190,Pomacentridae,Amphiprion_akallopisos,19,28
+WIO,Mafia,Mirimani south,2017,8,5.1,Patch,Medium,7.94945,39.78573333,17_MF_191,Pomacentridae,Amphiprion_akallopisos,7,28
+WIO,Mafia,Mirimani south,2017,8,5.1,Patch,Medium,7.94945,39.78573333,17_MF_192,Pomacentridae,Amphiprion_akallopisos,6,28
+WIO,Mafia,Mirimani south,2017,8,5.1,Patch,Medium,7.94945,39.78573333,17_MF_178,Tetraodontidae,Canthigaster_valentini,8,28
+WIO,Mafia,Mirimani south,2017,8,5.1,Patch,Medium,7.94945,39.78573333,17_MF_179,Pomacentridae,Chromis_atripectoralis,17,28
+WIO,Mafia,Mirimani south,2017,8,5.1,Patch,Medium,7.94945,39.78573333,17_MF_180,Pomacentridae,Chromis_atripectoralis,12,28
+WIO,Mafia,Mirimani south,2017,8,5.1,Patch,Medium,7.94945,39.78573333,17_MF_181,Pomacentridae,Chromis_atripectoralis,13,28
+WIO,Mafia,Mirimani south,2017,8,5.1,Patch,Medium,7.94945,39.78573333,17_MF_182,Pomacentridae,Chromis_atripectoralis,8,28
+WIO,Mafia,Mirimani south,2017,8,5.1,Patch,Medium,7.94945,39.78573333,17_MF_183,Pomacentridae,Chromis_atripectoralis,8,28
+WIO,Mafia,Mirimani south,2017,8,5.1,Patch,Medium,7.94945,39.78573333,17_MF_171,Acanthuridae,Ctenochaetus_striatus,69,28
+WIO,Mafia,Mirimani south,2017,8,5.1,Patch,Medium,7.94945,39.78573333,17_MF_172,Acanthuridae,Ctenochaetus_striatus,116,28
+WIO,Mafia,Mirimani south,2017,8,5.1,Patch,Medium,7.94945,39.78573333,17_MF_173,Acanthuridae,Ctenochaetus_striatus,77,28
+WIO,Mafia,Mirimani south,2017,8,5.1,Patch,Medium,7.94945,39.78573333,17_MF_174,Labridae,Gomphosus_caeruleus,51,28
+WIO,Mafia,Mirimani south,2017,8,5.1,Patch,Medium,7.94945,39.78573333,17_MF_175,Labridae,Gomphosus_caeruleus,16,28
+WIO,Mafia,Mirimani south,2017,8,5.1,Patch,Medium,7.94945,39.78573333,17_MF_165,Labridae,Hemigymnus_fasciatus,93,28
+WIO,Mafia,Mirimani south,2017,8,5.1,Patch,Medium,7.94945,39.78573333,17_MF_166,Labridae,Hemigymnus_fasciatus,59,28
+WIO,Mafia,Mirimani south,2017,8,5.1,Patch,Medium,7.94945,39.78573333,17_MF_167,Labridae,Hemigymnus_fasciatus,72,28
+WIO,Mafia,Mirimani south,2017,8,5.1,Patch,Medium,7.94945,39.78573333,17_MF_176,Lethrinidae,Monotaxis_grandoculis,62,28
+WIO,Mafia,Mirimani south,2017,8,5.1,Patch,Medium,7.94945,39.78573333,17_MF_163,Acanthuridae,Naso_brevirostris,513,28
+WIO,Mafia,Mirimani south,2017,8,5.1,Patch,Medium,7.94945,39.78573333,17_MF_164,Acanthuridae,Naso_brevirostris,187,28
+WIO,Mafia,Mirimani south,2017,8,5.1,Patch,Medium,7.94945,39.78573333,17_MF_185,Monacanthidae,Oxymonacanthus_longirostris,10,28
+WIO,Mafia,Mirimani south,2017,8,5.1,Patch,Medium,7.94945,39.78573333,17_MF_186,Monacanthidae,Oxymonacanthus_longirostris,11,28
+WIO,Mafia,Mirimani south,2017,8,5.1,Patch,Medium,7.94945,39.78573333,17_MF_187,Monacanthidae,Oxymonacanthus_longirostris,13,28
+WIO,Mafia,Mirimani south,2017,8,5.1,Patch,Medium,7.94945,39.78573333,17_MF_188,Monacanthidae,Oxymonacanthus_longirostris,10,28
+WIO,Mafia,Mirimani south,2017,8,5.1,Patch,Medium,7.94945,39.78573333,17_MF_184,Pinguipedidae,Parapercis_hexophtalma,55,28
+WIO,Mafia,Mirimani south,2017,8,5.1,Patch,Medium,7.94945,39.78573333,17_MF_177,Mullidae,Parupeneus_macronemus,222,28
+WIO,Mafia,Mirimani south,2017,8,5.1,Patch,Medium,7.94945,39.78573333,17_MF_168,Zanclidae,Zanclus_cornutus,171,28
+WIO,Mafia,Mirimani south,2017,8,5.1,Patch,Medium,7.94945,39.78573333,17_MF_169,Zanclidae,Zanclus_cornutus,139,28
+WIO,Mafia,Mirimani south,2017,8,5.1,Patch,Medium,7.94945,39.78573333,17_MF_170,Zanclidae,Zanclus_cornutus,150,28
+WIO,Mafia,Big_rock,2017,8,5.2,Patch,Medium,7.958766667,39.79775,17_MF_193,Caesionidae,Pterocaesio_pisang,40,28
+WIO,Mafia,Big_rock,2017,8,5.2,Patch,Medium,7.958766667,39.79775,17_MF_194,Caesionidae,Pterocaesio_pisang,35,28
+WIO,Mafia,Big_rock,2017,8,5.2,Patch,Medium,7.958766667,39.79775,17_MF_195,Caesionidae,Pterocaesio_pisang,26,28
+WIO,Mafia,Big_rock,2017,8,5.2,Patch,Medium,7.958766667,39.79775,17_MF_196,Caesionidae,Pterocaesio_pisang,26,28
+WIO,Mafia,Big_rock,2017,8,5.2,Patch,Medium,7.958766667,39.79775,17_MF_197,Caesionidae,Pterocaesio_pisang,29,28
+WIO,Mafia,Mirimani south,2017,8,6.1,Patch,Medium,7.94945,39.78573333,17_MF_209,Pomacentridae,Dascyllus_aruanus,5,28
+WIO,Mafia,Mirimani south,2017,8,6.1,Patch,Medium,7.94945,39.78573333,17_MF_210,Pomacentridae,Dascyllus_aruanus,2,28
+WIO,Mafia,Mirimani south,2017,8,6.1,Patch,Medium,7.94945,39.78573333,17_MF_206,Labridae,Gomphosus_caeruleus,17,28
+WIO,Mafia,Mirimani south,2017,8,6.1,Patch,Medium,7.94945,39.78573333,17_MF_207,Lethrinidae,Monotaxis_grandoculis,11,28
+WIO,Mafia,Mirimani south,2017,8,6.1,Patch,Medium,7.94945,39.78573333,17_MF_208,Lethrinidae,Monotaxis_grandoculis,14,28
+WIO,Mafia,Mirimani south,2017,8,6.1,Patch,Medium,7.94945,39.78573333,17_MF_198,Acanthuridae,Naso_brevirostris,87,28
+WIO,Mafia,Mirimani south,2017,8,6.1,Patch,Medium,7.94945,39.78573333,17_MF_199,Acanthuridae,Naso_brevirostris,84,28
+WIO,Mafia,Mirimani south,2017,8,6.1,Patch,Medium,7.94945,39.78573333,17_MF_200,Acanthuridae,Naso_brevirostris,93,28
+WIO,Mafia,Mirimani south,2017,8,6.1,Patch,Medium,7.94945,39.78573333,17_MF_201,Acanthuridae,Naso_brevirostris,74,28
+WIO,Mafia,Mirimani south,2017,8,6.1,Patch,Medium,7.94945,39.78573333,17_MF_202,Acanthuridae,Naso_brevirostris,96,28
+WIO,Mafia,Mirimani south,2017,8,6.1,Patch,Medium,7.94945,39.78573333,17_MF_203,Acanthuridae,Naso_brevirostris,82,28
+WIO,Mafia,Mirimani south,2017,8,6.1,Patch,Medium,7.94945,39.78573333,17_MF_204,Acanthuridae,Naso_brevirostris,65,28
+WIO,Mafia,Mirimani south,2017,8,6.1,Patch,Medium,7.94945,39.78573333,17_MF_205,Acanthuridae,Naso_brevirostris,54,28
+WIO,Mafia,Nudi city,2017,8,7.1,Fringing,Sheltered,7.972666667,39.75027778,17_MF_226,Holocentridae,Dascyllus_aruanus,5,28
+WIO,Mafia,Nudi city,2017,8,7.1,Fringing,Sheltered,7.972666667,39.75027778,17_MF_227,Pomacentridae,Dascyllus_aruanus,3,28
+WIO,Mafia,Nudi city,2017,8,7.1,Fringing,Sheltered,7.972666667,39.75027778,17_MF_228,Pomacentridae,Dascyllus_aruanus,10,28
+WIO,Mafia,Nudi city,2017,8,7.1,Fringing,Sheltered,7.972666667,39.75027778,17_MF_229,Pomacentridae,Dascyllus_aruanus,8,28
+WIO,Mafia,Nudi city,2017,8,7.1,Fringing,Sheltered,7.972666667,39.75027778,17_MF_230,Pomacentridae,Dascyllus_aruanus,7,28
+WIO,Mafia,Nudi city,2017,8,7.1,Fringing,Sheltered,7.972666667,39.75027778,17_MF_231,Pomacentridae,Dascyllus_trimaculatus,19,28
+WIO,Mafia,small rock,2017,8,7.2,Patch,Medium,7.955361111,39.79766667,17_MF_243,Labridae,Gomphosus_caeruleus,38,28
+WIO,Mafia,small rock,2017,8,7.2,Patch,Medium,7.955361111,39.79766667,17_MF_239,Lethrinidae,Monotaxis_grandoculis,355,28
+WIO,Mafia,small rock,2017,8,7.2,Patch,Medium,7.955361111,39.79766667,17_MF_240,Lethrinidae,Monotaxis_grandoculis,402,28
+WIO,Mafia,small rock,2017,8,7.2,Patch,Medium,7.955361111,39.79766667,17_MF_241,Lethrinidae,Monotaxis_grandoculis,308,28
+WIO,Mafia,small rock,2017,8,7.2,Patch,Medium,7.955361111,39.79766667,17_MF_242,Lethrinidae,Monotaxis_grandoculis,324,28
+WIO,Mafia,small rock,2017,8,7.2,Patch,Medium,7.955361111,39.79766667,17_MF_238,Lethrinidae,Monotaxis_grandoculis,480,28
+WIO,Mafia,Mafia Bay lodge,2017,8,8.1,Patch,Medium,7.977944444,39.75119444,17_MF_244,Pinguipedidae,Parapercis_hexophtalma,32,27
+WIO,Mafia,Mafia Bay lodge,2017,8,8.1,Patch,Medium,7.977944444,39.75119444,17_MF_245,Pinguipedidae,Parapercis_hexophtalma,14,27
+WIO,Mafia,Mafia Bay lodge,2017,8,8.1,Patch,Medium,7.977944444,39.75119444,17_MF_246,Mullidae,Parupeneus_macronemus,72,27
+WIO,Mafia,Mafia Bay lodge,2017,8,8.1,Patch,Medium,7.977944444,39.75119444,17_MF_247,Mullidae,Parupeneus_macronemus,17,27
+WIO,Mafia,Mafia Bay lodge,2017,8,8.1,Patch,Medium,7.977944444,39.75119444,17_MF_248,Mullidae,Parupeneus_macronemus,9,27
+WIO,Mafia,Minimari_south,2017,8,8.2,Patch,Medium,7.94945,39.78573333,17_MF_249,Holocentridae,Myripristis_violacea,115,27
+WIO,Mafia,Minimari_south,2017,8,8.2,Patch,Medium,7.94945,39.78573333,17_MF_250,Holocentridae,Myripristis_violacea,154,27
+WIO,Mafia,Minimari_south,2017,8,8.2,Patch,Medium,7.94945,39.78573333,17_MF_251,Holocentridae,Myripristis_violacea,162,27
+WIO,Mafia,Minimari_south,2017,8,8.2,Patch,Medium,7.94945,39.78573333,17_MF_252,Holocentridae,Myripristis_violacea,117,27
+WIO,Mafia,Minimari_south,2017,8,8.2,Patch,Medium,7.94945,39.78573333,17_MF_253,Holocentridae,Myripristis_violacea,187,27
+WIO,Mafia,Minimari_south,2017,8,8.2,Patch,Medium,7.94945,39.78573333,17_MF_254,Holocentridae,Myripristis_violacea,127,27
+WIO,Mafia,Minimari_south,2017,8,8.2,Patch,Medium,7.94945,39.78573333,17_MF_255,Holocentridae,Myripristis_violacea,83,27
+WIO,Mafia,Market,2017,NA,NA,Fishermen,Fishermen,NA,NA,17_MF_262,Carangidae,Caranx_melampygus,1296,27
+WIO,Mafia,Market,2017,NA,NA,Fishermen,Fishermen,NA,NA,17_MF_263,Carangidae,Caranx_melampygus,1100,27
+WIO,Mafia,Market,2017,NA,NA,Fishermen,Fishermen,NA,NA,17_MF_269,Carangidae,Caranx_melampygus,6315,NA
+WIO,Maldives,Kaafu,2017,11,1.1,Patch,Medium,4.28171,73.4134,17_MV_001,Pomacentridae,Chromis_ternatensis,0.025,29
+WIO,Maldives,Kaafu,2017,11,1.1,Patch,Medium,4.28171,73.4134,17_MV_002,Pomacentridae,Chromis_ternatensis,0.02,29
+WIO,Maldives,Kaafu,2017,11,1.1,Patch,Medium,4.28171,73.4134,17_MV_003,Pomacentridae,Chromis_ternatensis,0.02,29
+WIO,Maldives,Kaafu,2017,11,1.1,Patch,Medium,4.28171,73.4134,17_MV_004,Pomacentridae,Chromis_ternatensis,0.02,29
+WIO,Maldives,Kaafu,2017,11,1.1,Patch,Medium,4.28171,73.4134,17_MV_005,Pomacentridae,Chromis_ternatensis,0.02,29
+WIO,Maldives,Kaafu,2017,11,1.1,Patch,Medium,4.28171,73.4134,17_MV_006,Pomacentridae,Chromis_ternatensis,0.02,29
+WIO,Maldives,Kaafu,2017,11,1.1,Patch,Medium,4.28171,73.4134,17_MV_007,Pomacentridae,Chromis_ternatensis,0.02,29
+WIO,Maldives,Kaafu,2017,11,1.1,Patch,Medium,4.28171,73.4134,17_MV_008,Caesionidae,Pterocaesio_marri,0.04,29
+WIO,Maldives,Kaafu,2017,11,1.1,Patch,Medium,4.28171,73.4134,17_MV_010,Caesionidae,Pterocaesio_pisang,0.02,29
+WIO,Maldives,Kaafu,2017,11,1.1,Patch,Medium,4.28171,73.4134,17_MV_011,Caesionidae,Pterocaesio_pisang,0.02,29
+WIO,Maldives,Kaafu,2017,11,1.1,Patch,Medium,4.28171,73.4134,17_MV_012,Caesionidae,Pterocaesio_pisang,0.02,29
+WIO,Maldives,Kaafu,2017,11,1.1,Patch,Medium,4.28171,73.4134,17_MV_013,Caesionidae,Pterocaesio_pisang,0.04,29
+WIO,Maldives,Kaafu,2017,11,1.1,Patch,Medium,4.28171,73.4134,17_MV_014,Caesionidae,Pterocaesio_pisang,0.04,29
+WIO,Maldives,Kaafu,2017,11,1.1,Patch,Medium,4.28171,73.4134,17_MV_015,Caesionidae,Pterocaesio_pisang,0.025,29
+WIO,Maldives,Kaafu,2017,11,1.2,Patch,Medium,4.2873,73.41359,17_MV_019,Tetraodontidae,Canthigaster_valentini,0.03,28
+WIO,Maldives,Kaafu,2017,11,1.2,Patch,Medium,4.2873,73.41359,17_MV_016,Chaetodontidae,Chaetodon_trifasciatus,0.045,28
+WIO,Maldives,Kaafu,2017,11,1.2,Patch,Medium,4.2873,73.41359,17_MV_017,Chaetodontidae,Chaetodon_trifasciatus,0.03,28
+WIO,Maldives,Kaafu,2017,11,1.2,Patch,Medium,4.2873,73.41359,17_MV_018,Chaetodontidae,Chaetodon_trifasciatus,0.03,28
+WIO,Maldives,Kaafu,2017,11,1.2,Patch,Medium,4.2873,73.41359,17_MV_027,Acanthuridae,Ctenochaetus_striatus,0.055,28
+WIO,Maldives,Kaafu,2017,11,1.2,Patch,Medium,4.2873,73.41359,17_MV_028,Acanthuridae,Ctenochaetus_striatus,0.09,28
+WIO,Maldives,Kaafu,2017,11,1.2,Patch,Medium,4.2873,73.41359,17_MV_029,Acanthuridae,Ctenochaetus_striatus,0.09,28
+WIO,Maldives,Kaafu,2017,11,1.2,Patch,Medium,4.2873,73.41359,17_MV_030,Acanthuridae,Ctenochaetus_striatus,0.065,28
+WIO,Maldives,Kaafu,2017,11,1.2,Patch,Medium,4.2873,73.41359,17_MV_021,Pomacentridae,Dascyllus_aruanus,0.02,28
+WIO,Maldives,Kaafu,2017,11,1.2,Patch,Medium,4.2873,73.41359,17_MV_022,Pomacentridae,Dascyllus_aruanus,0.02,28
+WIO,Maldives,Kaafu,2017,11,1.2,Patch,Medium,4.2873,73.41359,17_MV_023,Pomacentridae,Dascyllus_aruanus,0.01,28
+WIO,Maldives,Kaafu,2017,11,1.2,Patch,Medium,4.2873,73.41359,17_MV_024,Pomacentridae,Dascyllus_aruanus,0.02,28
+WIO,Maldives,Kaafu,2017,11,2.1,Barrier_out,Exposed,4.43438,73.35838,17_MV_047,Carangidae,Caranx_melampygus,0.61,29
+WIO,Maldives,Kaafu,2017,11,2.1,Barrier_out,Exposed,4.43438,73.35838,17_MV_041,Chaetodontidae,Chaetodon_trifasciatus,0.03,29
+WIO,Maldives,Kaafu,2017,11,2.1,Barrier_out,Exposed,4.43438,73.35838,17_MV_042,Chaetodontidae,Chaetodon_trifasciatus,0.045,29
+WIO,Maldives,Kaafu,2017,11,2.1,Barrier_out,Exposed,4.43438,73.35838,17_MV_036,Pomacentridae,Dascyllus_aruanus,0.015,29
+WIO,Maldives,Kaafu,2017,11,2.1,Barrier_out,Exposed,4.43438,73.35838,17_MV_037,Pomacentridae,Dascyllus_aruanus,0.01,29
+WIO,Maldives,Kaafu,2017,11,2.1,Barrier_out,Exposed,4.43438,73.35838,17_MV_038,Pomacentridae,Dascyllus_aruanus,0.01,29
+WIO,Maldives,Kaafu,2017,11,2.1,Barrier_out,Exposed,4.43438,73.35838,17_MV_040,Pomacentridae,Dascyllus_carneus,NA,29
+WIO,Maldives,Kaafu,2017,11,2.1,Barrier_out,Exposed,4.43438,73.35838,17_MV_043,Pomacentridae,Dascyllus_carneus,0.01,29
+WIO,Maldives,Kaafu,2017,11,2.1,Barrier_out,Exposed,4.43438,73.35838,17_MV_044,Labridae,Gomphosus_caeruleus,0.035,29
+WIO,Maldives,Kaafu,2017,11,2.1,Barrier_out,Exposed,4.43438,73.35838,17_MV_045,Labridae,Gomphosus_caeruleus,0.045,29
+WIO,Maldives,Kaafu,2017,11,2.1,Barrier_out,Exposed,4.43438,73.35838,17_MV_046,Labridae,Halichoeres_hortulanus,0.025,29
+WIO,Maldives,Kaafu,2017,11,2.1,Barrier_out,Exposed,4.43438,73.35838,17_MV_049,Labridae,Halichoeres_hortulanus,0.04,29
+WIO,Maldives,Kaafu,2017,11,2.1,Barrier_out,Exposed,4.43438,73.35838,17_MV_051,Labridae,Halichoeres_hortulanus,0.07,29
+WIO,Maldives,Kaafu,2017,11,2.1,Barrier_out,Exposed,4.43438,73.35838,17_MV_052,Labridae,Halichoeres_hortulanus,0.07,29
+WIO,Maldives,Kaafu,2017,11,2.1,Barrier_out,Exposed,4.43438,73.35838,17_MV_053,Labridae,Halichoeres_hortulanus,0.05,29
+WIO,Maldives,Kaafu,2017,11,2.1,Barrier_out,Exposed,4.43438,73.35838,17_MV_MORPHO_005,Labridae,Halichoeres_hortulanus,0.02,29
+WIO,Maldives,Kaafu,2017,11,2.1,Barrier_out,Exposed,4.43438,73.35838,17_MV_048,Labridae,Hemigymnus_fasciatus,0.045,29
+WIO,Maldives,Kaafu,2017,11,2.1,Barrier_out,Exposed,4.43438,73.35838,17_MV_050,Mullidae,Parupeneus_macronemus,0.04,29
+WIO,Maldives,Kaafu,2017,11,2.2,Barrier_in,Exposed,4.45683,73.39854,17_MV_031,Pomacentridae,Amphiprion_clarkii,0.03,29
+WIO,Maldives,Kaafu,2017,11,2.2,Barrier_in,Exposed,4.45683,73.39854,17_MV_032,Pomacentridae,Amphiprion_clarkii,0.03,29
+WIO,Maldives,Kaafu,2017,11,2.2,Barrier_in,Exposed,4.45683,73.39854,17_MV_033,Pomacentridae,Amphiprion_clarkii,0.03,29
+WIO,Maldives,Kaafu,2017,11,2.2,Barrier_in,Exposed,4.45683,73.39854,17_MV_034,Pomacentridae,Amphiprion_clarkii,0.015,29
+WIO,Maldives,Kaafu,2017,11,2.2,Barrier_in,Exposed,4.45683,73.39854,17_MV_035,Pomacentridae,Amphiprion_clarkii,0.03,29
+WIO,Maldives,Kaafu,2017,11,2.2,Barrier_in,Exposed,4.45683,73.39854,17_MV_MORPHO_003,Pomacentridae,Dascyllus_aruanus,NA,29
+WIO,Maldives,Alif_Alif,2017,11,3.1,Patch,Medium,3.97678,72.89846,17_MV_058,Pomacentridae,Amphiprion_clarkii,0.009,29
+WIO,Maldives,Alif_Alif,2017,11,3.1,Patch,Medium,3.97678,72.89846,17_MV_059,Pomacentridae,Amphiprion_clarkii,0.018,29
+WIO,Maldives,Alif_Alif,2017,11,3.1,Patch,Medium,3.97678,72.89846,17_MV_064,Monacanthidae,Canthigaster_valentini,0.01,29
+WIO,Maldives,Alif_Alif,2017,11,3.1,Patch,Medium,3.97678,72.89846,17_MV_065,Monacanthidae,Canthigaster_valentini,0.006,29
+WIO,Maldives,Alif_Alif,2017,11,3.1,Patch,Medium,3.97678,72.89846,17_MV_063,Acanthuridae,Ctenochaetus_striatus,0.045,29
+WIO,Maldives,Alif_Alif,2017,11,3.1,Patch,Medium,3.97678,72.89846,17_MV_066,Pinguipedidae,Parapercis_hexophtalma,0.015,29
+WIO,Maldives,Alif_Alif,2017,11,3.1,Patch,Medium,3.97678,72.89846,17_MV_067,Serranidae,Pseudanthias_squamipinnis,0.014,29
+WIO,Maldives,Alif_Alif,2017,11,3.1,Patch,Medium,3.97678,72.89846,17_MV_060,Zanclidae,Zanclus_cornutus,0.065,29
+WIO,Maldives,Alif_Alif,2017,11,3.1,Patch,Medium,3.97678,72.89846,17_MV_061,Zanclidae,Zanclus_cornutus,0.099,29
+WIO,Maldives,Alif_Alif,2017,11,3.1,Patch,Medium,3.97678,72.89846,17_MV_062,Zanclidae,Zanclus_cornutus,0.071,29
+WIO,Maldives,Alif_Alif,2017,20,3.2,Barrier_out,Exposed,3.85591,72.95807,17_MV_070,Acanthuridae,Ctenochaetus_striatus,0.059,29
+WIO,Maldives,Alif_Alif,2017,20,3.2,Barrier_out,Exposed,3.85591,72.95807,17_MV_071,Acanthuridae,Ctenochaetus_striatus,0.058,29
+WIO,Maldives,Alif_Alif,2017,20,3.2,Barrier_out,Exposed,3.85591,72.95807,17_MV_072,Pomacentridae,Dascyllus_carneus,0.005,29
+WIO,Maldives,Alif_Alif,2017,20,3.3,Barrier_in,Exposed,3.8659,72.95802,17_MV_085,Monacanthidae,Canthigaster_valentini,0.007,29
+WIO,Maldives,Alif_Alif,2017,20,3.3,Barrier_in,Exposed,3.8659,72.95802,17_MV_077,Pomacentridae,Chromis_atripectoralis,0.01,29
+WIO,Maldives,Alif_Alif,2017,20,3.3,Barrier_in,Exposed,3.8659,72.95802,17_MV_079,Pomacentridae,Chromis_atripectoralis,0.009,29
+WIO,Maldives,Alif_Alif,2017,20,3.3,Barrier_in,Exposed,3.8659,72.95802,17_MV_086,Labridae,Gomphosus_caeruleus,0.009,29
+WIO,Maldives,Alif_Alif,2017,20,3.3,Barrier_in,Exposed,3.8659,72.95802,17_MV_073,Lethrinidae,Monotaxis_grandoculis,0.255,29
+WIO,Maldives,Alif_Alif,2017,20,3.3,Barrier_in,Exposed,3.8659,72.95802,17_MV_074,Lethrinidae,Monotaxis_grandoculis,0.187,29
+WIO,Maldives,Alif_Alif,2017,20,3.3,Barrier_in,Exposed,3.8659,72.95802,17_MV_075,Lethrinidae,Monotaxis_grandoculis,0.131,29
+WIO,Maldives,Alif_Alif,2017,20,3.3,Barrier_in,Exposed,3.8659,72.95802,17_MV_082,Mullidae,Parupeneus_macronemus,0.071,29
+WIO,Maldives,Alif_Alif,2017,20,3.3,Barrier_in,Exposed,3.8659,72.95802,17_MV_083,Mullidae,Parupeneus_macronemus,0.033,29
+WIO,Maldives,Alif_Alif,2017,20,3.3,Barrier_in,Exposed,3.8659,72.95802,17_MV_084,Mullidae,Parupeneus_macronemus,0.013,29
+WIO,Maldives,Alif_Alif,2017,20,3.3,Barrier_in,Exposed,3.8659,72.95802,17_MV_076,Zanclidae,Zanclus_cornutus,0.022,29
+WIO,Maldives,Alif_Alif,2017,5,4.1,Patch,Medium,3.88789,72.92812,17_MV_133,Chaetodontidae,Chaetodon_trifasciatus,0.036,28
+WIO,Maldives,Alif_Alif,2017,5,4.1,Patch,Medium,3.88789,72.92812,17_MV_147,Pomacentridae,Chromis_atripectoralis,0.005,28
+WIO,Maldives,Alif_Alif,2017,5,4.1,Patch,Medium,3.88789,72.92812,17_MV_148,Pomacentridae,Chromis_atripectoralis,0.005,28
+WIO,Maldives,Alif_Alif,2017,5,4.1,Patch,Medium,3.88789,72.92812,17_MV_149,Pomacentridae,Chromis_atripectoralis,0.007,28
+WIO,Maldives,Alif_Alif,2017,5,4.1,Patch,Medium,3.88789,72.92812,17_MV_MORPHO_024,Pomacentridae,Chromis_atripectoralis,NA,28
+WIO,Maldives,Alif_Alif,2017,5,4.1,Patch,Medium,3.88789,72.92812,17_MV_138,Pomacentridae,Chromis_weberi,0.03,28
+WIO,Maldives,Alif_Alif,2017,5,4.1,Patch,Medium,3.88789,72.92812,17_MV_139,Pomacentridae,Chromis_weberi,0.027,28
+WIO,Maldives,Alif_Alif,2017,5,4.1,Patch,Medium,3.88789,72.92812,17_MV_140,Pomacentridae,Chromis_weberi,0.024,28
+WIO,Maldives,Alif_Alif,2017,5,4.1,Patch,Medium,3.88789,72.92812,17_MV_141,Pomacentridae,Chromis_weberi,0.022,28
+WIO,Maldives,Alif_Alif,2017,5,4.1,Patch,Medium,3.88789,72.92812,17_MV_142,Pomacentridae,Chromis_weberi,0.017,28
+WIO,Maldives,Alif_Alif,2017,5,4.1,Patch,Medium,3.88789,72.92812,17_MV_143,Pomacentridae,Dascyllus_carneus,0.014,28
+WIO,Maldives,Alif_Alif,2017,5,4.1,Patch,Medium,3.88789,72.92812,17_MV_144,Pomacentridae,Dascyllus_carneus,0.008,28
+WIO,Maldives,Alif_Alif,2017,5,4.1,Patch,Medium,3.88789,72.92812,17_MV_145,Pomacentridae,Dascyllus_carneus,0.008,28
+WIO,Maldives,Alif_Alif,2017,5,4.1,Patch,Medium,3.88789,72.92812,17_MV_146,Pomacentridae,Dascyllus_carneus,0.008,28
+WIO,Maldives,Alif_Alif,2017,5,4.1,Patch,Medium,3.88789,72.92812,17_MV_MORPHO_020,Pomacentridae,Dascyllus_carneus,NA,28
+WIO,Maldives,Alif_Alif,2017,5,4.1,Patch,Medium,3.88789,72.92812,17_MV_MORPHO_021,Pomacentridae,Dascyllus_carneus,NA,28
+WIO,Maldives,Alif_Alif,2017,5,4.1,Patch,Medium,3.88789,72.92812,17_MV_MORPHO_022,Pomacentridae,Dascyllus_carneus,NA,28
+WIO,Maldives,Alif_Alif,2017,5,4.1,Patch,Medium,3.88789,72.92812,17_MV_150,Pomacentridae,Dascyllus_trimaculatus,0.034,28
+WIO,Maldives,Alif_Alif,2017,5,4.1,Patch,Medium,3.88789,72.92812,17_MV_151,Pomacentridae,Dascyllus_trimaculatus,0.033,28
+WIO,Maldives,Alif_Alif,2017,5,4.1,Patch,Medium,3.88789,72.92812,17_MV_152,Pomacentridae,Dascyllus_trimaculatus,0.035,28
+WIO,Maldives,Alif_Alif,2017,5,4.1,Patch,Medium,3.88789,72.92812,17_MV_153,Pomacentridae,Dascyllus_trimaculatus,0.028,28
+WIO,Maldives,Alif_Alif,2017,5,4.1,Patch,Medium,3.88789,72.92812,17_MV_154,Pomacentridae,Dascyllus_trimaculatus,0.028,28
+WIO,Maldives,Alif_Alif,2017,5,4.1,Patch,Medium,3.88789,72.92812,17_MV_127,Labridae,Gomphosus_caeruleus,0.018,28
+WIO,Maldives,Alif_Alif,2017,5,4.1,Patch,Medium,3.88789,72.92812,17_MV_128,Labridae,Gomphosus_caeruleus,0.01,28
+WIO,Maldives,Alif_Alif,2017,5,4.1,Patch,Medium,3.88789,72.92812,17_MV_137,Labridae,Halichoeres_hortulanus,0.082,28
+WIO,Maldives,Alif_Alif,2017,5,4.1,Patch,Medium,3.88789,72.92812,17_MV_129,Mullidae,Parupeneus_macronemus,0.035,28
+WIO,Maldives,Alif_Alif,2017,5,4.1,Patch,Medium,3.88789,72.92812,17_MV_131,Mullidae,Parupeneus_macronemus,0.045,28
+WIO,Maldives,Alif_Alif,2017,5,4.1,Patch,Medium,3.88789,72.92812,17_MV_134,Serranidae,Pseudanthias_squamipinnis,0.017,28
+WIO,Maldives,Alif_Alif,2017,5,4.1,Patch,Medium,3.88789,72.92812,17_MV_135,Serranidae,Pseudanthias_squamipinnis,0.008,28
+WIO,Maldives,Alif_Alif,2017,5,4.1,Patch,Medium,3.88789,72.92812,17_MV_136,Serranidae,Pseudanthias_squamipinnis,0.004,28
+WIO,Maldives,Alif_Alif,2017,5,4.1,Patch,Medium,3.88789,72.92812,17_MV_125,Zanclidae,Zanclus_cornutus,0.094,28
+WIO,Maldives,Alif_Alif,2017,5,4.1,Patch,Medium,3.88789,72.92812,17_MV_126,Zanclidae,Zanclus_cornutus,0.097,28
+WIO,Maldives,Alif_Alif,2017,20,4.2,Barrier_out,Exposed,3.83075,72.96228,17_MV_087,Pomacentridae,Amphiprion_clarkii,0.03,29
+WIO,Maldives,Alif_Alif,2017,20,4.2,Barrier_out,Exposed,3.83075,72.96228,17_MV_088,Pomacentridae,Amphiprion_clarkii,0.028,29
+WIO,Maldives,Alif_Alif,2017,20,4.2,Barrier_out,Exposed,3.83075,72.96228,17_MV_089,Chaetodontidae,Chaetodon_trifasciatus,0.038,29
+WIO,Maldives,Alif_Alif,2017,20,4.2,Barrier_out,Exposed,3.83075,72.96228,17_MV_102,Pomacentridae,Chromis_atripectoralis,0.008,29
+WIO,Maldives,Alif_Alif,2017,20,4.2,Barrier_out,Exposed,3.83075,72.96228,17_MV_099,Pomacentridae,Dascyllus_carneus,0.008,29
+WIO,Maldives,Alif_Alif,2017,20,4.2,Barrier_out,Exposed,3.83075,72.96228,17_MV_100,Pomacentridae,Dascyllus_carneus,0.006,29
+WIO,Maldives,Alif_Alif,2017,20,4.2,Barrier_out,Exposed,3.83075,72.96228,17_MV_616,Pomacentridae,Dascyllus_carneus,0.004,29
+WIO,Maldives,Alif_Alif,2017,20,4.2,Barrier_out,Exposed,3.83075,72.96228,17_MV_090,Labridae,Gomphosus_caeruleus,0.05,29
+WIO,Maldives,Alif_Alif,2017,20,4.2,Barrier_out,Exposed,3.83075,72.96228,17_MV_091,Labridae,Gomphosus_caeruleus,0.021,29
+WIO,Maldives,Alif_Alif,2017,20,4.2,Barrier_out,Exposed,3.83075,72.96228,17_MV_092,Labridae,Gomphosus_caeruleus,0.021,29
+WIO,Maldives,Alif_Alif,2017,20,4.2,Barrier_out,Exposed,3.83075,72.96228,17_MV_098,Labridae,Gomphosus_caeruleus,0.008,29
+WIO,Maldives,Alif_Alif,2017,20,4.2,Barrier_out,Exposed,3.83075,72.96228,17_MV_095,Labridae,Halichoeres_hortulanus,0.044,29
+WIO,Maldives,Alif_Alif,2017,20,4.2,Barrier_out,Exposed,3.83075,72.96228,17_MV_096,Labridae,Halichoeres_hortulanus,0.035,29
+WIO,Maldives,Alif_Alif,2017,20,4.2,Barrier_out,Exposed,3.83075,72.96228,17_MV_097,Labridae,Halichoeres_hortulanus,0.015,29
+WIO,Maldives,Alif_Alif,2017,20,4.2,Barrier_out,Exposed,3.83075,72.96228,17_MV_093,Mullidae,Parupeneus_macronemus,0.039,29
+WIO,Maldives,Alif_Alif,2017,20,4.2,Barrier_out,Exposed,3.83075,72.96228,17_MV_094,Mullidae,Parupeneus_macronemus,0.031,29
+WIO,Maldives,Alif_Alif,2017,20,4.2,Barrier_out,Exposed,3.83075,72.96228,17_MV_101,Serranidae,Pseudanthias_squamipinnis,0.004,29
+WIO,Maldives,Alif_Alif,2017,15,4.3,Patch,Medium,3.85596,72.93654,17_MV_106,Chaetodontidae,Chaetodon_trifasciatus,0.034,29
+WIO,Maldives,Alif_Alif,2017,15,4.3,Patch,Medium,3.85596,72.93654,17_MV_107,Chaetodontidae,Chaetodon_trifasciatus,0.036,29
+WIO,Maldives,Alif_Alif,2017,15,4.3,Patch,Medium,3.85596,72.93654,17_MV_121,Acanthuridae,Ctenochaetus_striatus,0.075,29
+WIO,Maldives,Alif_Alif,2017,15,4.3,Patch,Medium,3.85596,72.93654,17_MV_122,Acanthuridae,Ctenochaetus_striatus,0.07,29
+WIO,Maldives,Alif_Alif,2017,15,4.3,Patch,Medium,3.85596,72.93654,17_MV_123,Acanthuridae,Ctenochaetus_striatus,0.083,29
+WIO,Maldives,Alif_Alif,2017,15,4.3,Patch,Medium,3.85596,72.93654,17_MV_MORPHO_013,Acanthuridae,Ctenochaetus_striatus,0.048,29
+WIO,Maldives,Alif_Alif,2017,15,4.3,Patch,Medium,3.85596,72.93654,17_MV_MORPHO_014,Acanthuridae,Ctenochaetus_striatus,0.044,29
+WIO,Maldives,Alif_Alif,2017,15,4.3,Patch,Medium,3.85596,72.93654,17_MV_103,Labridae,Gomphosus_caeruleus,0.015,29
+WIO,Maldives,Alif_Alif,2017,15,4.3,Patch,Medium,3.85596,72.93654,17_MV_104,Labridae,Gomphosus_caeruleus,0.01,29
+WIO,Maldives,Alif_Alif,2017,15,4.3,Patch,Medium,3.85596,72.93654,17_MV_105,Labridae,Gomphosus_caeruleus,0.014,29
+WIO,Maldives,Alif_Alif,2017,15,4.3,Patch,Medium,3.85596,72.93654,17_MV_111,Labridae,Halichoeres_hortulanus,0.057,29
+WIO,Maldives,Alif_Alif,2017,15,4.3,Patch,Medium,3.85596,72.93654,17_MV_112,Labridae,Halichoeres_hortulanus,0.008,29
+WIO,Maldives,Alif_Alif,2017,15,4.3,Patch,Medium,3.85596,72.93654,17_MV_108,Labridae,Hemigymnus_fasciatus,0.087,29
+WIO,Maldives,Alif_Alif,2017,15,4.3,Patch,Medium,3.85596,72.93654,17_MV_109,Labridae,Hemigymnus_fasciatus,0.073,29
+WIO,Maldives,Alif_Alif,2017,15,4.3,Patch,Medium,3.85596,72.93654,17_MV_110,Labridae,Hemigymnus_fasciatus,0.06,29
+WIO,Maldives,Alif_Alif,2017,15,4.3,Patch,Medium,3.85596,72.93654,17_MV_117,Lethrinidae,Monotaxis_grandoculis,0.225,29
+WIO,Maldives,Alif_Alif,2017,15,4.3,Patch,Medium,3.85596,72.93654,17_MV_120,Labridae,Oxycheilinus_digramma,0.056,29
+WIO,Maldives,Alif_Alif,2017,15,4.3,Patch,Medium,3.85596,72.93654,17_MV_116,Monacanthidae,Oxymonacanthus_longirostris,0.006,29
+WIO,Maldives,Alif_Alif,2017,15,4.3,Patch,Medium,3.85596,72.93654,17_MV_118,Pinguipedidae,Parapercis_hexophtalma,0.024,29
+WIO,Maldives,Alif_Alif,2017,12,5.1,Barrier_out,Exposed,3.68898,72.70427,17_MV_186,Pomacentridae,Amphiprion_clarkii,0.031,29
+WIO,Maldives,Alif_Alif,2017,12,5.1,Barrier_out,Exposed,3.68898,72.70427,17_MV_187,Pomacentridae,Amphiprion_clarkii,0.012,29
+WIO,Maldives,Alif_Alif,2017,12,5.1,Barrier_out,Exposed,3.68898,72.70427,17_MV_167,Chaetodontidae,Chaetodon_trifasciatus,0.042,29
+WIO,Maldives,Alif_Alif,2017,12,5.1,Barrier_out,Exposed,3.68898,72.70427,17_MV_176,Pomacentridae,Chromis_weberi,0.013,29
+WIO,Maldives,Alif_Alif,2017,12,5.1,Barrier_out,Exposed,3.68898,72.70427,17_MV_177,Pomacentridae,Chromis_weberi,0.012,29
+WIO,Maldives,Alif_Alif,2017,12,5.1,Barrier_out,Exposed,3.68898,72.70427,17_MV_178,Pomacentridae,Chromis_weberi,0.012,29
+WIO,Maldives,Alif_Alif,2017,12,5.1,Barrier_out,Exposed,3.68898,72.70427,17_MV_179,Pomacentridae,Chromis_weberi,0.012,29
+WIO,Maldives,Alif_Alif,2017,12,5.1,Barrier_out,Exposed,3.68898,72.70427,17_MV_MORPHO_025,Pomacentridae,Chromis_weberi,0.012,29
+WIO,Maldives,Alif_Alif,2017,12,5.1,Barrier_out,Exposed,3.68898,72.70427,17_MV_MORPHO_027,Pomacentridae,Chromis_weberi,0.005,29
+WIO,Maldives,Alif_Alif,2017,12,5.1,Barrier_out,Exposed,3.68898,72.70427,17_MV_MORPHO_028,Pomacentridae,Chromis_weberi,0.007,29
+WIO,Maldives,Alif_Alif,2017,12,5.1,Barrier_out,Exposed,3.68898,72.70427,17_MV_MORPHO_029,Pomacentridae,Chromis_weberi,0.005,29
+WIO,Maldives,Alif_Alif,2017,12,5.1,Barrier_out,Exposed,3.68898,72.70427,17_MV_182,Pomacentridae,Dascyllus_carneus,0.001,29
+WIO,Maldives,Alif_Alif,2017,12,5.1,Barrier_out,Exposed,3.68898,72.70427,17_MV_183,Pomacentridae,Dascyllus_carneus,0.001,29
+WIO,Maldives,Alif_Alif,2017,12,5.1,Barrier_out,Exposed,3.68898,72.70427,17_MV_184,Pomacentridae,Dascyllus_carneus,0.001,29
+WIO,Maldives,Alif_Alif,2017,12,5.1,Barrier_out,Exposed,3.68898,72.70427,17_MV_185,Pomacentridae,Dascyllus_trimaculatus,0.001,29
+WIO,Maldives,Alif_Alif,2017,12,5.1,Barrier_out,Exposed,3.68898,72.70427,17_MV_620,Pomacentridae,Dascyllus_trimaculatus,0.001,29
+WIO,Maldives,Alif_Alif,2017,12,5.1,Barrier_out,Exposed,3.68898,72.70427,17_MV_163,Labridae,Gomphosus_caeruleus,0.044,29
+WIO,Maldives,Alif_Alif,2017,12,5.1,Barrier_out,Exposed,3.68898,72.70427,17_MV_166,Labridae,Gomphosus_caeruleus,0.014,29
+WIO,Maldives,Alif_Alif,2017,12,5.1,Barrier_out,Exposed,3.68898,72.70427,17_MV_169,Labridae,Gomphosus_caeruleus,0.087,29
+WIO,Maldives,Alif_Alif,2017,12,5.1,Barrier_out,Exposed,3.68898,72.70427,17_MV_164,Labridae,Halichoeres_hortulanus,0.017,29
+WIO,Maldives,Alif_Alif,2017,12,5.1,Barrier_out,Exposed,3.68898,72.70427,17_MV_168,Labridae,Halichoeres_hortulanus,0.015,29
+WIO,Maldives,Alif_Alif,2017,12,5.1,Barrier_out,Exposed,3.68898,72.70427,17_MV_170,Labridae,Halichoeres_hortulanus,0.016,29
+WIO,Maldives,Alif_Alif,2017,12,5.1,Barrier_out,Exposed,3.68898,72.70427,17_MV_165,Mullidae,Parupeneus_macronemus,0.042,29
+WIO,Maldives,Alif_Alif,2017,12,5.1,Barrier_out,Exposed,3.68898,72.70427,17_MV_171,Mullidae,Parupeneus_macronemus,0.063,29
+WIO,Maldives,Alif_Alif,2017,12,5.1,Barrier_out,Exposed,3.68898,72.70427,17_MV_172,Mullidae,Parupeneus_macronemus,0.01,29
+WIO,Maldives,Alif_Alif,2017,12,5.1,Barrier_out,Exposed,3.68898,72.70427,17_MV_MORPHO_026,Mullidae,Parupeneus_macronemus,0.008,29
+WIO,Maldives,Alif_Alif,2017,12,5.1,Barrier_out,Exposed,3.68898,72.70427,17_MV_173,Serranidae,Pseudanthias_squamipinnis,0.001,29
+WIO,Maldives,Alif_Alif,2017,12,5.1,Barrier_out,Exposed,3.68898,72.70427,17_MV_174,Serranidae,Pseudanthias_squamipinnis,0.001,29
+WIO,Maldives,Alif_Alif,2017,12,5.1,Barrier_out,Exposed,3.68898,72.70427,17_MV_175,Serranidae,Pseudanthias_squamipinnis,0.002,29
+WIO,Maldives,Alif_Alif,2017,12,5.1,Barrier_out,Exposed,3.68898,72.70427,17_MV_621,Serranidae,Pseudanthias_squamipinnis,0.001,29
+WIO,Maldives,Alif_Alif,2017,12,5.1,Barrier_out,Exposed,3.68898,72.70427,17_MV_MORPHO_030,Serranidae,Pseudanthias_squamipinnis,0.001,29
+WIO,Maldives,Alif_Alif,2017,8,5.2,Patch,Medium,3.70442,72.75152,17_MV_212,Pomacentridae,Amphiprion_clarkii,0.033,30
+WIO,Maldives,Alif_Alif,2017,8,5.2,Patch,Medium,3.70442,72.75152,17_MV_205,Pomacentridae,Chromis_atripectoralis,0.02,30
+WIO,Maldives,Alif_Alif,2017,8,5.2,Patch,Medium,3.70442,72.75152,17_MV_206,Pomacentridae,Chromis_atripectoralis,0.018,30
+WIO,Maldives,Alif_Alif,2017,8,5.2,Patch,Medium,3.70442,72.75152,17_MV_207,Pomacentridae,Chromis_atripectoralis,0.022,30
+WIO,Maldives,Alif_Alif,2017,8,5.2,Patch,Medium,3.70442,72.75152,17_MV_MORPHO_033,Pomacentridae,Chromis_atripectoralis,0.016,30
+WIO,Maldives,Alif_Alif,2017,8,5.2,Patch,Medium,3.70442,72.75152,17_MV_208,Pomacentridae,Chromis_ternatensis,0.017,30
+WIO,Maldives,Alif_Alif,2017,8,5.2,Patch,Medium,3.70442,72.75152,17_MV_209,Pomacentridae,Chromis_ternatensis,0.018,30
+WIO,Maldives,Alif_Alif,2017,8,5.2,Patch,Medium,3.70442,72.75152,17_MV_200,Acanthuridae,Ctenochaetus_striatus,0.093,30
+WIO,Maldives,Alif_Alif,2017,8,5.2,Patch,Medium,3.70442,72.75152,17_MV_201,Acanthuridae,Ctenochaetus_striatus,0.079,30
+WIO,Maldives,Alif_Alif,2017,8,5.2,Patch,Medium,3.70442,72.75152,17_MV_203,Acanthuridae,Ctenochaetus_striatus,0.085,30
+WIO,Maldives,Alif_Alif,2017,8,5.2,Patch,Medium,3.70442,72.75152,17_MV_MORPHO_032,Acanthuridae,Ctenochaetus_striatus,0.088,30
+WIO,Maldives,Alif_Alif,2017,8,5.2,Patch,Medium,3.70442,72.75152,17_MV_MORPHO_034,Acanthuridae,Ctenochaetus_striatus,0.025,30
+WIO,Maldives,Alif_Alif,2017,8,5.2,Patch,Medium,3.70442,72.75152,17_MV_624,Labridae,Gomphosus_caeruleus,0.0019,30
+WIO,Maldives,Alif_Alif,2017,8,5.2,Patch,Medium,3.70442,72.75152,17_MV_198,Labridae,Halichoeres_hortulanus,0.082,30
+WIO,Maldives,Alif_Alif,2017,8,5.2,Patch,Medium,3.70442,72.75152,17_MV_199,Labridae,Halichoeres_hortulanus,0.062,30
+WIO,Maldives,Alif_Alif,2017,8,5.2,Patch,Medium,3.70442,72.75152,17_MV_MORPHO_031,Labridae,Halichoeres_hortulanus,0.022,30
+WIO,Maldives,Alif_Alif,2017,8,5.2,Patch,Medium,3.70442,72.75152,17_MV_196,Labridae,Hemigymnus_fasciatus,0.028,30
+WIO,Maldives,Alif_Alif,2017,8,5.2,Patch,Medium,3.70442,72.75152,17_MV_197,Labridae,Hemigymnus_fasciatus,0.073,30
+WIO,Maldives,Alif_Alif,2017,8,5.2,Patch,Medium,3.70442,72.75152,17_MV_188,Lutjanidae,Lutjanus_kasmira,0.07,30
+WIO,Maldives,Alif_Alif,2017,8,5.2,Patch,Medium,3.70442,72.75152,17_MV_189,Lutjanidae,Lutjanus_kasmira,0.061,30
+WIO,Maldives,Alif_Alif,2017,8,5.2,Patch,Medium,3.70442,72.75152,17_MV_190,Lutjanidae,Lutjanus_kasmira,0.078,30
+WIO,Maldives,Alif_Alif,2017,8,5.2,Patch,Medium,3.70442,72.75152,17_MV_191,Lutjanidae,Lutjanus_kasmira,0.079,30
+WIO,Maldives,Alif_Alif,2017,8,5.2,Patch,Medium,3.70442,72.75152,17_MV_192,Lutjanidae,Lutjanus_kasmira,0.066,30
+WIO,Maldives,Alif_Alif,2017,8,5.2,Patch,Medium,3.70442,72.75152,17_MV_193,Lutjanidae,Lutjanus_kasmira,0.073,30
+WIO,Maldives,Alif_Alif,2017,8,5.2,Patch,Medium,3.70442,72.75152,17_MV_194,Lethrinidae,Monotaxis_grandoculis,0.16,30
+WIO,Maldives,Alif_Alif,2017,8,5.2,Patch,Medium,3.70442,72.75152,17_MV_195,Lethrinidae,Monotaxis_grandoculis,0.15,30
+WIO,Maldives,Alif_Alif,2017,8,5.2,Patch,Medium,3.70442,72.75152,17_MV_204,Labridae,Oxycheilinus_digramma,0.03,30
+WIO,Maldives,Alif_Alif,2017,15,6.1,Barrier_out,Exposed,3.69619,72.70399,17_MV_218,Pomacentridae,Dascyllus_trimaculatus,0.001,29
+WIO,Maldives,Alif_Alif,2017,15,6.1,Barrier_out,Exposed,3.69619,72.70399,17_MV_213,Lutjanidae,Lutjanus_kasmira,0.089,29
+WIO,Maldives,Alif_Alif,2017,15,6.1,Barrier_out,Exposed,3.69619,72.70399,17_MV_214,Lutjanidae,Lutjanus_kasmira,0.099,29
+WIO,Maldives,Alif_Alif,2017,15,6.1,Barrier_out,Exposed,3.69619,72.70399,17_MV_215,Lutjanidae,Lutjanus_kasmira,0.09,29
+WIO,Maldives,Alif_Alif,2017,15,6.1,Barrier_out,Exposed,3.69619,72.70399,17_MV_216,Zanclidae,Zanclus_cornutus,0.047,29
+WIO,Maldives,Alif_Alif,2017,15,6.1,Barrier_out,Exposed,3.69619,72.70399,17_MV_217,Zanclidae,Zanclus_cornutus,0.045,29
+WIO,Maldives,Alif_Alif,2017,8,6.2,Patch,Medium,3.66489,72.77417,17_MV_227,Tetraodontidae,Canthigaster_valentini,0.004,29
+WIO,Maldives,Alif_Alif,2017,8,6.2,Patch,Medium,3.66489,72.77417,17_MV_228,Tetraodontidae,Canthigaster_valentini,0.003,29
+WIO,Maldives,Alif_Alif,2017,8,6.2,Patch,Medium,3.66489,72.77417,17_MV_222,Chaetodontidae,Chaetodon_trifasciatus,0.015,29
+WIO,Maldives,Alif_Alif,2017,8,6.2,Patch,Medium,3.66489,72.77417,17_MV_223,Chaetodontidae,Chaetodon_trifasciatus,0.015,29
+WIO,Maldives,Alif_Alif,2017,8,6.2,Patch,Medium,3.66489,72.77417,17_MV_MORPHO_037,Chaetodontidae,Chaetodon_trifasciatus,0.013,29
+WIO,Maldives,Alif_Alif,2017,8,6.2,Patch,Medium,3.66489,72.77417,17_MV_226,Pomacentridae,Chromis_atripectoralis,0.005,29
+WIO,Maldives,Alif_Alif,2017,8,6.2,Patch,Medium,3.66489,72.77417,17_MV_220,Acanthuridae,Ctenochaetus_striatus,0.04,29
+WIO,Maldives,Alif_Alif,2017,8,6.2,Patch,Medium,3.66489,72.77417,17_MV_MORPHO_036,Acanthuridae,Ctenochaetus_striatus,0.031,29
+WIO,Maldives,Alif_Alif,2017,8,6.2,Patch,Medium,3.66489,72.77417,17_MV_221,Labridae,Halichoeres_hortulanus,0.1,29
+WIO,Maldives,Alif_Alif,2017,8,6.2,Patch,Medium,3.66489,72.77417,17_MV_219,Labridae,Hemigymnus_fasciatus,0.12,29
+WIO,Maldives,Alif_Alif,2017,8,6.2,Patch,Medium,3.66489,72.77417,17_MV_224,Monacanthidae,Oxymonacanthus_longirostris,0.002,29
+WIO,Maldives,Alif_Alif,2017,8,6.2,Patch,Medium,3.66489,72.77417,17_MV_225,Monacanthidae,Oxymonacanthus_longirostris,0.002,29
+WIO,Maldives,Vaavu,2017,15,7.1,Barrier_out,Exposed,3.63688,73.35851,17_MV_252,Pomacentridae,Amphiprion_clarkii,0.011,29
+WIO,Maldives,Vaavu,2017,15,7.1,Barrier_out,Exposed,3.63688,73.35851,17_MV_247,Pomacentridae,Chromis_weberi,0.017,29
+WIO,Maldives,Vaavu,2017,15,7.1,Barrier_out,Exposed,3.63688,73.35851,17_MV_248,Pomacentridae,Chromis_weberi,0.015,29
+WIO,Maldives,Vaavu,2017,15,7.1,Barrier_out,Exposed,3.63688,73.35851,17_MV_249,Pomacentridae,Chromis_weberi,0.015,29
+WIO,Maldives,Vaavu,2017,15,7.1,Barrier_out,Exposed,3.63688,73.35851,17_MV_MORPHO_046,Pomacentridae,Chromis_weberi,0.015,29
+WIO,Maldives,Vaavu,2017,15,7.1,Barrier_out,Exposed,3.63688,73.35851,17_MV_244,Pomacentridae,Dascyllus_carneus,0.012,29
+WIO,Maldives,Vaavu,2017,15,7.1,Barrier_out,Exposed,3.63688,73.35851,17_MV_245,Pomacentridae,Dascyllus_carneus,0.008,29
+WIO,Maldives,Vaavu,2017,15,7.1,Barrier_out,Exposed,3.63688,73.35851,17_MV_246,Pomacentridae,Dascyllus_carneus,0.007,29
+WIO,Maldives,Vaavu,2017,15,7.1,Barrier_out,Exposed,3.63688,73.35851,17_MV_631,Pomacentridae,Dascyllus_carneus,0.006,29
+WIO,Maldives,Vaavu,2017,15,7.1,Barrier_out,Exposed,3.63688,73.35851,17_MV_632,Pomacentridae,Dascyllus_carneus,0.009,29
+WIO,Maldives,Vaavu,2017,15,7.1,Barrier_out,Exposed,3.63688,73.35851,17_MV_633,Pomacentridae,Dascyllus_carneus,0.005,29
+WIO,Maldives,Vaavu,2017,15,7.1,Barrier_out,Exposed,3.63688,73.35851,17_MV_638,Pomacentridae,Dascyllus_carneus,0.005,29
+WIO,Maldives,Vaavu,2017,15,7.1,Barrier_out,Exposed,3.63688,73.35851,17_MV_232,Pomacentridae,Dascyllus_trimaculatus,0.024,29
+WIO,Maldives,Vaavu,2017,15,7.1,Barrier_out,Exposed,3.63688,73.35851,17_MV_233,Pomacentridae,Dascyllus_trimaculatus,0.01,29
+WIO,Maldives,Vaavu,2017,15,7.1,Barrier_out,Exposed,3.63688,73.35851,17_MV_235,Pomacentridae,Dascyllus_trimaculatus,0.01,29
+WIO,Maldives,Vaavu,2017,15,7.1,Barrier_out,Exposed,3.63688,73.35851,17_MV_243,Labridae,Gomphosus_caeruleus,0.01,29
+WIO,Maldives,Vaavu,2017,15,7.1,Barrier_out,Exposed,3.63688,73.35851,17_MV_637,Labridae,Gomphosus_caeruleus,0.012,29
+WIO,Maldives,Vaavu,2017,15,7.1,Barrier_out,Exposed,3.63688,73.35851,17_MV_229,Labridae,Halichoeres_hortulanus,0.07,29
+WIO,Maldives,Vaavu,2017,15,7.1,Barrier_out,Exposed,3.63688,73.35851,17_MV_230,Labridae,Halichoeres_hortulanus,0.13,29
+WIO,Maldives,Vaavu,2017,15,7.1,Barrier_out,Exposed,3.63688,73.35851,17_MV_231,Labridae,Halichoeres_hortulanus,0.03,29
+WIO,Maldives,Vaavu,2017,15,7.1,Barrier_out,Exposed,3.63688,73.35851,17_MV_MORPHO_040,Labridae,Halichoeres_hortulanus,0.015,29
+WIO,Maldives,Vaavu,2017,15,7.1,Barrier_out,Exposed,3.63688,73.35851,17_MV_234,Mullidae,Parupeneus_macronemus,0.03,29
+WIO,Maldives,Vaavu,2017,15,7.1,Barrier_out,Exposed,3.63688,73.35851,17_MV_239,Mullidae,Parupeneus_macronemus,0.02,29
+WIO,Maldives,Vaavu,2017,15,7.1,Barrier_out,Exposed,3.63688,73.35851,17_MV_240,Mullidae,Parupeneus_macronemus,0.02,29
+WIO,Maldives,Vaavu,2017,15,7.1,Barrier_out,Exposed,3.63688,73.35851,17_MV_634,Mullidae,Parupeneus_macronemus,0.015,29
+WIO,Maldives,Vaavu,2017,15,7.1,Barrier_out,Exposed,3.63688,73.35851,17_MV_MORPHO_041,Mullidae,Parupeneus_macronemus,0.015,29
+WIO,Maldives,Vaavu,2017,15,7.1,Barrier_out,Exposed,3.63688,73.35851,17_MV_MORPHO_042,Mullidae,Parupeneus_macronemus,0.015,29
+WIO,Maldives,Vaavu,2017,15,7.1,Barrier_out,Exposed,3.63688,73.35851,17_MV_236,Serranidae,Pseudanthias_squamipinnis,0.008,29
+WIO,Maldives,Vaavu,2017,15,7.1,Barrier_out,Exposed,3.63688,73.35851,17_MV_237,Serranidae,Pseudanthias_squamipinnis,0.009,29
+WIO,Maldives,Vaavu,2017,15,7.1,Barrier_out,Exposed,3.63688,73.35851,17_MV_238,Serranidae,Pseudanthias_squamipinnis,0.012,29
+WIO,Maldives,Vaavu,2017,15,7.1,Barrier_out,Exposed,3.63688,73.35851,17_MV_241,Serranidae,Pseudanthias_squamipinnis,0.015,29
+WIO,Maldives,Vaavu,2017,15,7.1,Barrier_out,Exposed,3.63688,73.35851,17_MV_242,Serranidae,Pseudanthias_squamipinnis,0.012,29
+WIO,Maldives,Vaavu,2017,15,7.1,Barrier_out,Exposed,3.63688,73.35851,17_MV_MORPHO_043,Serranidae,Pseudanthias_squamipinnis,0.008,29
+WIO,Maldives,Vaavu,2017,15,7.1,Barrier_out,Exposed,3.63688,73.35851,17_MV_MORPHO_044,Serranidae,Pseudanthias_squamipinnis,0.008,29
+WIO,Maldives,Vaavu,2017,15,7.1,Barrier_out,Exposed,3.63688,73.35851,17_MV_MORPHO_045,Serranidae,Pseudanthias_squamipinnis,0.006,29
+WIO,Maldives,Vaavu,2017,11,7.2,Patch,Medium,3.54887,73.4245,17_MV_285,Chaetodontidae,Chaetodon_trifasciatus,0.035,29
+WIO,Maldives,Vaavu,2017,11,7.2,Patch,Medium,3.54887,73.4245,17_MV_286,Chaetodontidae,Chaetodon_trifasciatus,0.028,29
+WIO,Maldives,Vaavu,2017,11,7.2,Patch,Medium,3.54887,73.4245,17_MV_MORPHO_053,Chaetodontidae,Chaetodon_trifasciatus,0.015,29
+WIO,Maldives,Vaavu,2017,11,7.2,Patch,Medium,3.54887,73.4245,17_MV_296,Pomacentridae,Chromis_atripectoralis,0.013,29
+WIO,Maldives,Vaavu,2017,11,7.2,Patch,Medium,3.54887,73.4245,17_MV_297,Pomacentridae,Chromis_atripectoralis,0.013,29
+WIO,Maldives,Vaavu,2017,11,7.2,Patch,Medium,3.54887,73.4245,17_MV_298,Pomacentridae,Chromis_atripectoralis,0.011,29
+WIO,Maldives,Vaavu,2017,11,7.2,Patch,Medium,3.54887,73.4245,17_MV_299,Pomacentridae,Dascyllus_aruanus,0.005,29
+WIO,Maldives,Vaavu,2017,11,7.2,Patch,Medium,3.54887,73.4245,17_MV_300,Pomacentridae,Dascyllus_aruanus,0.004,29
+WIO,Maldives,Vaavu,2017,11,7.2,Patch,Medium,3.54887,73.4245,17_MV_653,Pomacentridae,Dascyllus_aruanus,0.003,29
+WIO,Maldives,Vaavu,2017,11,7.2,Patch,Medium,3.54887,73.4245,17_MV_MORPHO_068,Pomacentridae,Dascyllus_aruanus,0.003,29
+WIO,Maldives,Vaavu,2017,11,7.2,Patch,Medium,3.54887,73.4245,17_MV_MORPHO_069,Pomacentridae,Dascyllus_aruanus,0.002,29
+WIO,Maldives,Vaavu,2017,11,7.2,Patch,Medium,3.54887,73.4245,17_MV_290,Labridae,Halichoeres_hortulanus,0.06,29
+WIO,Maldives,Vaavu,2017,11,7.2,Patch,Medium,3.54887,73.4245,17_MV_MORPHO_054,Labridae,Halichoeres_hortulanus,0.023,29
+WIO,Maldives,Vaavu,2017,11,7.2,Patch,Medium,3.54887,73.4245,17_MV_291,Mullidae,Parupeneus_macronemus,0.038,29
+WIO,Maldives,Vaavu,2017,11,7.2,Patch,Medium,3.54887,73.4245,17_MV_293,Caesionidae,Pterocaesio_pisang,0.025,29
+WIO,Maldives,Vaavu,2017,11,7.2,Patch,Medium,3.54887,73.4245,17_MV_295,Caesionidae,Pterocaesio_pisang,0.025,29
+WIO,Maldives,Vaavu,2017,11,7.2,Patch,Medium,3.54887,73.4245,17_MV_651,Caesionidae,Pterocaesio_pisang,0.02,29
+WIO,Maldives,Vaavu,2017,11,7.2,Patch,Medium,3.54887,73.4245,17_MV_MORPHO_059,Caesionidae,Pterocaesio_pisang,0.004,29
+WIO,Maldives,Vaavu,2017,11,7.2,Patch,Medium,3.54887,73.4245,17_MV_MORPHO_060,Caesionidae,Pterocaesio_pisang,0.015,29
+WIO,Maldives,Vaavu,2017,11,7.2,Patch,Medium,3.54887,73.4245,17_MV_MORPHO_061,Caesionidae,Pterocaesio_pisang,0.016,29
+WIO,Maldives,Vaavu,2017,11,7.2,Patch,Medium,3.54887,73.4245,17_MV_MORPHO_062,Caesionidae,Pterocaesio_pisang,0.015,29
+WIO,Maldives,Vaavu,2017,11,7.2,Patch,Medium,3.54887,73.4245,17_MV_MORPHO_063,Caesionidae,Pterocaesio_pisang,0.008,29
+WIO,Maldives,Vaavu,2017,11,7.2,Patch,Medium,3.54887,73.4245,17_MV_283,Zanclidae,Zanclus_cornutus,0.087,29
+WIO,Maldives,Vaavu,2017,11,7.2,Patch,Medium,3.54887,73.4245,17_MV_284,Zanclidae,Zanclus_cornutus,0.075,29
+WIO,Maldives,Vaavu,2017,8,7.3,Barrier_in,Exposed,3.45932,73.54491,17_MV_271,Pomacentridae,Amphiprion_clarkii,0.013,29
+WIO,Maldives,Vaavu,2017,8,7.3,Barrier_in,Exposed,3.45932,73.54491,17_MV_266,Tetraodontidae,Canthigaster_valentini,0.007,29
+WIO,Maldives,Vaavu,2017,8,7.3,Barrier_in,Exposed,3.45932,73.54491,17_MV_267,Tetraodontidae,Canthigaster_valentini,0.003,29
+WIO,Maldives,Vaavu,2017,8,7.3,Barrier_in,Exposed,3.45932,73.54491,17_MV_261,Chaetodontidae,Chaetodon_trifasciatus,0.02,29
+WIO,Maldives,Vaavu,2017,8,7.3,Barrier_in,Exposed,3.45932,73.54491,17_MV_269,Pomacentridae,Chromis_ternatensis,0.023,29
+WIO,Maldives,Vaavu,2017,8,7.3,Barrier_in,Exposed,3.45932,73.54491,17_MV_270,Pomacentridae,Chromis_ternatensis,0.023,29
+WIO,Maldives,Vaavu,2017,8,7.3,Barrier_in,Exposed,3.45932,73.54491,17_MV_MORPHO_051,Pomacentridae,Chromis_ternatensis,0.008,29
+WIO,Maldives,Vaavu,2017,8,7.3,Barrier_in,Exposed,3.45932,73.54491,17_MV_MORPHO_052,Pomacentridae,Chromis_ternatensis,0.008,29
+WIO,Maldives,Vaavu,2017,8,7.3,Barrier_in,Exposed,3.45932,73.54491,17_MV_256,Acanthuridae,Ctenochaetus_striatus,0.07,29
+WIO,Maldives,Vaavu,2017,8,7.3,Barrier_in,Exposed,3.45932,73.54491,17_MV_MORPHO_047,Acanthuridae,Ctenochaetus_striatus,0.05,29
+WIO,Maldives,Vaavu,2017,8,7.3,Barrier_in,Exposed,3.45932,73.54491,17_MV_MORPHO_050,Labridae,Gomphosus_caeruleus,0.004,29
+WIO,Maldives,Vaavu,2017,8,7.3,Barrier_in,Exposed,3.45932,73.54491,17_MV_262,Labridae,Halichoeres_hortulanus,0.06,29
+WIO,Maldives,Vaavu,2017,8,7.3,Barrier_in,Exposed,3.45932,73.54491,17_MV_MORPHO_048,Labridae,Halichoeres_hortulanus,0.022,29
+WIO,Maldives,Vaavu,2017,8,7.3,Barrier_in,Exposed,3.45932,73.54491,17_MV_253,Labridae,Hemigymnus_fasciatus,0.097,29
+WIO,Maldives,Vaavu,2017,8,7.3,Barrier_in,Exposed,3.45932,73.54491,17_MV_254,Labridae,Hemigymnus_fasciatus,0.019,29
+WIO,Maldives,Vaavu,2017,8,7.3,Barrier_in,Exposed,3.45932,73.54491,17_MV_274,Lethrinidae,Monotaxis_grandoculis,0.14,29
+WIO,Maldives,Vaavu,2017,8,7.3,Barrier_in,Exposed,3.45932,73.54491,17_MV_275,Lethrinidae,Monotaxis_grandoculis,0.144,29
+WIO,Maldives,Vaavu,2017,8,7.3,Barrier_in,Exposed,3.45932,73.54491,17_MV_276,Holocentridae,Myripristis_violacea,0.066,29
+WIO,Maldives,Vaavu,2017,8,7.3,Barrier_in,Exposed,3.45932,73.54491,17_MV_277,Holocentridae,Myripristis_violacea,0.074,29
+WIO,Maldives,Vaavu,2017,8,7.3,Barrier_in,Exposed,3.45932,73.54491,17_MV_278,Holocentridae,Myripristis_violacea,0.068,29
+WIO,Maldives,Vaavu,2017,8,7.3,Barrier_in,Exposed,3.45932,73.54491,17_MV_279,Holocentridae,Myripristis_violacea,0.063,29
+WIO,Maldives,Vaavu,2017,8,7.3,Barrier_in,Exposed,3.45932,73.54491,17_MV_280,Holocentridae,Myripristis_violacea,0.068,29
+WIO,Maldives,Vaavu,2017,8,7.3,Barrier_in,Exposed,3.45932,73.54491,17_MV_281,Holocentridae,Myripristis_violacea,0.098,29
+WIO,Maldives,Vaavu,2017,8,7.3,Barrier_in,Exposed,3.45932,73.54491,17_MV_282,Holocentridae,Myripristis_violacea,0.056,29
+WIO,Maldives,Vaavu,2017,8,7.3,Barrier_in,Exposed,3.45932,73.54491,17_MV_646,Holocentridae,Myripristis_violacea,0.052,29
+WIO,Maldives,Vaavu,2017,8,7.3,Barrier_in,Exposed,3.45932,73.54491,17_MV_647,Holocentridae,Myripristis_violacea,0.065,29
+WIO,Maldives,Vaavu,2017,8,7.3,Barrier_in,Exposed,3.45932,73.54491,17_MV_648,Holocentridae,Myripristis_violacea,0.099,29
+WIO,Maldives,Vaavu,2017,8,7.3,Barrier_in,Exposed,3.45932,73.54491,17_MV_257,Labridae,Oxycheilinus_digramma,0.1,29
+WIO,Maldives,Vaavu,2017,8,7.3,Barrier_in,Exposed,3.45932,73.54491,17_MV_258,Labridae,Oxycheilinus_digramma,0.04,29
+WIO,Maldives,Vaavu,2017,8,7.3,Barrier_in,Exposed,3.45932,73.54491,17_MV_259,Labridae,Oxycheilinus_digramma,0.034,29
+WIO,Maldives,Vaavu,2017,8,7.3,Barrier_in,Exposed,3.45932,73.54491,17_MV_263,Monacanthidae,Oxymonacanthus_longirostris,0.004,29
+WIO,Maldives,Vaavu,2017,8,7.3,Barrier_in,Exposed,3.45932,73.54491,17_MV_264,Monacanthidae,Oxymonacanthus_longirostris,0.005,29
+WIO,Maldives,Vaavu,2017,8,7.3,Barrier_in,Exposed,3.45932,73.54491,17_MV_265,Monacanthidae,Oxymonacanthus_longirostris,0.004,29
+WIO,Maldives,Vaavu,2017,8,7.3,Barrier_in,Exposed,3.45932,73.54491,17_MV_255,Pinguipedidae,Parapercis_hexophtalma,0.006,29
+WIO,Maldives,Vaavu,2017,8,7.3,Barrier_in,Exposed,3.45932,73.54491,17_MV_268,Mullidae,Parupeneus_macronemus,0.079,29
+WIO,Maldives,Vaavu,2017,8,7.3,Barrier_in,Exposed,3.45932,73.54491,17_MV_MORPHO_049,Mullidae,Parupeneus_macronemus,0.024,29
+WIO,Maldives,Vaavu,2017,8,7.3,Barrier_in,Exposed,3.45932,73.54491,17_MV_260,Zanclidae,Zanclus_cornutus,0.073,29
+WIO,Maldives,Vaavu,2017,14,8.1,Barrier_out,Exposed,3.48434,73.54733,17_MV_315,Pomacentridae,Amphiprion_clarkii,0.052,29
+WIO,Maldives,Vaavu,2017,14,8.1,Barrier_out,Exposed,3.48434,73.54733,17_MV_316,Pomacentridae,Amphiprion_clarkii,0.005,29
+WIO,Maldives,Vaavu,2017,14,8.1,Barrier_out,Exposed,3.48434,73.54733,17_MV_306,Tetraodontidae,Canthigaster_valentini,0.013,29
+WIO,Maldives,Vaavu,2017,14,8.1,Barrier_out,Exposed,3.48434,73.54733,17_MV_311,Chaetodontidae,Chaetodon_trifasciatus,0.032,29
+WIO,Maldives,Vaavu,2017,14,8.1,Barrier_out,Exposed,3.48434,73.54733,17_MV_313,Pomacentridae,Chromis_ternatensis,0.016,29
+WIO,Maldives,Vaavu,2017,14,8.1,Barrier_out,Exposed,3.48434,73.54733,17_MV_314,Pomacentridae,Chromis_ternatensis,0.013,29
+WIO,Maldives,Vaavu,2017,14,8.1,Barrier_out,Exposed,3.48434,73.54733,17_MV_MORPHO_072,Acanthuridae,Ctenochaetus_striatus,0.063,29
+WIO,Maldives,Vaavu,2017,14,8.1,Barrier_out,Exposed,3.48434,73.54733,17_MV_MORPHO_073,Acanthuridae,Ctenochaetus_striatus,0.061,29
+WIO,Maldives,Vaavu,2017,14,8.1,Barrier_out,Exposed,3.48434,73.54733,17_MV_MORPHO_074,Acanthuridae,Ctenochaetus_striatus,0.05,29
+WIO,Maldives,Vaavu,2017,14,8.1,Barrier_out,Exposed,3.48434,73.54733,17_MV_MORPHO_075,Acanthuridae,Ctenochaetus_striatus,0.032,29
+WIO,Maldives,Vaavu,2017,14,8.1,Barrier_out,Exposed,3.48434,73.54733,17_MV_308,Labridae,Gomphosus_caeruleus,0.036,29
+WIO,Maldives,Vaavu,2017,14,8.1,Barrier_out,Exposed,3.48434,73.54733,17_MV_309,Labridae,Gomphosus_caeruleus,0.013,29
+WIO,Maldives,Vaavu,2017,14,8.1,Barrier_out,Exposed,3.48434,73.54733,17_MV_310,Labridae,Gomphosus_caeruleus,0.01,29
+WIO,Maldives,Vaavu,2017,14,8.1,Barrier_out,Exposed,3.48434,73.54733,17_MV_307,Labridae,Hemigymnus_fasciatus,0.01,29
+WIO,Maldives,Vaavu,2017,14,8.1,Barrier_out,Exposed,3.48434,73.54733,17_MV_302,Monacanthidae,Oxymonacanthus_longirostris,0.008,29
+WIO,Maldives,Vaavu,2017,14,8.1,Barrier_out,Exposed,3.48434,73.54733,17_MV_303,Monacanthidae,Oxymonacanthus_longirostris,0.007,29
+WIO,Maldives,Vaavu,2017,14,8.1,Barrier_out,Exposed,3.48434,73.54733,17_MV_304,Monacanthidae,Oxymonacanthus_longirostris,0.007,29
+WIO,Maldives,Vaavu,2017,14,8.1,Barrier_out,Exposed,3.48434,73.54733,17_MV_305,Monacanthidae,Oxymonacanthus_longirostris,0.006,29
+WIO,Maldives,Vaavu,2017,14,8.1,Barrier_out,Exposed,3.48434,73.54733,17_MV_655,Monacanthidae,Oxymonacanthus_longirostris,0.005,29
+WIO,Maldives,Vaavu,2017,14,8.1,Barrier_out,Exposed,3.48434,73.54733,17_MV_MORPHO_070,Monacanthidae,Oxymonacanthus_longirostris,0.005,29
+WIO,Maldives,Vaavu,2017,14,8.1,Barrier_out,Exposed,3.48434,73.54733,17_MV_MORPHO_071,Mullidae,Parupeneus_macronemus,0.05,29
+WIO,Maldives,Vaavu,2017,14,8.1,Barrier_out,Exposed,3.48434,73.54733,17_MV_312,Zanclidae,Zanclus_cornutus,0.04,29
+WIO,Maldives,Vaavu,2017,12,8.2,Patch,Medium,3.64379,73.47171,17_MV_327,Pomacentridae,Dascyllus_aruanus,0.001,30
+WIO,Maldives,Vaavu,2017,12,8.2,Patch,Medium,3.64379,73.47171,17_MV_328,Pomacentridae,Dascyllus_aruanus,0.001,30
+WIO,Maldives,Vaavu,2017,12,8.2,Patch,Medium,3.64379,73.47171,17_MV_324,Pomacentridae,Dascyllus_carneus,0.003,30
+WIO,Maldives,Vaavu,2017,12,8.2,Patch,Medium,3.64379,73.47171,17_MV_325,Pomacentridae,Dascyllus_carneus,0.002,30
+WIO,Maldives,Vaavu,2017,12,8.2,Patch,Medium,3.64379,73.47171,17_MV_326,Pomacentridae,Dascyllus_trimaculatus,0.003,30
+WIO,Maldives,Vaavu,2017,12,8.2,Patch,Medium,3.64379,73.47171,17_MV_MORPHO_076,Labridae,Halichoeres_hortulanus,0.009,30
+WIO,Maldives,Vaavu,2017,12,8.2,Patch,Medium,3.64379,73.47171,17_MV_319,Labridae,Hemigymnus_fasciatus,0.053,30
+WIO,Maldives,Vaavu,2017,12,8.2,Patch,Medium,3.64379,73.47171,17_MV_321,Lethrinidae,Monotaxis_grandoculis,0.038,30
+WIO,Maldives,Vaavu,2017,12,8.2,Patch,Medium,3.64379,73.47171,17_MV_320,Labridae,Oxycheilinus_digramma,0.04,30
+WIO,Maldives,Vaavu,2017,12,8.2,Patch,Medium,3.64379,73.47171,17_MV_317,Pinguipedidae,Parapercis_hexophtalma,0.031,30
+WIO,Maldives,Vaavu,2017,12,8.2,Patch,Medium,3.64379,73.47171,17_MV_318,Pinguipedidae,Parapercis_hexophtalma,0.022,30
+WIO,Maldives,Kaafu,2017,15,9.1,Barrier_out,Exposed,4.2393,73.55457,17_MV_352,Pomacentridae,Amphiprion_clarkii,0.027,29
+WIO,Maldives,Kaafu,2017,15,9.1,Barrier_out,Exposed,4.2393,73.55457,17_MV_350,Acanthuridae,Ctenochaetus_striatus,0.06,29
+WIO,Maldives,Kaafu,2017,15,9.1,Barrier_out,Exposed,4.2393,73.55457,17_MV_345,Pomacentridae,Dascyllus_carneus,0.002,29
+WIO,Maldives,Kaafu,2017,15,9.1,Barrier_out,Exposed,4.2393,73.55457,17_MV_346,Pomacentridae,Dascyllus_carneus,0.006,29
+WIO,Maldives,Kaafu,2017,15,9.1,Barrier_out,Exposed,4.2393,73.55457,17_MV_347,Pomacentridae,Dascyllus_carneus,0.001,29
+WIO,Maldives,Kaafu,2017,15,9.1,Barrier_out,Exposed,4.2393,73.55457,17_MV_348,Labridae,Gomphosus_caeruleus,0.043,29
+WIO,Maldives,Kaafu,2017,15,9.1,Barrier_out,Exposed,4.2393,73.55457,17_MV_349,Labridae,Gomphosus_caeruleus,0.033,29
+WIO,Maldives,Kaafu,2017,15,9.1,Barrier_out,Exposed,4.2393,73.55457,17_MV_343,Mullidae,Parupeneus_macronemus,0.04,29
+WIO,Maldives,Kaafu,2017,15,9.1,Barrier_out,Exposed,4.2393,73.55457,17_MV_344,Serranidae,Pseudanthias_squamipinnis,0.01,29
+WIO,Maldives,Kaafu,2017,15,9.1,Barrier_out,Exposed,4.2393,73.55457,17_MV_341,Zanclidae,Zanclus_cornutus,0.063,29
+WIO,Maldives,Kaafu,2017,15,9.1,Barrier_out,Exposed,4.2393,73.55457,17_MV_342,Zanclidae,Zanclus_cornutus,0.076,29
+WIO,Maldives,Kaafu,2017,14,9.2,Patch,Medium,4.26638,73.53365,17_MV_338,Pomacentridae,Amphiprion_clarkii,0.022,29
+WIO,Maldives,Kaafu,2017,14,9.2,Patch,Medium,4.26638,73.53365,17_MV_333,Tetraodontidae,Canthigaster_valentini,0.015,29
+WIO,Maldives,Kaafu,2017,14,9.2,Patch,Medium,4.26638,73.53365,17_MV_334,Tetraodontidae,Canthigaster_valentini,0.004,29
+WIO,Maldives,Kaafu,2017,14,9.2,Patch,Medium,4.26638,73.53365,17_MV_335,Pomacentridae,Chromis_weberi,0.01,29
+WIO,Maldives,Kaafu,2017,14,9.2,Patch,Medium,4.26638,73.53365,17_MV_336,Pomacentridae,Dascyllus_carneus,0.002,29
+WIO,Maldives,Kaafu,2017,14,9.2,Patch,Medium,4.26638,73.53365,17_MV_337,Pomacentridae,Dascyllus_carneus,0.002,29
+WIO,Maldives,Kaafu,2017,14,9.2,Patch,Medium,4.26638,73.53365,17_MV_332,Acanthuridae,Naso_brevirostris,0.18,29
+WIO,Maldives,Alif_Alif,2017,NA,Fishing_trip,Barrier_out,Exposed,NA,NA,17_MV_068,Carangidae,Caranx_melampygus,0.52,29
+WIO,Maldives,Alif_Alif,2017,NA,Fishing_trip,Barrier_out,Exposed,NA,NA,17_MV_069,Carangidae,Caranx_melampygus,0.695,29
+WIO,Mayotte,North,2016,9.3,Site_0,Fringing,Sheltered,12.71883333,45.043,16_MY_075,Pomacentridae,Amphiprion_akallopisos,20.87,24.2
+WIO,Mayotte,North,2016,9.3,Site_0,Fringing,Sheltered,12.71883333,45.043,16_MY_085,Pomacentridae,Amphiprion_akallopisos,26.72,24.2
+WIO,Mayotte,North,2016,9.3,Site_0,Fringing,Sheltered,12.71883333,45.043,16_MY_091,Pomacentridae,Amphiprion_akallopisos,6.5,24.2
+WIO,Mayotte,North,2016,9.3,Site_0,Fringing,Sheltered,12.71883333,45.043,16_MY_097,Pomacentridae,Amphiprion_akallopisos,4.26,24.2
+WIO,Mayotte,North,2016,9.3,Site_0,Fringing,Sheltered,12.71883333,45.043,16_MY_103,Pomacentridae,Amphiprion_akallopisos,6.1,24.2
+WIO,Mayotte,North,2016,9.3,Site_0,Fringing,Sheltered,12.71883333,45.043,16_MY_120,Pomacentridae,Amphiprion_akallopisos,8,24.2
+WIO,Mayotte,North,2016,9.3,Site_0,Fringing,Sheltered,12.71883333,45.043,16_MY_131,Pomacentridae,Amphiprion_akallopisos,5.16,24.2
+WIO,Mayotte,North,2016,12,Site_0,Fringing,Sheltered,12.71883333,45.04283333,16_MY_403,Pomacentridae,Amphiprion_akallopisos,5.28,25
+WIO,Mayotte,North,2016,12,Site_0,Fringing,Sheltered,12.71883333,45.04283333,16_MY_428,Pomacentridae,Amphiprion_akallopisos,14.38,25
+WIO,Mayotte,North,2016,12,Site_0,Fringing,Sheltered,12.71883333,45.04283333,16_MY_429,Pomacentridae,Amphiprion_akallopisos,20.6,25
+WIO,Mayotte,North,2016,12,Site_0,Fringing,Sheltered,12.71883333,45.04283333,16_MY_433,Pomacentridae,Amphiprion_akallopisos,7.1,25
+WIO,Mayotte,South_west,2016,10,Site_3,Barrier_in,Exposed,12.905,44.9715,16_MY_319,Pomacentridae,Amphiprion_akallopisos,18.11,25.1
+WIO,Mayotte,South_west,2016,10,Site_3,Barrier_in,Exposed,12.905,44.9715,16_MY_329,Pomacentridae,Amphiprion_akallopisos,8.9,25.1
+WIO,Mayotte,South_west,2016,10,Site_3,Barrier_in,Exposed,12.90483333,44.97133333,16_MY_478,Pomacentridae,Amphiprion_akallopisos,2.09,25.1
+WIO,Mayotte,South_west,2016,10,Site_3,Barrier_in,Exposed,12.90483333,44.97133333,16_MY_507,Pomacentridae,Amphiprion_akallopisos,18.03,25.1
+WIO,Mayotte,South_west,2016,10,Site_3,Barrier_in,Exposed,12.90483333,44.97133333,16_MY_508,Pomacentridae,Amphiprion_akallopisos,4.8,25.1
+WIO,Mayotte,South_west,2016,8,Site_5,Fringing,Sheltered,12.89816667,45.0695,16_MY_790,Pomacentridae,Amphiprion_akallopisos,13.94,26.5
+WIO,Mayotte,South_west,2016,8,Site_5,Fringing,Sheltered,12.89816667,45.0695,16_MY_791,Pomacentridae,Amphiprion_akallopisos,17.22,26.5
+WIO,Mayotte,South_west,2016,8,Site_5,Fringing,Sheltered,12.89816667,45.0695,16_MY_792,Pomacentridae,Amphiprion_akallopisos,0.94,26.5
+WIO,Mayotte,South_west,2016,8,Site_5,Fringing,Sheltered,12.89816667,45.0695,16_MY_793,Pomacentridae,Amphiprion_akallopisos,5.97,26.5
+WIO,Mayotte,South_west,2016,8,Site_5,Fringing,Sheltered,12.89816667,45.0695,16_MY_794,Pomacentridae,Amphiprion_akallopisos,7,26.5
+WIO,Mayotte,South_west,2016,8,Site_5,Fringing,Sheltered,12.89616667,45.07183333,16_MY_197,Pomacentridae,Amphiprion_akallopisos,20.5,24.4
+WIO,Mayotte,South_west,2016,8,Site_5,Fringing,Sheltered,12.89616667,45.07183333,16_MY_207,Pomacentridae,Amphiprion_akallopisos,2.9,24.4
+WIO,Mayotte,South_east,2016,6,Site_7,Fringing,Sheltered,12.919,45.20816667,16_MY_759,Pomacentridae,Amphiprion_akallopisos,6.7,26
+WIO,Mayotte,South_east,2016,6,Site_7,Fringing,Sheltered,12.919,45.20816667,16_MY_760,Pomacentridae,Amphiprion_akallopisos,16.73,26
+WIO,Mayotte,South_east,2016,6,Site_7,Fringing,Sheltered,12.919,45.20816667,16_MY_783,Pomacentridae,Amphiprion_akallopisos,1.47,26
+WIO,Mayotte,South_east,2016,6,Site_7,Fringing,Sheltered,12.919,45.20816667,16_MY_784,Pomacentridae,Amphiprion_akallopisos,8.77,26
+WIO,Mayotte,South_east,2016,6,Site_7,Fringing,Sheltered,12.919,45.20816667,16_MY_785,Pomacentridae,Amphiprion_akallopisos,8.81,26
+WIO,Mayotte,South_west,2016,6.2,Site_9,Patch,Medium,12.94116667,45.06416667,16_MY_003,Pomacentridae,Amphiprion_akallopisos,11.92,24.4
+WIO,Mayotte,South_west,2016,6.2,Site_9,Patch,Medium,12.94116667,45.06416667,16_MY_005,Pomacentridae,Amphiprion_akallopisos,1.29,24.4
+WIO,Mayotte,South_west,2016,7,Site_9,Patch,Medium,12.94116667,45.06416667,16_MY_292,Pomacentridae,Amphiprion_akallopisos,1.74,24.8
+WIO,Mayotte,North,2016,7,Site_0,Fringing,Sheltered,12.7185,46.04316667,16_MY_667,Tetraodontidae,Canthigaster_valentini,5.36,24.6
+WIO,Mayotte,North,2016,7,Site_0,Fringing,Sheltered,12.7185,46.04316667,16_MY_687,Tetraodontidae,Canthigaster_valentini,11.1,24.6
+WIO,Mayotte,North,2016,7,Site_0,Fringing,Sheltered,12.7185,46.04316667,16_MY_691,Tetraodontidae,Canthigaster_valentini,7.19,24.6
+WIO,Mayotte,North,2016,7,Site_0,Fringing,Sheltered,12.7185,46.04316667,16_MY_700,Tetraodontidae,Canthigaster_valentini,8.51,24.6
+WIO,Mayotte,North,2016,10,Site_12,Barrier_out,Exposed,12.62266667,45.15883333,16_MY_533,Tetraodontidae,Canthigaster_valentini,15.09,26
+WIO,Mayotte,North,2016,10,Site_12,Barrier_out,Exposed,12.62266667,45.15883333,16_MY_537,Tetraodontidae,Canthigaster_valentini,21.4,26
+WIO,Mayotte,North,2016,10,Site_12,Barrier_out,Exposed,12.62266667,45.15883333,16_MY_562,Tetraodontidae,Canthigaster_valentini,13.32,26
+WIO,Mayotte,South_east,2016,7,Site_2,Barrier_in,Exposed,12.95033333,45.2145,16_MY_904,Tetraodontidae,Canthigaster_valentini,14.65,25.2
+WIO,Mayotte,South_east,2016,7,Site_2,Barrier_in,Exposed,12.95016667,45.21433333,16_MY_635,Tetraodontidae,Canthigaster_valentini,10.49,26
+WIO,Mayotte,South_east,2016,7,Site_2,Barrier_in,Exposed,12.95016667,45.21433333,16_MY_636,Tetraodontidae,Canthigaster_valentini,4.4,26
+WIO,Mayotte,South_east,2016,7,Site_2,Barrier_in,Exposed,12.95016667,45.21433333,16_MY_637,Tetraodontidae,Canthigaster_valentini,4,26
+WIO,Mayotte,South_east,2016,7,Site_2,Barrier_in,Exposed,12.95016667,45.21433333,16_MY_638,Tetraodontidae,Canthigaster_valentini,9.04,26
+WIO,Mayotte,South_east,2016,7,Site_2,Barrier_in,Exposed,12.95016667,45.21433333,16_MY_644,Tetraodontidae,Canthigaster_valentini,6.08,26
+WIO,Mayotte,South_west,2016,10,Site_3,Barrier_in,Exposed,12.90483333,44.97133333,16_MY_470,Tetraodontidae,Canthigaster_valentini,9.65,25.1
+WIO,Mayotte,South_west,2016,10,Site_3,Barrier_in,Exposed,12.90483333,44.97133333,16_MY_489,Tetraodontidae,Canthigaster_valentini,20.3,25.1
+WIO,Mayotte,South_west,2016,8,Site_5,Fringing,Sheltered,12.89816667,45.0695,16_MY_806,Tetraodontidae,Canthigaster_valentini,10.62,26.5
+WIO,Mayotte,South_west,2016,9.7,Site_5,Fringing,Sheltered,12.89616667,45.072,16_MY_165,Tetraodontidae,Canthigaster_valentini,9.92,23.8
+WIO,Mayotte,South_west,2016,9,Site_9,Patch,Medium,12.94083333,45.0645,16_MY_874,Tetraodontidae,Canthigaster_valentini,17.35,25.4
+WIO,Mayotte,South_west,2016,9,Site_9,Patch,Medium,12.94083333,45.0645,16_MY_875,Tetraodontidae,Canthigaster_valentini,8.93,25.4
+WIO,Mayotte,South_west,2016,9,Site_9,Patch,Medium,12.94083333,45.0645,16_MY_876,Tetraodontidae,Canthigaster_valentini,7.9,25.4
+WIO,Mayotte,South_west,2016,5,Site_9,Patch,Medium,12.94116667,45.06416667,Morpho_16_MY_027,Tetraodontidae,Canthigaster_valentini,7.38,24.7
+WIO,Mayotte,North,2016,9.3,Site_0,Fringing,Sheltered,12.71883333,45.043,16_MY_104,Chaetodontidae,Chaetodon_trifasciatus,22.18,24.2
+WIO,Mayotte,North,2016,9.3,Site_0,Fringing,Sheltered,12.71883333,45.043,16_MY_132,Chaetodontidae,Chaetodon_trifasciatus,12.75,24.2
+WIO,Mayotte,North,2016,12,Site_0,Fringing,Sheltered,12.71883333,45.04283333,16_MY_401,Chaetodontidae,Chaetodon_trifasciatus,6.14,25
+WIO,Mayotte,North,2016,7,Site_0,Fringing,Sheltered,12.7185,46.04316667,16_MY_675,Chaetodontidae,Chaetodon_trifasciatus,12.56,24.6
+WIO,Mayotte,North,2016,7,Site_0,Fringing,Sheltered,12.7185,46.04316667,16_MY_676,Chaetodontidae,Chaetodon_trifasciatus,7.22,24.6
+WIO,Mayotte,North,2016,7,Site_0,Fringing,Sheltered,12.7185,46.04316667,16_MY_688,Chaetodontidae,Chaetodon_trifasciatus,16.22,24.6
+WIO,Mayotte,North,2016,5,Site_11,Patch,Medium,12.63783333,45.12916667,16_MY_831,Chaetodontidae,Chaetodon_trifasciatus,42.73,24.3
+WIO,Mayotte,North,2016,5,Site_11,Patch,Medium,12.63783333,45.12916667,16_MY_832,Chaetodontidae,Chaetodon_trifasciatus,35.02,24.3
+WIO,Mayotte,North,2016,5,Site_11,Patch,Medium,12.63783333,45.12916667,16_MY_833,Chaetodontidae,Chaetodon_trifasciatus,41.08,24.3
+WIO,Mayotte,North,2016,3,Site_11,Patch,Medium,12.63766667,45.12916667,16_MY_705,Chaetodontidae,Chaetodon_trifasciatus,26.79,25
+WIO,Mayotte,North,2016,10,Site_12,Barrier_out,Exposed,12.62266667,45.15883333,16_MY_522,Chaetodontidae,Chaetodon_trifasciatus,41.12,26
+WIO,Mayotte,North,2016,10,Site_12,Barrier_out,Exposed,12.62266667,45.15883333,16_MY_523,Chaetodontidae,Chaetodon_trifasciatus,49.09,26
+WIO,Mayotte,North,2016,10,Site_12,Barrier_out,Exposed,12.62266667,45.15883333,16_MY_524,Chaetodontidae,Chaetodon_trifasciatus,40.26,26
+WIO,Mayotte,South_east,2016,7,Site_2,Barrier_in,Exposed,12.95083333,45.215,16_MY_930,Chaetodontidae,Chaetodon_trifasciatus,38.58,25.2
+WIO,Mayotte,South_east,2016,7,Site_2,Barrier_in,Exposed,12.95016667,45.21433333,16_MY_597,Chaetodontidae,Chaetodon_trifasciatus,35.98,26
+WIO,Mayotte,South_west,2016,18.4,Site_3,Barrier_out,Exposed,12.91283333,44.96166667,16_MY_058,Chaetodontidae,Chaetodon_trifasciatus,38.75,26.2
+WIO,Mayotte,South_west,2016,10,Site_3,Barrier_in,Exposed,12.905,44.9715,16_MY_346,Chaetodontidae,Chaetodon_trifasciatus,35.95,25.1
+WIO,Mayotte,South_west,2016,10,Site_3,Barrier_out,Exposed,12.91233333,44.962,16_MY_439,Chaetodontidae,Chaetodon_trifasciatus,40.48,25.1
+WIO,Mayotte,South_west,2016,10,Site_3,Barrier_out,Exposed,12.91233333,44.962,16_MY_444,Chaetodontidae,Chaetodon_trifasciatus,35.9,25.1
+WIO,Mayotte,South_west,2016,10,Site_3,Barrier_in,Exposed,12.90483333,44.97133333,16_MY_472,Chaetodontidae,Chaetodon_trifasciatus,33.14,25.1
+WIO,Mayotte,South_west,2016,10,Site_3,Barrier_in,Exposed,12.90483333,44.97133333,16_MY_484,Chaetodontidae,Chaetodon_trifasciatus,14.93,25.1
+WIO,Mayotte,South_west,2016,8,Site_5,Fringing,Sheltered,12.89816667,45.0695,16_MY_805,Chaetodontidae,Chaetodon_trifasciatus,21.57,26.5
+WIO,Mayotte,South_west,2016,8,Site_5,Fringing,Sheltered,12.89616667,45.07183333,16_MY_198,Chaetodontidae,Chaetodon_trifasciatus,25.3,24.4
+WIO,Mayotte,South_east,2016,5,Site_7,Fringing,Sheltered,12.91916667,45.20833333,16_MY_362,Chaetodontidae,Chaetodon_trifasciatus,41.38,25.2
+WIO,Mayotte,South_east,2016,5,Site_7,Fringing,Sheltered,12.91916667,45.20833333,16_MY_369,Chaetodontidae,Chaetodon_trifasciatus,42.16,25.2
+WIO,Mayotte,South_east,2016,5,Site_7,Fringing,Sheltered,12.91916667,45.20833333,16_MY_372,Chaetodontidae,Chaetodon_trifasciatus,40.48,25.2
+WIO,Mayotte,South_east,2016,6,Site_7,Fringing,Sheltered,12.919,45.20816667,16_MY_762,Chaetodontidae,Chaetodon_trifasciatus,43.59,26
+WIO,Mayotte,South_east,2016,6,Site_7,Fringing,Sheltered,12.919,45.20816667,16_MY_777,Chaetodontidae,Chaetodon_trifasciatus,25.13,26
+WIO,Mayotte,South_west,2016,9,Site_9,Patch,Medium,12.94083333,45.0645,16_MY_848,Chaetodontidae,Chaetodon_trifasciatus,28.48,25.4
+WIO,Mayotte,South_west,2016,9,Site_9,Patch,Medium,12.94083333,45.0645,16_MY_858,Chaetodontidae,Chaetodon_trifasciatus,21.04,25.4
+WIO,Mayotte,South_west,2016,5,Site_9,Patch,Medium,12.94116667,45.06416667,Morpho_16_MY_009,Chaetodontidae,Chaetodon_trifasciatus,20.48,24.7
+WIO,Mayotte,South_west,2016,7,Site_9,Patch,Medium,12.94116667,45.06416667,16_MY_280,Chaetodontidae,Chaetodon_trifasciatus,23.7,24.8
+WIO,Mayotte,North,2016,7,Site_0,Fringing,Sheltered,12.7185,46.04316667,16_MY_689,Pomacentridae,Chromis_atripectoralis,13.37,24.6
+WIO,Mayotte,North,2016,5,Site_11,Patch,Medium,12.63783333,45.12916667,16_MY_845,Pomacentridae,Chromis_atripectoralis,15.7,24.3
+WIO,Mayotte,North,2016,3,Site_11,Patch,Medium,12.63766667,45.12916667,16_MY_725,Pomacentridae,Chromis_atripectoralis,16.74,25
+WIO,Mayotte,North,2016,3,Site_11,Patch,Medium,12.63766667,45.12916667,16_MY_731,Pomacentridae,Chromis_atripectoralis,21.14,25
+WIO,Mayotte,North,2016,3,Site_11,Patch,Medium,12.63766667,45.12916667,16_MY_732,Pomacentridae,Chromis_atripectoralis,11.47,25
+WIO,Mayotte,North,2016,3,Site_11,Patch,Medium,12.63766667,45.12916667,16_MY_733,Pomacentridae,Chromis_atripectoralis,12.2,25
+WIO,Mayotte,North,2016,3,Site_11,Patch,Medium,12.63766667,45.12916667,16_MY_734,Pomacentridae,Chromis_atripectoralis,12.55,25
+WIO,Mayotte,North,2016,3,Site_11,Patch,Medium,12.63766667,45.12916667,16_MY_735,Pomacentridae,Chromis_atripectoralis,21.18,25
+WIO,Mayotte,South_east,2016,7,Site_2,Barrier_in,Exposed,12.95016667,45.21433333,16_MY_894,Pomacentridae,Chromis_atripectoralis,4.88,25.2
+WIO,Mayotte,South_east,2016,7,Site_2,Barrier_in,Exposed,12.95016667,45.21433333,16_MY_897,Pomacentridae,Chromis_atripectoralis,15.76,25.2
+WIO,Mayotte,South_east,2016,7,Site_2,Barrier_in,Exposed,12.95116667,45.21533333,16_MY_953,Pomacentridae,Chromis_atripectoralis,5.47,25.2
+WIO,Mayotte,South_east,2016,7,Site_2,Barrier_in,Exposed,12.95116667,45.21533333,16_MY_956,Pomacentridae,Chromis_atripectoralis,5.05,25.2
+WIO,Mayotte,South_east,2016,7,Site_2,Barrier_in,Exposed,12.95133333,45.2155,16_MY_958,Pomacentridae,Chromis_atripectoralis,3.29,25.2
+WIO,Mayotte,South_east,2016,7,Site_2,Barrier_in,Exposed,12.95133333,45.2155,16_MY_959,Pomacentridae,Chromis_atripectoralis,3.05,25.2
+WIO,Mayotte,South_east,2016,7,Site_2,Barrier_in,Exposed,12.95133333,45.2155,16_MY_960,Pomacentridae,Chromis_atripectoralis,3.8,25.2
+WIO,Mayotte,South_east,2016,7,Site_2,Barrier_in,Exposed,12.95133333,45.2155,16_MY_961,Pomacentridae,Chromis_atripectoralis,3.41,25.2
+WIO,Mayotte,South_east,2016,7,Site_2,Barrier_in,Exposed,12.95133333,45.2155,16_MY_962,Pomacentridae,Chromis_atripectoralis,6.48,25.2
+WIO,Mayotte,South_east,2016,7,Site_2,Barrier_in,Exposed,12.95133333,45.2155,16_MY_965,Pomacentridae,Chromis_atripectoralis,4.25,25.2
+WIO,Mayotte,South_east,2016,7,Site_2,Barrier_in,Exposed,12.95016667,45.21433333,16_MY_602,Pomacentridae,Chromis_atripectoralis,19.56,26
+WIO,Mayotte,South_east,2016,7,Site_2,Barrier_in,Exposed,12.95016667,45.21433333,16_MY_603,Pomacentridae,Chromis_atripectoralis,21.39,26
+WIO,Mayotte,South_east,2016,7,Site_2,Barrier_in,Exposed,12.95016667,45.21433333,16_MY_647,Pomacentridae,Chromis_atripectoralis,17.06,26
+WIO,Mayotte,South_east,2016,7,Site_2,Barrier_in,Exposed,12.95016667,45.21433333,16_MY_648,Pomacentridae,Chromis_atripectoralis,18.25,26
+WIO,Mayotte,South_east,2016,7,Site_2,Barrier_in,Exposed,12.95016667,45.21433333,16_MY_649,Pomacentridae,Chromis_atripectoralis,12.14,26
+WIO,Mayotte,South_east,2016,7,Site_2,Barrier_in,Exposed,12.95016667,45.21433333,16_MY_651,Pomacentridae,Chromis_atripectoralis,19.48,26
+WIO,Mayotte,South_west,2016,9.7,Site_5,Fringing,Sheltered,12.89616667,45.072,16_MY_158,Pomacentridae,Chromis_atripectoralis,20.28,23.8
+WIO,Mayotte,South_west,2016,8,Site_5,Fringing,Sheltered,12.89616667,45.07183333,16_MY_204,Pomacentridae,Chromis_atripectoralis,19.8,24.4
+WIO,Mayotte,South_east,2016,5,Site_7,Fringing,Sheltered,12.91916667,45.20833333,16_MY_384,Pomacentridae,Chromis_atripectoralis,8.3,25.2
+WIO,Mayotte,South_east,2016,5,Site_7,Fringing,Sheltered,12.91916667,45.20833333,16_MY_389,Pomacentridae,Chromis_atripectoralis,14.3,25.2
+WIO,Mayotte,South_east,2016,6,Site_7,Fringing,Sheltered,12.919,45.20816667,16_MY_756,Pomacentridae,Chromis_atripectoralis,13.17,26
+WIO,Mayotte,South_east,2016,6,Site_7,Fringing,Sheltered,12.919,45.20816667,16_MY_758,Pomacentridae,Chromis_atripectoralis,2.8,26
+WIO,Mayotte,South_west,2016,9,Site_9,Patch,Medium,12.94083333,45.0645,16_MY_856,Pomacentridae,Chromis_atripectoralis,19.03,25.4
+WIO,Mayotte,South_west,2016,9,Site_9,Patch,Medium,12.94083333,45.0645,16_MY_857,Pomacentridae,Chromis_atripectoralis,10.93,25.4
+WIO,Mayotte,South_west,2016,9,Site_9,Patch,Medium,12.94083333,45.0645,16_MY_859,Pomacentridae,Chromis_atripectoralis,17.99,25.4
+WIO,Mayotte,South_west,2016,9,Site_9,Patch,Medium,12.94083333,45.0645,16_MY_863,Pomacentridae,Chromis_atripectoralis,15.2,25.4
+WIO,Mayotte,South_west,2016,9,Site_9,Patch,Medium,12.94083333,45.0645,16_MY_870,Pomacentridae,Chromis_atripectoralis,19.13,25.4
+WIO,Mayotte,South_west,2016,9,Site_9,Patch,Medium,12.94083333,45.0645,16_MY_871,Pomacentridae,Chromis_atripectoralis,15.42,25.4
+WIO,Mayotte,South_west,2016,9,Site_9,Patch,Medium,12.94083333,45.0645,16_MY_872,Pomacentridae,Chromis_atripectoralis,16.21,25.4
+WIO,Mayotte,South_west,2016,9,Site_9,Patch,Medium,12.94083333,45.0645,16_MY_888,Pomacentridae,Chromis_atripectoralis,16.86,25.4
+WIO,Mayotte,South_west,2016,5,Site_9,Patch,Medium,12.94116667,45.06416667,Morpho_16_MY_016,Pomacentridae,Chromis_atripectoralis,13.3,24.7
+WIO,Mayotte,South_west,2016,5,Site_9,Patch,Medium,12.94116667,45.06416667,Morpho_16_MY_017,Pomacentridae,Chromis_atripectoralis,17.34,24.7
+WIO,Mayotte,South_west,2016,5,Site_9,Patch,Medium,12.94116667,45.06416667,Morpho_16_MY_018,Pomacentridae,Chromis_atripectoralis,9.56,24.7
+WIO,Mayotte,South_west,2016,5,Site_9,Patch,Medium,12.94116667,45.06416667,Morpho_16_MY_026,Pomacentridae,Chromis_atripectoralis,4.31,24.7
+WIO,Mayotte,South_west,2016,7,Site_9,Patch,Medium,12.94116667,45.06416667,16_MY_253,Pomacentridae,Chromis_atripectoralis,13.93,24.8
+WIO,Mayotte,South_west,2016,7,Site_9,Patch,Medium,12.94116667,45.06416667,16_MY_254,Pomacentridae,Chromis_atripectoralis,16.96,24.8
+WIO,Mayotte,South_west,2016,7,Site_9,Patch,Medium,12.94116667,45.06416667,16_MY_255,Pomacentridae,Chromis_atripectoralis,15.6,24.8
+WIO,Mayotte,South_west,2016,7,Site_9,Patch,Medium,12.94116667,45.06416667,16_MY_256,Pomacentridae,Chromis_atripectoralis,14.4,24.8
+WIO,Mayotte,South_west,2016,7,Site_9,Patch,Medium,12.94116667,45.06416667,16_MY_257,Pomacentridae,Chromis_atripectoralis,4.32,24.8
+WIO,Mayotte,South_west,2016,7,Site_9,Patch,Medium,12.94116667,45.06416667,16_MY_258,Pomacentridae,Chromis_atripectoralis,16.11,24.8
+WIO,Mayotte,South_west,2016,7,Site_9,Patch,Medium,12.94116667,45.06416667,16_MY_259,Pomacentridae,Chromis_atripectoralis,15.78,24.8
+WIO,Mayotte,South_west,2016,7,Site_9,Patch,Medium,12.94116667,45.06416667,16_MY_260,Pomacentridae,Chromis_atripectoralis,16.29,24.8
+WIO,Mayotte,South_west,2016,7,Site_9,Patch,Medium,12.94116667,45.06416667,16_MY_273,Pomacentridae,Chromis_atripectoralis,11.05,24.8
+WIO,Mayotte,South_west,2016,7,Site_9,Patch,Medium,12.94116667,45.06416667,16_MY_274,Pomacentridae,Chromis_atripectoralis,11.3,24.8
+WIO,Mayotte,South_west,2016,7,Site_9,Patch,Medium,12.94116667,45.06416667,16_MY_275,Pomacentridae,Chromis_atripectoralis,15.4,24.8
+WIO,Mayotte,North,2016,9.3,Site_0,Fringing,Sheltered,12.71883333,45.043,16_MY_071,Pomacentridae,Chromis_ternatensis,17.1,24.2
+WIO,Mayotte,North,2016,9.3,Site_0,Fringing,Sheltered,12.71883333,45.043,16_MY_073,Pomacentridae,Chromis_ternatensis,18.17,24.2
+WIO,Mayotte,North,2016,9.3,Site_0,Fringing,Sheltered,12.71883333,45.043,16_MY_114,Pomacentridae,Chromis_ternatensis,22.72,24.2
+WIO,Mayotte,North,2016,9.3,Site_0,Fringing,Sheltered,12.71883333,45.043,16_MY_122,Pomacentridae,Chromis_ternatensis,17.36,24.2
+WIO,Mayotte,North,2016,7,Site_0,Fringing,Sheltered,12.7185,46.04316667,16_MY_698,Pomacentridae,Chromis_ternatensis,11.35,24.6
+WIO,Mayotte,South_east,2016,7,Site_2,Barrier_in,Exposed,12.95033333,45.2145,16_MY_903,Pomacentridae,Chromis_ternatensis,13.02,25.2
+WIO,Mayotte,South_east,2016,7,Site_2,Barrier_in,Exposed,12.95033333,45.2145,16_MY_905,Pomacentridae,Chromis_ternatensis,18.49,25.2
+WIO,Mayotte,South_east,2016,7,Site_2,Barrier_in,Exposed,12.95083333,45.215,16_MY_931,Pomacentridae,Chromis_ternatensis,16.65,25.2
+WIO,Mayotte,South_east,2016,7,Site_2,Barrier_in,Exposed,12.95083333,45.215,16_MY_932,Pomacentridae,Chromis_ternatensis,11.02,25.2
+WIO,Mayotte,South_east,2016,7,Site_2,Barrier_in,Exposed,12.95083333,45.215,16_MY_933,Pomacentridae,Chromis_ternatensis,19.14,25.2
+WIO,Mayotte,South_east,2016,7,Site_2,Barrier_in,Exposed,12.95083333,45.215,16_MY_934,Pomacentridae,Chromis_ternatensis,16.9,25.2
+WIO,Mayotte,South_east,2016,7,Site_2,Barrier_in,Exposed,12.95083333,45.215,16_MY_935,Pomacentridae,Chromis_ternatensis,19.2,25.2
+WIO,Mayotte,South_east,2016,7,Site_2,Barrier_in,Exposed,12.951,45.21516667,16_MY_947,Pomacentridae,Chromis_ternatensis,5.81,25.2
+WIO,Mayotte,South_east,2016,7,Site_2,Barrier_in,Exposed,12.95116667,45.21533333,16_MY_948,Pomacentridae,Chromis_ternatensis,10.66,25.2
+WIO,Mayotte,South_east,2016,7,Site_2,Barrier_in,Exposed,12.95116667,45.21533333,16_MY_949,Pomacentridae,Chromis_ternatensis,13.91,25.2
+WIO,Mayotte,South_east,2016,7,Site_2,Barrier_in,Exposed,12.95116667,45.21533333,16_MY_950,Pomacentridae,Chromis_ternatensis,9.67,25.2
+WIO,Mayotte,South_east,2016,7,Site_2,Barrier_in,Exposed,12.95016667,45.21433333,16_MY_631,Pomacentridae,Chromis_ternatensis,4.2,26
+WIO,Mayotte,South_west,2016,10,Site_3,Barrier_in,Exposed,12.905,44.9715,16_MY_303,Pomacentridae,Chromis_ternatensis,22.7,25.1
+WIO,Mayotte,South_west,2016,10,Site_3,Barrier_in,Exposed,12.905,44.9715,16_MY_313,Pomacentridae,Chromis_ternatensis,17.3,25.1
+WIO,Mayotte,South_west,2016,10,Site_3,Barrier_in,Exposed,12.905,44.9715,16_MY_314,Pomacentridae,Chromis_ternatensis,20.73,25.1
+WIO,Mayotte,South_west,2016,10,Site_3,Barrier_in,Exposed,12.905,44.9715,16_MY_317,Pomacentridae,Chromis_ternatensis,19,25.1
+WIO,Mayotte,South_west,2016,10,Site_3,Barrier_in,Exposed,12.905,44.9715,16_MY_324,Pomacentridae,Chromis_ternatensis,16.8,25.1
+WIO,Mayotte,South_west,2016,10,Site_3,Barrier_in,Exposed,12.905,44.9715,16_MY_326,Pomacentridae,Chromis_ternatensis,7.75,25.1
+WIO,Mayotte,South_west,2016,10,Site_3,Barrier_in,Exposed,12.905,44.9715,16_MY_330,Pomacentridae,Chromis_ternatensis,19.38,25.1
+WIO,Mayotte,South_west,2016,10,Site_3,Barrier_in,Exposed,12.905,44.9715,16_MY_332,Pomacentridae,Chromis_ternatensis,22.7,25.1
+WIO,Mayotte,South_west,2016,10,Site_3,Barrier_in,Exposed,12.905,44.9715,16_MY_333,Pomacentridae,Chromis_ternatensis,23.7,25.1
+WIO,Mayotte,South_west,2016,10,Site_3,Barrier_in,Exposed,12.905,44.9715,16_MY_345,Pomacentridae,Chromis_ternatensis,19.47,25.1
+WIO,Mayotte,South_west,2016,9.7,Site_5,Fringing,Sheltered,12.89616667,45.072,16_MY_147,Pomacentridae,Chromis_ternatensis,17.9,23.8
+WIO,Mayotte,South_west,2016,9.7,Site_5,Fringing,Sheltered,12.89616667,45.072,16_MY_157,Pomacentridae,Chromis_ternatensis,18.54,23.8
+WIO,Mayotte,South_west,2016,9.7,Site_5,Fringing,Sheltered,12.89616667,45.072,16_MY_163,Pomacentridae,Chromis_ternatensis,15.9,23.8
+WIO,Mayotte,South_west,2016,9.7,Site_5,Fringing,Sheltered,12.89616667,45.072,16_MY_167,Pomacentridae,Chromis_ternatensis,17.93,23.8
+WIO,Mayotte,South_west,2016,9.7,Site_5,Fringing,Sheltered,12.89616667,45.072,16_MY_168,Pomacentridae,Chromis_ternatensis,20.98,23.8
+WIO,Mayotte,South_west,2016,9.7,Site_5,Fringing,Sheltered,12.89616667,45.072,16_MY_171,Pomacentridae,Chromis_ternatensis,17.61,23.8
+WIO,Mayotte,South_east,2016,5,Site_7,Fringing,Sheltered,12.91916667,45.20833333,16_MY_368,Pomacentridae,Chromis_ternatensis,3.77,25.2
+WIO,Mayotte,South_east,2016,5,Site_7,Fringing,Sheltered,12.91916667,45.20833333,16_MY_371,Pomacentridae,Chromis_ternatensis,6.6,25.2
+WIO,Mayotte,South_east,2016,5,Site_7,Fringing,Sheltered,12.91916667,45.20833333,16_MY_374,Pomacentridae,Chromis_ternatensis,4.9,25.2
+WIO,Mayotte,South_east,2016,5,Site_7,Fringing,Sheltered,12.91916667,45.20833333,16_MY_378,Pomacentridae,Chromis_ternatensis,9.28,25.2
+WIO,Mayotte,South_east,2016,5,Site_7,Fringing,Sheltered,12.91916667,45.20833333,16_MY_391,Pomacentridae,Chromis_ternatensis,9.14,25.2
+WIO,Mayotte,South_east,2016,6,Site_7,Fringing,Sheltered,12.919,45.20816667,16_MY_752,Pomacentridae,Chromis_ternatensis,11.17,26
+WIO,Mayotte,South_east,2016,6,Site_7,Fringing,Sheltered,12.919,45.20816667,16_MY_753,Pomacentridae,Chromis_ternatensis,13.2,26
+WIO,Mayotte,South_east,2016,6,Site_7,Fringing,Sheltered,12.919,45.20816667,16_MY_754,Pomacentridae,Chromis_ternatensis,9.71,26
+WIO,Mayotte,South_east,2016,6,Site_7,Fringing,Sheltered,12.919,45.20816667,16_MY_763,Pomacentridae,Chromis_ternatensis,6,26
+WIO,Mayotte,South_east,2016,6,Site_7,Fringing,Sheltered,12.919,45.20816667,16_MY_765,Pomacentridae,Chromis_ternatensis,12.03,26
+WIO,Mayotte,South_east,2016,6,Site_7,Fringing,Sheltered,12.919,45.20816667,16_MY_767,Pomacentridae,Chromis_ternatensis,12.74,26
+WIO,Mayotte,South_east,2016,6,Site_7,Fringing,Sheltered,12.919,45.20816667,16_MY_771,Pomacentridae,Chromis_ternatensis,6.39,26
+WIO,Mayotte,South_east,2016,6,Site_7,Fringing,Sheltered,12.919,45.20816667,16_MY_774,Pomacentridae,Chromis_ternatensis,11.9,26
+WIO,Mayotte,South_east,2016,6,Site_7,Fringing,Sheltered,12.919,45.20816667,16_MY_775,Pomacentridae,Chromis_ternatensis,7.82,26
+WIO,Mayotte,South_east,2016,6,Site_7,Fringing,Sheltered,12.919,45.20816667,16_MY_776,Pomacentridae,Chromis_ternatensis,13.58,26
+WIO,Mayotte,North,2016,9.3,Site_0,Fringing,Sheltered,12.71883333,45.043,16_MY_081,Pomacentridae,Chromis_weberi,13.47,24.2
+WIO,Mayotte,North,2016,9.3,Site_0,Fringing,Sheltered,12.71883333,45.043,16_MY_090,Pomacentridae,Chromis_weberi,13.73,24.2
+WIO,Mayotte,North,2016,9.3,Site_0,Fringing,Sheltered,12.71883333,45.043,16_MY_092,Pomacentridae,Chromis_weberi,17.37,24.2
+WIO,Mayotte,North,2016,9.3,Site_0,Fringing,Sheltered,12.71883333,45.043,16_MY_096,Pomacentridae,Chromis_weberi,12.51,24.2
+WIO,Mayotte,North,2016,9.3,Site_0,Fringing,Sheltered,12.71883333,45.043,16_MY_099,Pomacentridae,Chromis_weberi,15.38,24.2
+WIO,Mayotte,North,2016,9.3,Site_0,Fringing,Sheltered,12.71883333,45.043,16_MY_100,Pomacentridae,Chromis_weberi,17.38,24.2
+WIO,Mayotte,North,2016,9.3,Site_0,Fringing,Sheltered,12.71883333,45.043,16_MY_101,Pomacentridae,Chromis_weberi,12.16,24.2
+WIO,Mayotte,North,2016,9.3,Site_0,Fringing,Sheltered,12.71883333,45.043,16_MY_102,Pomacentridae,Chromis_weberi,19.29,24.2
+WIO,Mayotte,North,2016,9.3,Site_0,Fringing,Sheltered,12.71883333,45.043,16_MY_111,Pomacentridae,Chromis_weberi,15.94,24.2
+WIO,Mayotte,North,2016,9.3,Site_0,Fringing,Sheltered,12.71883333,45.043,16_MY_112,Pomacentridae,Chromis_weberi,15.97,24.2
+WIO,Mayotte,North,2016,9.3,Site_0,Fringing,Sheltered,12.71883333,45.043,16_MY_123,Pomacentridae,Chromis_weberi,18.17,24.2
+WIO,Mayotte,North,2016,9.3,Site_0,Fringing,Sheltered,12.71883333,45.043,16_MY_124,Pomacentridae,Chromis_weberi,15.59,24.2
+WIO,Mayotte,North,2016,9.3,Site_0,Fringing,Sheltered,12.71883333,45.043,16_MY_125,Pomacentridae,Chromis_weberi,15.28,24.2
+WIO,Mayotte,North,2016,9.3,Site_0,Fringing,Sheltered,12.71883333,45.043,16_MY_126,Pomacentridae,Chromis_weberi,13.22,24.2
+WIO,Mayotte,North,2016,9.3,Site_0,Fringing,Sheltered,12.71883333,45.043,16_MY_127,Pomacentridae,Chromis_weberi,13.56,24.2
+WIO,Mayotte,North,2016,9.3,Site_0,Fringing,Sheltered,12.71883333,45.043,16_MY_133,Pomacentridae,Chromis_weberi,17.68,24.2
+WIO,Mayotte,North,2016,9.3,Site_0,Fringing,Sheltered,12.71883333,45.043,16_MY_140,Pomacentridae,Chromis_weberi,13.48,24.2
+WIO,Mayotte,North,2016,12,Site_0,Fringing,Sheltered,12.71883333,45.04283333,16_MY_407,Pomacentridae,Chromis_weberi,19.1,25
+WIO,Mayotte,North,2016,12,Site_0,Fringing,Sheltered,12.71883333,45.04283333,16_MY_409,Pomacentridae,Chromis_weberi,14.26,25
+WIO,Mayotte,North,2016,12,Site_0,Fringing,Sheltered,12.71883333,45.04283333,16_MY_410,Pomacentridae,Chromis_weberi,17.3,25
+WIO,Mayotte,North,2016,12,Site_0,Fringing,Sheltered,12.71883333,45.04283333,16_MY_418,Pomacentridae,Chromis_weberi,16.32,25
+WIO,Mayotte,North,2016,8,Site_11,Patch,Medium,12.637,45.12916667,16_MY_236,Pomacentridae,Chromis_weberi,26.25,24.8
+WIO,Mayotte,North,2016,8,Site_11,Patch,Medium,12.637,45.12916667,16_MY_237,Pomacentridae,Chromis_weberi,20.54,24.8
+WIO,Mayotte,North,2016,8,Site_11,Patch,Medium,12.637,45.12916667,16_MY_238,Pomacentridae,Chromis_weberi,18.66,24.8
+WIO,Mayotte,North,2016,8,Site_11,Patch,Medium,12.637,45.12916667,16_MY_239,Pomacentridae,Chromis_weberi,19.23,24.8
+WIO,Mayotte,North,2016,8,Site_11,Patch,Medium,12.637,45.12916667,16_MY_240,Pomacentridae,Chromis_weberi,20.39,24.8
+WIO,Mayotte,North,2016,8,Site_11,Patch,Medium,12.637,45.12916667,16_MY_241,Pomacentridae,Chromis_weberi,23.73,24.8
+WIO,Mayotte,North,2016,8,Site_11,Patch,Medium,12.637,45.12916667,16_MY_242,Pomacentridae,Chromis_weberi,18.93,24.8
+WIO,Mayotte,North,2016,8,Site_11,Patch,Medium,12.637,45.12916667,16_MY_243,Pomacentridae,Chromis_weberi,19.55,24.8
+WIO,Mayotte,North,2016,3,Site_11,Patch,Medium,12.63766667,45.12916667,16_MY_730,Pomacentridae,Chromis_weberi,19,25
+WIO,Mayotte,South_east,2016,7,Site_2,Barrier_in,Exposed,12.95033333,45.2145,16_MY_906,Pomacentridae,Chromis_weberi,4.25,25.2
+WIO,Mayotte,South_east,2016,7,Site_2,Barrier_in,Exposed,12.951,45.21516667,16_MY_941,Pomacentridae,Chromis_weberi,19.27,25.2
+WIO,Mayotte,South_east,2016,7,Site_2,Barrier_in,Exposed,12.951,45.21516667,16_MY_942,Pomacentridae,Chromis_weberi,20.97,25.2
+WIO,Mayotte,South_east,2016,7,Site_2,Barrier_in,Exposed,12.951,45.21516667,16_MY_943,Pomacentridae,Chromis_weberi,20.03,25.2
+WIO,Mayotte,South_east,2016,7,Site_2,Barrier_in,Exposed,12.951,45.21516667,16_MY_944,Pomacentridae,Chromis_weberi,18.01,25.2
+WIO,Mayotte,South_east,2016,7,Site_2,Barrier_in,Exposed,12.951,45.21516667,16_MY_945,Pomacentridae,Chromis_weberi,23.7,25.2
+WIO,Mayotte,South_east,2016,7,Site_2,Barrier_in,Exposed,12.951,45.21516667,16_MY_946,Pomacentridae,Chromis_weberi,15.32,25.2
+WIO,Mayotte,South_east,2016,7,Site_2,Barrier_in,Exposed,12.95116667,45.21533333,16_MY_954,Pomacentridae,Chromis_weberi,21.8,25.2
+WIO,Mayotte,South_east,2016,7,Site_2,Barrier_in,Exposed,12.95116667,45.21533333,16_MY_955,Pomacentridae,Chromis_weberi,18.71,25.2
+WIO,Mayotte,South_east,2016,7,Site_2,Barrier_in,Exposed,12.95133333,45.2155,16_MY_963,Pomacentridae,Chromis_weberi,20.97,25.2
+WIO,Mayotte,South_east,2016,7,Site_2,Barrier_in,Exposed,12.95133333,45.2155,16_MY_964,Pomacentridae,Chromis_weberi,3.34,25.2
+WIO,Mayotte,South_east,2016,7,Site_2,Barrier_in,Exposed,12.95133333,45.2155,16_MY_966,Pomacentridae,Chromis_weberi,4.28,25.2
+WIO,Mayotte,South_east,2016,7,Site_2,Barrier_in,Exposed,12.95133333,45.2155,16_MY_967,Pomacentridae,Chromis_weberi,3.67,25.2
+WIO,Mayotte,South_east,2016,7,Site_2,Barrier_in,Exposed,12.9515,45.21566667,16_MY_968,Pomacentridae,Chromis_weberi,4.35,25.2
+WIO,Mayotte,South_east,2016,5.5,Site_2,Barrier_out,Exposed,12.91916667,45.20833333,16_MY_393,Pomacentridae,Chromis_weberi,16.73,25.3
+WIO,Mayotte,South_east,2016,5.5,Site_2,Barrier_out,Exposed,12.91916667,45.20833333,16_MY_394,Pomacentridae,Chromis_weberi,16.58,25.3
+WIO,Mayotte,South_east,2016,10,Site_2,Barrier_in,Exposed,12.95016667,45.21433333,16_MY_590,Pomacentridae,Chromis_weberi,20.53,26
+WIO,Mayotte,South_east,2016,10,Site_2,Barrier_in,Exposed,12.95016667,45.21433333,16_MY_592,Pomacentridae,Chromis_weberi,21.03,26
+WIO,Mayotte,South_east,2016,10,Site_2,Barrier_in,Exposed,12.95016667,45.21433333,16_MY_625,Pomacentridae,Chromis_weberi,22.04,26
+WIO,Mayotte,South_east,2016,10,Site_2,Barrier_in,Exposed,12.95016667,45.21433333,16_MY_626,Pomacentridae,Chromis_weberi,16.78,26
+WIO,Mayotte,South_east,2016,10,Site_2,Barrier_in,Exposed,12.95016667,45.21433333,16_MY_627,Pomacentridae,Chromis_weberi,14.61,26
+WIO,Mayotte,South_east,2016,10,Site_2,Barrier_in,Exposed,12.95016667,45.21433333,16_MY_650,Pomacentridae,Chromis_weberi,20.25,26
+WIO,Mayotte,South_east,2016,10,Site_2,Barrier_in,Exposed,12.95016667,45.21433333,16_MY_652,Pomacentridae,Chromis_weberi,16.99,26
+WIO,Mayotte,South_east,2016,10,Site_2,Barrier_in,Exposed,12.95016667,45.21433333,16_MY_655,Pomacentridae,Chromis_weberi,17.68,26
+WIO,Mayotte,South_east,2016,10,Site_2,Barrier_in,Exposed,12.95016667,45.21433333,16_MY_656,Pomacentridae,Chromis_weberi,16.95,26
+WIO,Mayotte,South_east,2016,10,Site_2,Barrier_in,Exposed,12.95016667,45.21433333,16_MY_657,Pomacentridae,Chromis_weberi,16.36,26
+WIO,Mayotte,South_east,2016,10,Site_2,Barrier_in,Exposed,12.95016667,45.21433333,16_MY_659,Pomacentridae,Chromis_weberi,17.9,26
+WIO,Mayotte,South_east,2016,10,Site_2,Barrier_in,Exposed,12.95016667,45.21433333,16_MY_661,Pomacentridae,Chromis_weberi,5.86,26
+WIO,Mayotte,South_east,2016,10,Site_2,Barrier_in,Exposed,12.95016667,45.21433333,16_MY_665,Pomacentridae,Chromis_weberi,22.38,26
+WIO,Mayotte,South_east,2016,10,Site_2,Barrier_in,Exposed,12.95016667,45.21433333,16_MY_666,Pomacentridae,Chromis_weberi,13.2,26
+WIO,Mayotte,South_west,2016,10,Site_3,Barrier_in,Exposed,12.90483333,44.97133333,16_MY_492,Pomacentridae,Chromis_weberi,5.81,25.1
+WIO,Mayotte,South_west,2016,9,Site_9,Patch,Medium,12.94083333,45.0645,16_MY_880,Pomacentridae,Chromis_weberi,13.58,25.4
+WIO,Mayotte,South_west,2016,9,Site_9,Patch,Medium,12.94083333,45.0645,16_MY_881,Pomacentridae,Chromis_weberi,6.13,25.4
+WIO,Mayotte,South_west,2016,9,Site_9,Patch,Medium,12.94083333,45.0645,16_MY_883,Pomacentridae,Chromis_weberi,14.98,25.4
+WIO,Mayotte,South_west,2016,5,Site_9,Patch,Medium,12.94116667,45.06416667,Morpho_16_MY_028,Pomacentridae,Chromis_weberi,14.86,24.7
+WIO,Mayotte,South_west,2016,5,Site_9,Patch,Medium,12.94116667,45.06416667,Morpho_16_MY_029,Pomacentridae,Chromis_weberi,11.37,24.7
+WIO,Mayotte,South_west,2016,5,Site_9,Patch,Medium,12.94116667,45.06416667,Morpho_16_MY_030,Pomacentridae,Chromis_weberi,13.35,24.7
+WIO,Mayotte,South_west,2016,5,Site_9,Patch,Medium,12.94116667,45.06416667,Morpho_16_MY_033,Pomacentridae,Chromis_weberi,13.02,24.7
+WIO,Mayotte,South_west,2016,7,Site_9,Patch,Medium,12.94116667,45.06416667,16_MY_261,Pomacentridae,Chromis_weberi,32.6,24.8
+WIO,Mayotte,South_west,2016,7,Site_9,Patch,Medium,12.94116667,45.06416667,16_MY_289,Pomacentridae,Chromis_weberi,31.93,24.8
+WIO,Mayotte,South_west,2016,7,Site_9,Patch,Medium,12.94116667,45.06416667,16_MY_290,Pomacentridae,Chromis_weberi,25.96,24.8
+WIO,Mayotte,South_west,2016,7,Site_9,Patch,Medium,12.94116667,45.06416667,16_MY_293,Pomacentridae,Chromis_weberi,33.62,24.8
+WIO,Mayotte,North,2016,12,Site_0,Fringing,Sheltered,12.71883333,45.04283333,16_MY_417,Acanthuridae,Ctenochaetus_striatus,121.8,25
+WIO,Mayotte,North,2016,12,Site_0,Fringing,Sheltered,12.71883333,45.04283333,16_MY_423,Acanthuridae,Ctenochaetus_striatus,34.47,25
+WIO,Mayotte,North,2016,12,Site_0,Fringing,Sheltered,12.71883333,45.04283333,16_MY_430,Acanthuridae,Ctenochaetus_striatus,33.09,25
+WIO,Mayotte,North,2016,3,Site_0,Fringing,Sheltered,12.7185,46.04316667,16_MY_672,Acanthuridae,Ctenochaetus_striatus,28.95,24.6
+WIO,Mayotte,North,2016,3,Site_0,Fringing,Sheltered,12.7185,46.04316667,16_MY_686,Acanthuridae,Ctenochaetus_striatus,163.25,24.6
+WIO,Mayotte,North,2016,5,Site_11,Patch,Medium,12.63783333,45.12916667,16_MY_841,Acanthuridae,Ctenochaetus_striatus,95.6,24.3
+WIO,Mayotte,North,2016,3,Site_11,Patch,Medium,12.63766667,45.12916667,16_MY_714,Acanthuridae,Ctenochaetus_striatus,131.79,25
+WIO,Mayotte,North,2016,3,Site_11,Patch,Medium,12.63766667,45.12916667,16_MY_736,Acanthuridae,Ctenochaetus_striatus,104.1,25
+WIO,Mayotte,North,2016,6,Site_12,Barrier_out,Exposed,12.62266667,45.15883333,16_MY_520,Acanthuridae,Ctenochaetus_striatus,115.94,26
+WIO,Mayotte,North,2016,6,Site_12,Barrier_out,Exposed,12.62266667,45.15883333,16_MY_521,Acanthuridae,Ctenochaetus_striatus,119.62,26
+WIO,Mayotte,North,2016,6,Site_12,Barrier_out,Exposed,12.62266667,45.15883333,16_MY_526,Acanthuridae,Ctenochaetus_striatus,109.47,26
+WIO,Mayotte,North,2016,6,Site_12,Barrier_out,Exposed,12.62266667,45.15883333,16_MY_528,Acanthuridae,Ctenochaetus_striatus,101.37,26
+WIO,Mayotte,North,2016,6,Site_12,Barrier_out,Exposed,12.62266667,45.15883333,16_MY_529,Acanthuridae,Ctenochaetus_striatus,103.5,26
+WIO,Mayotte,North,2016,6,Site_12,Barrier_out,Exposed,12.62266667,45.15883333,16_MY_545,Acanthuridae,Ctenochaetus_striatus,62.5,26
+WIO,Mayotte,North,2016,6,Site_12,Barrier_out,Exposed,12.62266667,45.15883333,16_MY_550,Acanthuridae,Ctenochaetus_striatus,94.11,26
+WIO,Mayotte,South_west,2016,10,Site_3,Barrier_in,Exposed,12.905,44.9715,16_MY_351,Acanthuridae,Ctenochaetus_striatus,129.66,25.1
+WIO,Mayotte,South_west,2016,10,Site_3,Barrier_out,Exposed,12.91233333,44.962,16_MY_440,Acanthuridae,Ctenochaetus_striatus,117.1,25.1
+WIO,Mayotte,South_west,2016,10,Site_3,Barrier_out,Exposed,12.91233333,44.962,16_MY_443,Acanthuridae,Ctenochaetus_striatus,115.4,25.1
+WIO,Mayotte,South_west,2016,10,Site_3,Barrier_out,Exposed,12.91233333,44.962,16_MY_445,Acanthuridae,Ctenochaetus_striatus,158.2,25.1
+WIO,Mayotte,South_west,2016,8,Site_5,Fringing,Sheltered,12.89816667,45.0695,16_MY_812,Acanthuridae,Ctenochaetus_striatus,11.09,26.5
+WIO,Mayotte,South_west,2016,8,Site_5,Fringing,Sheltered,12.89816667,45.0695,16_MY_813,Acanthuridae,Ctenochaetus_striatus,7.81,26.5
+WIO,Mayotte,South_west,2016,9.7,Site_5,Fringing,Sheltered,12.89616667,45.072,16_MY_144,Acanthuridae,Ctenochaetus_striatus,53.95,23.8
+WIO,Mayotte,South_west,2016,9.7,Site_5,Fringing,Sheltered,12.89616667,45.072,16_MY_149,Acanthuridae,Ctenochaetus_striatus,72.41,23.8
+WIO,Mayotte,South_east,2016,6,Site_7,Fringing,Sheltered,12.919,45.20816667,16_MY_749,Acanthuridae,Ctenochaetus_striatus,34.01,26
+WIO,Mayotte,South_east,2016,6,Site_7,Fringing,Sheltered,12.919,45.20816667,16_MY_750,Acanthuridae,Ctenochaetus_striatus,47.19,26
+WIO,Mayotte,South_east,2016,6,Site_7,Fringing,Sheltered,12.919,45.20816667,16_MY_751,Acanthuridae,Ctenochaetus_striatus,23.87,26
+WIO,Mayotte,South_east,2016,6,Site_7,Fringing,Sheltered,12.919,45.20816667,16_MY_768,Acanthuridae,Ctenochaetus_striatus,90.33,26
+WIO,Mayotte,South_west,2016,9,Site_9,Patch,Medium,12.94083333,45.0645,16_MY_860,Acanthuridae,Ctenochaetus_striatus,123.77,25.4
+WIO,Mayotte,South_west,2016,9,Site_9,Patch,Medium,12.94083333,45.0645,16_MY_861,Acanthuridae,Ctenochaetus_striatus,117.41,25.4
+WIO,Mayotte,South_west,2016,9,Site_9,Patch,Medium,12.94083333,45.0645,16_MY_867,Acanthuridae,Ctenochaetus_striatus,62.6,25.4
+WIO,Mayotte,South_west,2016,9,Site_9,Patch,Medium,12.94083333,45.0645,16_MY_868,Acanthuridae,Ctenochaetus_striatus,95.4,25.4
+WIO,Mayotte,South_west,2016,9,Site_9,Patch,Medium,12.94083333,45.0645,16_MY_878,Acanthuridae,Ctenochaetus_striatus,7.5,25.4
+WIO,Mayotte,South_west,2016,5,Site_9,Patch,Medium,12.94116667,45.06416667,Morpho_16_MY_042,Chaetodontidae,Ctenochaetus_striatus,21.46,24.7
+WIO,Mayotte,South_west,2016,5,Site_9,Patch,Medium,12.94116667,45.06416667,Morpho_16_MY_043,Chaetodontidae,Ctenochaetus_striatus,55.23,24.7
+WIO,Mayotte,South_west,2016,5,Site_9,Patch,Medium,12.94116667,45.06416667,Morpho_16_MY_045,Acanthuridae,Ctenochaetus_striatus,25.85,24.7
+WIO,Mayotte,South_west,2016,7,Site_9,Patch,Medium,12.94116667,45.06416667,16_MY_245,Acanthuridae,Ctenochaetus_striatus,95.1,24.8
+WIO,Mayotte,South_west,2016,7,Site_9,Patch,Medium,12.94116667,45.06416667,16_MY_248,Acanthuridae,Ctenochaetus_striatus,67.22,24.8
+WIO,Mayotte,South_west,2016,7,Site_9,Patch,Medium,12.94116667,45.06416667,16_MY_271,Acanthuridae,Ctenochaetus_striatus,28.28,24.8
+WIO,Mayotte,South_west,2016,7,Site_9,Patch,Medium,12.94116667,45.06416667,16_MY_283,Acanthuridae,Ctenochaetus_striatus,44.1,24.8
+WIO,Mayotte,South_west,2016,7,Site_9,Patch,Medium,12.94116667,45.06416667,16_MY_291,Acanthuridae,Ctenochaetus_striatus,17.53,24.8
+WIO,Mayotte,South_west,2016,9.7,Site_5,Fringing,Sheltered,12.89616667,45.072,16_MY_151,Pomacentridae,Dascyllus_aruanus,0.66,23.8
+WIO,Mayotte,South_west,2016,9.7,Site_5,Fringing,Sheltered,12.89616667,45.072,16_MY_152,Pomacentridae,Dascyllus_aruanus,0.22,23.8
+WIO,Mayotte,South_west,2016,9.7,Site_5,Fringing,Sheltered,12.89616667,45.072,16_MY_153,Pomacentridae,Dascyllus_aruanus,0.29,23.8
+WIO,Mayotte,South_west,2016,9.7,Site_5,Fringing,Sheltered,12.89616667,45.072,16_MY_154,Pomacentridae,Dascyllus_aruanus,0.83,23.8
+WIO,Mayotte,South_west,2016,9.7,Site_5,Fringing,Sheltered,12.89616667,45.072,16_MY_155,Pomacentridae,Dascyllus_aruanus,2.46,23.8
+WIO,Mayotte,South_west,2016,9.7,Site_5,Fringing,Sheltered,12.89616667,45.072,16_MY_156,Pomacentridae,Dascyllus_aruanus,1.83,23.8
+WIO,Mayotte,South_west,2016,6.2,Site_9,Patch,Medium,12.94116667,45.06416667,Morpho_16_MY_004,Pomacentridae,Dascyllus_aruanus,2.76,24.4
+WIO,Mayotte,North,2016,9.3,Site_0,Fringing,Sheltered,12.71883333,45.043,16_MY_105,Pomacentridae,Dascyllus_carneus,2.85,24.2
+WIO,Mayotte,North,2016,9.3,Site_0,Fringing,Sheltered,12.71883333,45.043,16_MY_107,Pomacentridae,Dascyllus_carneus,5.76,24.2
+WIO,Mayotte,North,2016,9.3,Site_0,Fringing,Sheltered,12.71883333,45.043,16_MY_128,Pomacentridae,Dascyllus_carneus,4.3,24.2
+WIO,Mayotte,North,2016,9.3,Site_0,Fringing,Sheltered,12.71883333,45.043,16_MY_129,Pomacentridae,Dascyllus_carneus,3.56,24.2
+WIO,Mayotte,North,2016,9.3,Site_0,Fringing,Sheltered,12.71883333,45.043,16_MY_130,Pomacentridae,Dascyllus_carneus,1.6,24.2
+WIO,Mayotte,North,2016,9.3,Site_0,Fringing,Sheltered,12.71883333,45.043,16_MY_135,Pomacentridae,Dascyllus_carneus,3.13,24.2
+WIO,Mayotte,North,2016,9.3,Site_0,Fringing,Sheltered,12.71883333,45.043,16_MY_136,Pomacentridae,Dascyllus_carneus,1.33,24.2
+WIO,Mayotte,North,2016,9.3,Site_0,Fringing,Sheltered,12.71883333,45.043,16_MY_137,Pomacentridae,Dascyllus_carneus,1.49,24.2
+WIO,Mayotte,North,2016,9.3,Site_0,Fringing,Sheltered,12.71883333,45.043,16_MY_138,Pomacentridae,Dascyllus_carneus,2.07,24.2
+WIO,Mayotte,North,2016,9.3,Site_0,Fringing,Sheltered,12.71883333,45.043,16_MY_139,Pomacentridae,Dascyllus_carneus,1.92,24.2
+WIO,Mayotte,North,2016,12,Site_0,Fringing,Sheltered,12.71883333,45.04283333,16_MY_404,Pomacentridae,Dascyllus_carneus,2.87,25
+WIO,Mayotte,North,2016,12,Site_0,Fringing,Sheltered,12.71883333,45.04283333,16_MY_413,Pomacentridae,Dascyllus_carneus,2.22,25
+WIO,Mayotte,North,2016,12,Site_0,Fringing,Sheltered,12.71883333,45.04283333,16_MY_431,Pomacentridae,Dascyllus_carneus,2.4,25
+WIO,Mayotte,North,2016,3,Site_0,Fringing,Sheltered,12.7185,46.04316667,16_MY_692,Pomacentridae,Dascyllus_carneus,0.87,24.6
+WIO,Mayotte,North,2016,3,Site_0,Fringing,Sheltered,12.7185,46.04316667,16_MY_693,Pomacentridae,Dascyllus_carneus,2.11,24.6
+WIO,Mayotte,North,2016,3,Site_0,Fringing,Sheltered,12.7185,46.04316667,16_MY_694,Pomacentridae,Dascyllus_carneus,0.4,24.6
+WIO,Mayotte,North,2016,3,Site_0,Fringing,Sheltered,12.7185,46.04316667,16_MY_695,Pomacentridae,Dascyllus_carneus,0.52,24.6
+WIO,Mayotte,North,2016,5,Site_11,Patch,Medium,12.63783333,45.12916667,16_MY_834,Pomacentridae,Dascyllus_carneus,3.02,24.3
+WIO,Mayotte,North,2016,5,Site_11,Patch,Medium,12.63783333,45.12916667,16_MY_839,Pomacentridae,Dascyllus_carneus,3.73,24.3
+WIO,Mayotte,North,2016,5,Site_11,Patch,Medium,12.63783333,45.12916667,16_MY_840,Pomacentridae,Dascyllus_carneus,3.57,24.3
+WIO,Mayotte,North,2016,5,Site_11,Patch,Medium,12.63783333,45.12916667,16_MY_843,Pomacentridae,Dascyllus_carneus,7.06,24.3
+WIO,Mayotte,North,2016,3,Site_11,Patch,Medium,12.63766667,45.12916667,16_MY_710,Pomacentridae,Dascyllus_carneus,6.83,25
+WIO,Mayotte,North,2016,3,Site_11,Patch,Medium,12.63766667,45.12916667,16_MY_711,Pomacentridae,Dascyllus_carneus,1.71,25
+WIO,Mayotte,North,2016,3,Site_11,Patch,Medium,12.63766667,45.12916667,16_MY_728,Pomacentridae,Dascyllus_carneus,1.63,25
+WIO,Mayotte,North,2016,3,Site_11,Patch,Medium,12.63766667,45.12916667,16_MY_745,Pomacentridae,Dascyllus_carneus,1.9,25
+WIO,Mayotte,North,2016,3,Site_11,Patch,Medium,12.63766667,45.12916667,16_MY_746,Pomacentridae,Dascyllus_carneus,1.2,25
+WIO,Mayotte,North,2016,3,Site_11,Patch,Medium,12.63766667,45.12916667,16_MY_747,Pomacentridae,Dascyllus_carneus,0.66,25
+WIO,Mayotte,North,2016,3,Site_11,Patch,Medium,12.63766667,45.12916667,16_MY_748,Pomacentridae,Dascyllus_carneus,1.31,25
+WIO,Mayotte,North,2016,6,Site_12,Barrier_out,Exposed,12.62266667,45.15883333,16_MY_532,Pomacentridae,Dascyllus_carneus,0.54,26
+WIO,Mayotte,North,2016,6,Site_12,Barrier_out,Exposed,12.62266667,45.15883333,16_MY_536,Pomacentridae,Dascyllus_carneus,0.31,26
+WIO,Mayotte,North,2016,6,Site_12,Barrier_out,Exposed,12.62266667,45.15883333,16_MY_539,Pomacentridae,Dascyllus_carneus,2.61,26
+WIO,Mayotte,North,2016,6,Site_12,Barrier_out,Exposed,12.62266667,45.15883333,16_MY_540,Pomacentridae,Dascyllus_carneus,0.51,26
+WIO,Mayotte,South_east,2016,7,Site_2,Barrier_in,Exposed,12.95066667,45.21483333,16_MY_925,Pomacentridae,Dascyllus_carneus,4,25.2
+WIO,Mayotte,South_east,2016,7,Site_2,Barrier_in,Exposed,12.95083333,45.215,16_MY_928,Pomacentridae,Dascyllus_carneus,1.91,25.2
+WIO,Mayotte,South_east,2016,7,Site_2,Barrier_in,Exposed,12.95083333,45.215,16_MY_929,Pomacentridae,Dascyllus_carneus,2.52,25.2
+WIO,Mayotte,South_east,2016,10,Site_2,Barrier_in,Exposed,12.95016667,45.21433333,16_MY_591,Pomacentridae,Dascyllus_carneus,6.04,26
+WIO,Mayotte,South_east,2016,10,Site_2,Barrier_in,Exposed,12.95016667,45.21433333,16_MY_598,Pomacentridae,Dascyllus_carneus,4.36,26
+WIO,Mayotte,South_east,2016,10,Site_2,Barrier_in,Exposed,12.95016667,45.21433333,16_MY_599,Pomacentridae,Dascyllus_carneus,7.33,26
+WIO,Mayotte,South_east,2016,10,Site_2,Barrier_in,Exposed,12.95016667,45.21433333,16_MY_600,Pomacentridae,Dascyllus_carneus,6.41,26
+WIO,Mayotte,South_east,2016,10,Site_2,Barrier_in,Exposed,12.95016667,45.21433333,16_MY_601,Pomacentridae,Dascyllus_carneus,6.38,26
+WIO,Mayotte,South_east,2016,10,Site_2,Barrier_in,Exposed,12.95016667,45.21433333,16_MY_606,Pomacentridae,Dascyllus_carneus,7.29,26
+WIO,Mayotte,South_east,2016,10,Site_2,Barrier_in,Exposed,12.95016667,45.21433333,16_MY_629,Pomacentridae,Dascyllus_carneus,4.82,26
+WIO,Mayotte,South_east,2016,10,Site_2,Barrier_in,Exposed,12.95016667,45.21433333,16_MY_632,Pomacentridae,Dascyllus_carneus,4.53,26
+WIO,Mayotte,South_east,2016,10,Site_2,Barrier_in,Exposed,12.95016667,45.21433333,16_MY_633,Pomacentridae,Dascyllus_carneus,3.76,26
+WIO,Mayotte,South_east,2016,10,Site_2,Barrier_in,Exposed,12.95016667,45.21433333,16_MY_639,Pomacentridae,Dascyllus_carneus,4.6,26
+WIO,Mayotte,South_east,2016,10,Site_2,Barrier_in,Exposed,12.95016667,45.21433333,16_MY_641,Pomacentridae,Dascyllus_carneus,7.74,26
+WIO,Mayotte,South_east,2016,10,Site_2,Barrier_in,Exposed,12.95016667,45.21433333,16_MY_642,Pomacentridae,Dascyllus_carneus,6.18,26
+WIO,Mayotte,South_east,2016,10,Site_2,Barrier_in,Exposed,12.95016667,45.21433333,16_MY_662,Pomacentridae,Dascyllus_carneus,7.8,26
+WIO,Mayotte,South_east,2016,10,Site_2,Barrier_in,Exposed,12.95016667,45.21433333,16_MY_663,Pomacentridae,Dascyllus_carneus,6.81,26
+WIO,Mayotte,South_west,2016,10,Site_3,Barrier_out,Exposed,12.91233333,44.962,16_MY_447,Pomacentridae,Dascyllus_carneus,0.78,25.1
+WIO,Mayotte,South_west,2016,10,Site_3,Barrier_out,Exposed,12.91233333,44.962,16_MY_448,Pomacentridae,Dascyllus_carneus,1.2,25.1
+WIO,Mayotte,South_west,2016,10,Site_3,Barrier_out,Exposed,12.91233333,44.962,16_MY_449,Pomacentridae,Dascyllus_carneus,0.78,25.1
+WIO,Mayotte,South_west,2016,10,Site_3,Barrier_out,Exposed,12.91233333,44.962,16_MY_450,Pomacentridae,Dascyllus_carneus,0.75,25.1
+WIO,Mayotte,South_west,2016,10,Site_3,Barrier_out,Exposed,12.91233333,44.962,16_MY_451,Pomacentridae,Dascyllus_carneus,0.52,25.1
+WIO,Mayotte,South_west,2016,10,Site_3,Barrier_out,Exposed,12.91233333,44.962,16_MY_452,Pomacentridae,Dascyllus_carneus,0.98,25.1
+WIO,Mayotte,South_west,2016,10,Site_3,Barrier_out,Exposed,12.91233333,44.962,16_MY_453,Pomacentridae,Dascyllus_carneus,0.52,25.1
+WIO,Mayotte,South_west,2016,10,Site_3,Barrier_in,Exposed,12.90483333,44.97133333,16_MY_480,Pomacentridae,Dascyllus_carneus,1.52,25.1
+WIO,Mayotte,South_west,2016,10,Site_3,Barrier_in,Exposed,12.90483333,44.97133333,16_MY_493,Pomacentridae,Dascyllus_carneus,1.68,25.1
+WIO,Mayotte,South_west,2016,10,Site_3,Barrier_in,Exposed,12.90483333,44.97133333,16_MY_495,Pomacentridae,Dascyllus_carneus,1.99,25.1
+WIO,Mayotte,South_west,2016,10,Site_3,Barrier_in,Exposed,12.90483333,44.97133333,16_MY_497,Pomacentridae,Dascyllus_carneus,2.16,25.1
+WIO,Mayotte,South_west,2016,10,Site_3,Barrier_in,Exposed,12.90483333,44.97133333,16_MY_498,Pomacentridae,Dascyllus_carneus,0.84,25.1
+WIO,Mayotte,South_west,2016,10,Site_3,Barrier_in,Exposed,12.90483333,44.97133333,16_MY_501,Pomacentridae,Dascyllus_carneus,1.45,25.1
+WIO,Mayotte,South_west,2016,8,Site_5,Fringing,Sheltered,12.89816667,45.0695,16_MY_795,Pomacentridae,Dascyllus_carneus,2.69,26.5
+WIO,Mayotte,South_west,2016,8,Site_5,Fringing,Sheltered,12.89816667,45.0695,16_MY_796,Pomacentridae,Dascyllus_carneus,1.69,26.5
+WIO,Mayotte,South_west,2016,8,Site_5,Fringing,Sheltered,12.89816667,45.0695,16_MY_797,Pomacentridae,Dascyllus_carneus,0.98,26.5
+WIO,Mayotte,South_west,2016,8,Site_5,Fringing,Sheltered,12.89816667,45.0695,16_MY_798,Pomacentridae,Dascyllus_carneus,1.46,26.5
+WIO,Mayotte,South_west,2016,8,Site_5,Fringing,Sheltered,12.89816667,45.0695,16_MY_799,Pomacentridae,Dascyllus_carneus,0.58,26.5
+WIO,Mayotte,South_west,2016,8,Site_5,Fringing,Sheltered,12.89816667,45.0695,16_MY_800,Pomacentridae,Dascyllus_carneus,0.54,26.5
+WIO,Mayotte,South_west,2016,8,Site_5,Fringing,Sheltered,12.89816667,45.0695,16_MY_801,Pomacentridae,Dascyllus_carneus,0.88,26.5
+WIO,Mayotte,South_west,2016,8,Site_5,Fringing,Sheltered,12.89816667,45.0695,16_MY_818,Pomacentridae,Dascyllus_carneus,1.8,26.5
+WIO,Mayotte,South_east,2016,8,Site_5,Fringing,Sheltered,12.919,45.20816667,16_MY_823,Pomacentridae,Dascyllus_carneus,2.04,26.5
+WIO,Mayotte,South_east,2016,8,Site_5,Fringing,Sheltered,12.919,45.20816667,16_MY_824,Pomacentridae,Dascyllus_carneus,2.12,26.5
+WIO,Mayotte,South_east,2016,8,Site_5,Fringing,Sheltered,12.919,45.20816667,16_MY_825,Pomacentridae,Dascyllus_carneus,1.04,26.5
+WIO,Mayotte,South_east,2016,8,Site_5,Fringing,Sheltered,12.919,45.20816667,16_MY_826,Pomacentridae,Dascyllus_carneus,0.61,26.5
+WIO,Mayotte,North,2016,6.4,Site_6,Patch,Medium,12.91916667,45.20833333,16_MY_357,Pomacentridae,Dascyllus_carneus,2.85,24.6
+WIO,Mayotte,North,2016,6.4,Site_6,Patch,Medium,12.91916667,45.20833333,16_MY_358,Pomacentridae,Dascyllus_carneus,4.1,24.6
+WIO,Mayotte,North,2016,6.4,Site_6,Patch,Medium,12.91916667,45.20833333,16_MY_359,Pomacentridae,Dascyllus_carneus,3.3,24.6
+WIO,Mayotte,North,2016,6.4,Site_6,Patch,Medium,12.91916667,45.20833333,16_MY_360,Pomacentridae,Dascyllus_carneus,4.15,24.6
+WIO,Mayotte,North,2016,6.4,Site_6,Patch,Medium,12.91916667,45.20833333,16_MY_361,Pomacentridae,Dascyllus_carneus,2.2,24.6
+WIO,Mayotte,South_west,2016,7,Site_9,Patch,Medium,12.94116667,45.06416667,16_MY_295,Pomacentridae,Dascyllus_carneus,2.24,24.8
+WIO,Mayotte,South_west,2016,7,Site_9,Patch,Medium,12.94116667,45.06416667,16_MY_296,Pomacentridae,Dascyllus_carneus,1.3,24.8
+WIO,Mayotte,South_west,2016,7,Site_9,Patch,Medium,12.94116667,45.06416667,16_MY_297,Pomacentridae,Dascyllus_carneus,1.98,24.8
+WIO,Mayotte,South_east,2016,7,Site_2,Barrier_in,Exposed,12.95016667,45.21433333,16_MY_594,Pomacentridae,Dascyllus_trimaculatus,17.92,26
+WIO,Mayotte,South_west,2016,10,Site_3,Barrier_out,Exposed,12.91233333,44.962,16_MY_454,Pomacentridae,Dascyllus_trimaculatus,1.58,25.1
+WIO,Mayotte,South_west,2016,10,Site_3,Barrier_out,Exposed,12.91233333,44.962,16_MY_455,Pomacentridae,Dascyllus_trimaculatus,0.77,25.1
+WIO,Mayotte,South_west,2016,8,Site_5,Fringing,Sheltered,12.89616667,45.07183333,16_MY_196,Pomacentridae,Dascyllus_trimaculatus,2,24.4
+WIO,Mayotte,South_west,2016,8,Site_5,Fringing,Sheltered,12.89616667,45.07183333,16_MY_205,Pomacentridae,Dascyllus_trimaculatus,1.8,24.4
+WIO,Mayotte,South_west,2016,8,Site_5,Fringing,Sheltered,12.89616667,45.07183333,16_MY_210,Pomacentridae,Dascyllus_trimaculatus,0.8,24.4
+WIO,Mayotte,South_west,2016,6.2,Site_9,Patch,Medium,12.94116667,45.06416667,Morpho_16_MY_006,Pomacentridae,Dascyllus_trimaculatus,0.62,24.4
+WIO,Mayotte,South_west,2016,6.2,Site_9,Patch,Medium,12.94116667,45.06416667,Morpho_16_MY_007,Pomacentridae,Dascyllus_trimaculatus,0.47,24.4
+WIO,Mayotte,North,2016,9.3,Site_0,Fringing,Sheltered,12.71883333,45.043,16_MY_074,Labridae,Gomphosus_caeruleus,19.47,24.2
+WIO,Mayotte,North,2016,9.3,Site_0,Fringing,Sheltered,12.71883333,45.043,16_MY_088,Labridae,Gomphosus_caeruleus,47.98,24.2
+WIO,Mayotte,North,2016,9.3,Site_0,Fringing,Sheltered,12.71883333,45.043,16_MY_110,Labridae,Gomphosus_caeruleus,10.03,24.2
+WIO,Mayotte,North,2016,5,Site_11,Patch,Medium,12.63783333,45.12916667,16_MY_842,Labridae,Gomphosus_caeruleus,60.09,24.3
+WIO,Mayotte,North,2016,6,Site_12,Barrier_out,Exposed,12.62266667,45.15883333,16_MY_560,Labridae,Gomphosus_caeruleus,40.4,26
+WIO,Mayotte,South_east,2016,7,Site_2,Barrier_in,Exposed,12.95066667,45.21483333,16_MY_923,Labridae,Gomphosus_caeruleus,11.61,25.2
+WIO,Mayotte,South_east,2016,10,Site_2,Barrier_in,Exposed,12.95016667,45.21433333,16_MY_630,Labridae,Gomphosus_caeruleus,21.42,26
+WIO,Mayotte,South_east,2016,10,Site_2,Barrier_in,Exposed,12.95016667,45.21433333,16_MY_646,Labridae,Gomphosus_caeruleus,57.81,26
+WIO,Mayotte,South_west,2016,18.4,Site_3,Barrier_out,Exposed,12.91283333,44.96166667,16_MY_062,Labridae,Gomphosus_caeruleus,43.53,26.2
+WIO,Mayotte,South_west,2016,10,Site_3,Barrier_in,Exposed,12.905,44.9715,16_MY_301,Labridae,Gomphosus_caeruleus,36.07,25.1
+WIO,Mayotte,South_west,2016,10,Site_3,Barrier_in,Exposed,12.905,44.9715,16_MY_302,Labridae,Gomphosus_caeruleus,36.47,25.1
+WIO,Mayotte,South_west,2016,10,Site_3,Barrier_in,Exposed,12.905,44.9715,16_MY_316,Labridae,Gomphosus_caeruleus,18.8,25.1
+WIO,Mayotte,South_west,2016,10,Site_3,Barrier_in,Exposed,12.905,44.9715,16_MY_321,Labridae,Gomphosus_caeruleus,22.1,25.1
+WIO,Mayotte,South_west,2016,10,Site_3,Barrier_in,Exposed,12.905,44.9715,16_MY_334,Labridae,Gomphosus_caeruleus,34.48,25.1
+WIO,Mayotte,South_west,2016,10,Site_3,Barrier_in,Exposed,12.905,44.9715,16_MY_344,Labridae,Gomphosus_caeruleus,54.4,25.1
+WIO,Mayotte,South_west,2016,10,Site_3,Barrier_out,Exposed,12.91233333,44.962,16_MY_442,Labridae,Gomphosus_caeruleus,18.9,25.1
+WIO,Mayotte,South_west,2016,5.5,Site_3,Barrier_in,Exposed,12.90483333,44.97133333,16_MY_496,Labridae,Gomphosus_caeruleus,13.73,25.1
+WIO,Mayotte,South_west,2016,5.5,Site_3,Barrier_in,Exposed,12.90483333,44.97133333,16_MY_500,Labridae,Gomphosus_caeruleus,27.03,25.1
+WIO,Mayotte,South_west,2016,2.5,Site_5,Fringing,Sheltered,12.89666667,45.07233333,16_MY_051,Labridae,Gomphosus_caeruleus,15,25.4
+WIO,Mayotte,South_west,2016,9.7,Site_5,Fringing,Sheltered,12.89616667,45.072,16_MY_145,Labridae,Gomphosus_caeruleus,54.23,23.8
+WIO,Mayotte,South_west,2016,8,Site_5,Fringing,Sheltered,12.89616667,45.07183333,16_MY_200,Labridae,Gomphosus_caeruleus,115.5,24.4
+WIO,Mayotte,South_east,2016,6,Site_7,Fringing,Sheltered,12.919,45.20816667,16_MY_769,Labridae,Gomphosus_caeruleus,16.62,26
+WIO,Mayotte,South_west,2016,5,Site_9,Patch,Medium,12.94116667,45.06416667,Morpho_16_MY_031,Labridae,Gomphosus_caeruleus,10.93,24.7
+WIO,Mayotte,South_west,2016,5,Site_9,Patch,Medium,12.94116667,45.06416667,Morpho_16_MY_032,Labridae,Gomphosus_caeruleus,8.4,24.7
+WIO,Mayotte,North,2016,12,Site_0,Fringing,Sheltered,12.71883333,45.04283333,16_MY_419,Labridae,Halichoeres_hortulanus,89.8,25
+WIO,Mayotte,North,2016,3,Site_0,Fringing,Sheltered,12.7185,46.04316667,16_MY_669,Labridae,Halichoeres_hortulanus,73.46,24.6
+WIO,Mayotte,North,2016,3,Site_0,Fringing,Sheltered,12.7185,46.04316667,16_MY_677,Labridae,Halichoeres_hortulanus,28.15,24.6
+WIO,Mayotte,North,2016,3,Site_0,Fringing,Sheltered,12.7185,46.04316667,16_MY_678,Labridae,Halichoeres_hortulanus,23.14,24.6
+WIO,Mayotte,North,2016,3,Site_0,Fringing,Sheltered,12.7185,46.04316667,16_MY_679,Labridae,Halichoeres_hortulanus,21,24.6
+WIO,Mayotte,North,2016,5,Site_11,Patch,Medium,12.63783333,45.12916667,16_MY_830,Labridae,Halichoeres_hortulanus,83.46,24.3
+WIO,Mayotte,North,2016,5,Site_11,Patch,Medium,12.63783333,45.12916667,16_MY_838,Labridae,Halichoeres_hortulanus,145.33,24.3
+WIO,Mayotte,North,2016,3,Site_11,Patch,Medium,12.63766667,45.12916667,16_MY_707,Labridae,Halichoeres_hortulanus,49.38,25
+WIO,Mayotte,North,2016,3,Site_11,Patch,Medium,12.63766667,45.12916667,16_MY_712,Labridae,Halichoeres_hortulanus,137.41,25
+WIO,Mayotte,North,2016,3,Site_11,Patch,Medium,12.63766667,45.12916667,16_MY_726,Labridae,Halichoeres_hortulanus,29.83,25
+WIO,Mayotte,North,2016,6,Site_12,Barrier_out,Exposed,12.62266667,45.15883333,16_MY_549,Labridae,Halichoeres_hortulanus,91.22,26
+WIO,Mayotte,South_east,2016,7,Site_2,Barrier_in,Exposed,12.95066667,45.21483333,16_MY_919,Labridae,Halichoeres_hortulanus,65.25,25.2
+WIO,Mayotte,South_east,2016,5.5,Site_2,Barrier_out,Exposed,12.91916667,45.20833333,16_MY_397,Labridae,Halichoeres_hortulanus,89.24,25.3
+WIO,Mayotte,South_east,2016,10,Site_2,Barrier_in,Exposed,12.95016667,45.21433333,16_MY_654,Labridae,Halichoeres_hortulanus,13.95,26
+WIO,Mayotte,South_west,2016,10,Site_3,Barrier_in,Exposed,12.905,44.9715,16_MY_337,Labridae,Halichoeres_hortulanus,121.03,25.1
+WIO,Mayotte,South_west,2016,10,Site_3,Barrier_out,Exposed,12.91233333,44.962,16_MY_446,Labridae,Halichoeres_hortulanus,7.7,25.1
+WIO,Mayotte,South_west,2016,10,Site_3,Barrier_in,Exposed,12.90483333,44.97133333,16_MY_462,Labridae,Halichoeres_hortulanus,107.11,25.1
+WIO,Mayotte,South_west,2016,10,Site_3,Barrier_in,Exposed,12.90483333,44.97133333,16_MY_485,Labridae,Halichoeres_hortulanus,6.37,25.1
+WIO,Mayotte,South_west,2016,8,Site_5,Fringing,Sheltered,12.89816667,45.0695,16_MY_808,Labridae,Halichoeres_hortulanus,47.86,26.5
+WIO,Mayotte,South_west,2016,8,Site_5,Fringing,Sheltered,12.89816667,45.0695,16_MY_809,Labridae,Halichoeres_hortulanus,12.22,26.5
+WIO,Mayotte,South_west,2016,8,Site_5,Fringing,Sheltered,12.89816667,45.0695,16_MY_810,Labridae,Halichoeres_hortulanus,25.51,26.5
+WIO,Mayotte,South_west,2016,9.7,Site_5,Fringing,Sheltered,12.89616667,45.072,16_MY_142,Labridae,Halichoeres_hortulanus,93.65,23.8
+WIO,Mayotte,South_west,2016,9.7,Site_5,Fringing,Sheltered,12.89616667,45.072,16_MY_148,Labridae,Halichoeres_hortulanus,31.31,23.8
+WIO,Mayotte,South_west,2016,9.7,Site_5,Fringing,Sheltered,12.89616667,45.072,16_MY_164,Labridae,Halichoeres_hortulanus,59.57,23.8
+WIO,Mayotte,South_west,2016,8,Site_5,Fringing,Sheltered,12.89616667,45.07183333,16_MY_195,Labridae,Halichoeres_hortulanus,43.5,24.4
+WIO,Mayotte,South_west,2016,8,Site_5,Fringing,Sheltered,12.89616667,45.07183333,16_MY_201,Labridae,Halichoeres_hortulanus,82.5,24.4
+WIO,Mayotte,South_west,2016,9,Site_9,Patch,Medium,12.94083333,45.0645,16_MY_852,Labridae,Halichoeres_hortulanus,21.67,25.4
+WIO,Mayotte,South_west,2016,6.2,Site_9,Patch,Medium,12.94116667,45.06416667,Morpho_16_MY_008,Labridae,Halichoeres_hortulanus,123.1,24.4
+WIO,Mayotte,South_west,2016,5,Site_9,Patch,Medium,12.94116667,45.06416667,Morpho_16_MY_039,Labridae,Halichoeres_hortulanus,40.24,24.7
+WIO,Mayotte,South_west,2016,7,Site_9,Patch,Medium,12.94116667,45.06416667,16_MY_246,Labridae,Halichoeres_hortulanus,153.18,24.8
+WIO,Mayotte,South_west,2016,7,Site_9,Patch,Medium,12.94116667,45.06416667,16_MY_265,Labridae,Halichoeres_hortulanus,147.04,24.8
+WIO,Mayotte,South_west,2016,7,Site_9,Patch,Medium,12.94116667,45.06416667,16_MY_266,Labridae,Halichoeres_hortulanus,30.67,24.8
+WIO,Mayotte,South_west,2016,7,Site_9,Patch,Medium,12.94116667,45.06416667,16_MY_267,Labridae,Halichoeres_hortulanus,50.47,24.8
+WIO,Mayotte,South_west,2016,12,Site_0,Fringing,Sheltered,12.71883333,45.04283333,16_MY_187,Labridae,Hemigymnus_fasciatus,185,25
+WIO,Mayotte,North,2016,12,Site_0,Fringing,Sheltered,12.71883333,45.04283333,16_MY_412,Labridae,Hemigymnus_fasciatus,106.26,25
+WIO,Mayotte,North,2016,12,Site_0,Fringing,Sheltered,12.71883333,45.04283333,16_MY_414,Labridae,Hemigymnus_fasciatus,171.26,25
+WIO,Mayotte,North,2016,12,Site_0,Fringing,Sheltered,12.71883333,45.04283333,16_MY_424,Labridae,Hemigymnus_fasciatus,85.69,25
+WIO,Mayotte,North,2016,3,Site_0,Fringing,Sheltered,12.7185,46.04316667,16_MY_682,Labridae,Hemigymnus_fasciatus,119.91,24.6
+WIO,Mayotte,North,2016,3,Site_11,Patch,Medium,12.63766667,45.12916667,16_MY_738,Labridae,Hemigymnus_fasciatus,220.99,25
+WIO,Mayotte,South_east,2016,7,Site_2,Barrier_in,Exposed,12.9505,45.21466667,16_MY_910,Labridae,Hemigymnus_fasciatus,158.84,25.2
+WIO,Mayotte,South_east,2016,7,Site_2,Barrier_in,Exposed,12.9505,45.21466667,16_MY_913,Labridae,Hemigymnus_fasciatus,95.15,25.2
+WIO,Mayotte,South_west,2016,18.4,Site_3,Barrier_out,Exposed,12.91283333,44.96166667,16_MY_066,Labridae,Hemigymnus_fasciatus,232.78,26.2
+WIO,Mayotte,South_west,2016,5.5,Site_3,Barrier_in,Exposed,12.90483333,44.97133333,16_MY_474,Labridae,Hemigymnus_fasciatus,229.07,25.1
+WIO,Mayotte,South_west,2016,9,Site_9,Patch,Medium,12.94083333,45.0645,16_MY_862,Labridae,Hemigymnus_fasciatus,92.18,25.4
+WIO,Mayotte,South_west,2016,5,Site_9,Patch,Medium,12.94116667,45.06416667,Morpho_16_MY_038,Labridae,Hemigymnus_fasciatus,153.57,24.7
+WIO,Mayotte,South_east,2016,7,Site_2,Barrier_in,Exposed,12.9505,45.21466667,16_MY_915,Lutjanidae,Lutjanus_kasmira,59.79,25.2
+WIO,Mayotte,South_east,2016,10,Site_2,Barrier_in,Exposed,12.95016667,45.21433333,16_MY_574,Lutjanidae,Lutjanus_kasmira,61.6,26
+WIO,Mayotte,South_east,2016,10,Site_2,Barrier_in,Exposed,12.95016667,45.21433333,16_MY_575,Lutjanidae,Lutjanus_kasmira,56.88,26
+WIO,Mayotte,South_east,2016,10,Site_2,Barrier_in,Exposed,12.95016667,45.21433333,16_MY_576,Lutjanidae,Lutjanus_kasmira,42,26
+WIO,Mayotte,South_east,2016,10,Site_2,Barrier_in,Exposed,12.95016667,45.21433333,16_MY_577,Lutjanidae,Lutjanus_kasmira,111.39,26
+WIO,Mayotte,South_east,2016,10,Site_2,Barrier_in,Exposed,12.95016667,45.21433333,16_MY_578,Lutjanidae,Lutjanus_kasmira,75.18,26
+WIO,Mayotte,South_east,2016,10,Site_2,Barrier_in,Exposed,12.95016667,45.21433333,16_MY_579,Lutjanidae,Lutjanus_kasmira,22,26
+WIO,Mayotte,South_east,2016,10,Site_2,Barrier_in,Exposed,12.95016667,45.21433333,16_MY_580,Lutjanidae,Lutjanus_kasmira,71.23,26
+WIO,Mayotte,South_east,2016,10,Site_2,Barrier_in,Exposed,12.95016667,45.21433333,16_MY_581,Lutjanidae,Lutjanus_kasmira,68.32,26
+WIO,Mayotte,South_west,2016,10,Site_3,Barrier_in,Exposed,12.905,44.9715,16_MY_343,Lutjanidae,Lutjanus_kasmira,75.47,25.1
+WIO,Mayotte,South_west,2016,10,Site_3,Barrier_in,Exposed,12.905,44.9715,16_MY_350,Lutjanidae,Lutjanus_kasmira,51.12,25.1
+WIO,Mayotte,North,2016,12,Site_0,Fringing,Sheltered,12.71883333,45.04283333,16_MY_422,Lethrinidae,Monotaxis_grandoculis,31.86,25
+WIO,Mayotte,North,2016,3,Site_0,Fringing,Sheltered,12.7185,46.04316667,16_MY_690,Lethrinidae,Monotaxis_grandoculis,41.18,24.6
+WIO,Mayotte,North,2016,3,Site_0,Fringing,Sheltered,12.7185,46.04316667,16_MY_703,Lethrinidae,Monotaxis_grandoculis,76.85,24.6
+WIO,Mayotte,North,2016,8,Site_11,Patch,Medium,12.637,45.12916667,16_MY_213,Lethrinidae,Monotaxis_grandoculis,269.9,24.8
+WIO,Mayotte,North,2016,3,Site_11,Patch,Medium,12.63766667,45.12916667,16_MY_716,Lethrinidae,Monotaxis_grandoculis,176.96,25
+WIO,Mayotte,North,2016,3,Site_11,Patch,Medium,12.63766667,45.12916667,16_MY_741,Lethrinidae,Monotaxis_grandoculis,489.17,25
+WIO,Mayotte,South_east,2016,7,Site_2,Barrier_in,Exposed,12.95033333,45.2145,16_MY_899,Lethrinidae,Monotaxis_grandoculis,24.49,25.2
+WIO,Mayotte,South_east,2016,7,Site_2,Barrier_in,Exposed,12.95033333,45.2145,16_MY_907,Lethrinidae,Monotaxis_grandoculis,107.32,25.2
+WIO,Mayotte,South_east,2016,7,Site_2,Barrier_in,Exposed,12.9505,45.21466667,16_MY_917,Lethrinidae,Monotaxis_grandoculis,28.21,25.2
+WIO,Mayotte,South_east,2016,10,Site_2,Barrier_in,Exposed,12.95016667,45.21433333,16_MY_582,Lethrinidae,Monotaxis_grandoculis,124.63,26
+WIO,Mayotte,South_east,2016,10,Site_2,Barrier_in,Exposed,12.95016667,45.21433333,16_MY_583,Lethrinidae,Monotaxis_grandoculis,71.83,26
+WIO,Mayotte,South_east,2016,10,Site_2,Barrier_in,Exposed,12.95016667,45.21433333,16_MY_612,Lethrinidae,Monotaxis_grandoculis,67.75,26
+WIO,Mayotte,South_east,2016,10,Site_2,Barrier_in,Exposed,12.95016667,45.21433333,16_MY_617,Lethrinidae,Monotaxis_grandoculis,286.41,26
+WIO,Mayotte,South_east,2016,10,Site_2,Barrier_in,Exposed,12.95016667,45.21433333,16_MY_640,Lethrinidae,Monotaxis_grandoculis,10.84,26
+WIO,Mayotte,South_west,2016,5.5,Site_3,Barrier_in,Exposed,12.90483333,44.97133333,16_MY_510,Lethrinidae,Monotaxis_grandoculis,240.22,25.1
+WIO,Mayotte,South_west,2016,5.5,Site_3,Barrier_in,Exposed,12.90483333,44.97133333,16_MY_514,Lethrinidae,Monotaxis_grandoculis,187.96,25.1
+WIO,Mayotte,South_west,2016,5.5,Site_3,Barrier_in,Exposed,12.90483333,44.97133333,16_MY_517,Lethrinidae,Monotaxis_grandoculis,NA,25.1
+WIO,Mayotte,South_west,2016,12,Site_0,Fringing,Sheltered,12.71883333,45.04283333,16_MY_183,Holocentridae,Myripristis_violacea,195,25
+WIO,Mayotte,South_west,2016,12,Site_0,Fringing,Sheltered,12.71883333,45.04283333,16_MY_184,Holocentridae,Myripristis_violacea,160,25
+WIO,Mayotte,South_west,2016,12,Site_0,Fringing,Sheltered,12.71883333,45.04283333,16_MY_185,Holocentridae,Myripristis_violacea,155,25
+WIO,Mayotte,North,2016,8,Site_11,Patch,Medium,12.637,45.12916667,16_MY_211,Holocentridae,Myripristis_violacea,104.18,24.8
+WIO,Mayotte,North,2016,8,Site_11,Patch,Medium,12.637,45.12916667,16_MY_212,Holocentridae,Myripristis_violacea,139,24.8
+WIO,Mayotte,South_west,2016,10,Site_3,Barrier_in,Exposed,12.905,44.9715,16_MY_336,Holocentridae,Myripristis_violacea,141.78,25.1
+WIO,Mayotte,South_west,2016,10,Site_3,Barrier_in,Exposed,12.905,44.9715,16_MY_354,Holocentridae,Myripristis_violacea,142.6,25.1
+WIO,Mayotte,South_west,2016,8,Site_5,Fringing,Sheltered,12.89616667,45.07183333,16_MY_177,Holocentridae,Myripristis_violacea,60,24.4
+WIO,Mayotte,South_west,2016,8,Site_5,Fringing,Sheltered,12.89616667,45.07183333,16_MY_178,Holocentridae,Myripristis_violacea,55,24.4
+WIO,Mayotte,South_east,2016,6,Site_7,Fringing,Sheltered,12.919,45.20816667,16_MY_779,Holocentridae,Myripristis_violacea,111.47,26
+WIO,Mayotte,North,2016,6,Site_12,Barrier_out,Exposed,12.62266667,45.15883333,16_MY_527,Acanthuridae,Naso_brevirostris,199.79,26
+WIO,Mayotte,South_west,2016,8,Site_5,Fringing,Sheltered,12.89616667,45.07183333,16_MY_175,Acanthuridae,Naso_brevirostris,155,24.4
+WIO,Mayotte,South_west,2016,8,Site_5,Fringing,Sheltered,12.89616667,45.07183333,16_MY_181,Acanthuridae,Naso_brevirostris,155,24.4
+WIO,Mayotte,South_east,2016,6,Site_7,Fringing,Sheltered,12.919,45.20816667,16_MY_761,Acanthuridae,Naso_brevirostris,27.2,26
+WIO,Mayotte,North,2016,3,Site_0,Fringing,Sheltered,12.7185,46.04316667,16_MY_670,Labridae,Oxycheilinus_digramma,86.79,24.6
+WIO,Mayotte,North,2016,6,Site_12,Barrier_out,Exposed,12.62266667,45.15883333,16_MY_552,Labridae,Oxycheilinus_digramma,106.15,26
+WIO,Mayotte,North,2016,6,Site_12,Barrier_out,Exposed,12.62266667,45.15883333,16_MY_571,Labridae,Oxycheilinus_digramma,60.08,26
+WIO,Mayotte,North,2016,6,Site_12,Barrier_out,Exposed,12.62266667,45.15883333,16_MY_572,Labridae,Oxycheilinus_digramma,42.38,26
+WIO,Mayotte,South_west,2016,10,Site_3,Barrier_out,Exposed,12.91233333,44.962,16_MY_436,Labridae,Oxycheilinus_digramma,89,25.1
+WIO,Mayotte,South_west,2016,10,Site_3,Barrier_out,Exposed,12.91233333,44.962,16_MY_437,Labridae,Oxycheilinus_digramma,61.66,25.1
+WIO,Mayotte,South_west,2016,5.5,Site_3,Barrier_in,Exposed,12.90483333,44.97133333,16_MY_465,Labridae,Oxycheilinus_digramma,181.05,25.1
+WIO,Mayotte,South_west,2016,5.5,Site_3,Barrier_in,Exposed,12.90483333,44.97133333,16_MY_466,Labridae,Oxycheilinus_digramma,158.59,25.1
+WIO,Mayotte,South_west,2016,9.7,Site_5,Fringing,Sheltered,12.89616667,45.072,16_MY_169,Labridae,Oxycheilinus_digramma,30.04,23.8
+WIO,Mayotte,North,2016,9.3,Site_0,Fringing,Sheltered,12.71883333,45.043,16_MY_118,Monacanthidae,Oxymonacanthus_longirostris,7.26,24.2
+WIO,Mayotte,North,2016,3,Site_0,Fringing,Sheltered,12.7185,46.04316667,16_MY_668,Monacanthidae,Oxymonacanthus_longirostris,10.12,24.6
+WIO,Mayotte,North,2016,3,Site_0,Fringing,Sheltered,12.7185,46.04316667,16_MY_673,Monacanthidae,Oxymonacanthus_longirostris,10.52,24.6
+WIO,Mayotte,North,2016,3,Site_0,Fringing,Sheltered,12.7185,46.04316667,16_MY_674,Monacanthidae,Oxymonacanthus_longirostris,9.9,24.6
+WIO,Mayotte,North,2016,3,Site_0,Fringing,Sheltered,12.7185,46.04316667,16_MY_680,Monacanthidae,Oxymonacanthus_longirostris,7.72,24.6
+WIO,Mayotte,North,2016,3,Site_0,Fringing,Sheltered,12.7185,46.04316667,16_MY_699,Monacanthidae,Oxymonacanthus_longirostris,8.93,24.6
+WIO,Mayotte,North,2016,5,Site_11,Patch,Medium,12.63783333,45.12916667,16_MY_828,Monacanthidae,Oxymonacanthus_longirostris,6.46,24.3
+WIO,Mayotte,North,2016,5,Site_11,Patch,Medium,12.63783333,45.12916667,16_MY_829,Monacanthidae,Oxymonacanthus_longirostris,8.8,24.3
+WIO,Mayotte,North,2016,5,Site_11,Patch,Medium,12.63783333,45.12916667,16_MY_836,Monacanthidae,Oxymonacanthus_longirostris,5.9,24.3
+WIO,Mayotte,North,2016,8,Site_11,Patch,Medium,12.637,45.12916667,16_MY_244,Monacanthidae,Oxymonacanthus_longirostris,8.05,24.8
+WIO,Mayotte,North,2016,3,Site_11,Patch,Medium,12.63766667,45.12916667,16_MY_706,Monacanthidae,Oxymonacanthus_longirostris,9.46,25
+WIO,Mayotte,South_west,2016,18.4,Site_3,Barrier_out,Exposed,12.91283333,44.96166667,16_MY_070,Monacanthidae,Oxymonacanthus_longirostris,10.42,26.2
+WIO,Mayotte,South_west,2016,10,Site_3,Barrier_in,Exposed,12.905,44.9715,16_MY_323,Monacanthidae,Oxymonacanthus_longirostris,10.15,25.1
+WIO,Mayotte,South_west,2016,5.5,Site_3,Barrier_in,Exposed,12.90483333,44.97133333,16_MY_467,Monacanthidae,Oxymonacanthus_longirostris,8.6,25.1
+WIO,Mayotte,South_west,2016,5.5,Site_3,Barrier_in,Exposed,12.90483333,44.97133333,16_MY_482,Monacanthidae,Oxymonacanthus_longirostris,10.15,25.1
+WIO,Mayotte,South_west,2016,8,Site_5,Fringing,Sheltered,12.89816667,45.0695,16_MY_802,Monacanthidae,Oxymonacanthus_longirostris,5.28,26.5
+WIO,Mayotte,South_west,2016,8,Site_5,Fringing,Sheltered,12.89816667,45.0695,16_MY_803,Monacanthidae,Oxymonacanthus_longirostris,6.73,26.5
+WIO,Mayotte,South_west,2016,8,Site_5,Fringing,Sheltered,12.89816667,45.0695,16_MY_804,Monacanthidae,Oxymonacanthus_longirostris,7.56,26.5
+WIO,Mayotte,South_west,2016,9.7,Site_5,Fringing,Sheltered,12.89616667,45.072,16_MY_161,Monacanthidae,Oxymonacanthus_longirostris,6.52,23.8
+WIO,Mayotte,South_west,2016,9.7,Site_5,Fringing,Sheltered,12.89616667,45.072,16_MY_162,Monacanthidae,Oxymonacanthus_longirostris,6.79,23.8
+WIO,Mayotte,South_west,2016,8,Site_5,Fringing,Sheltered,12.89616667,45.07183333,16_MY_193,Monacanthidae,Oxymonacanthus_longirostris,7.6,24.4
+WIO,Mayotte,South_east,2016,5,Site_7,Fringing,Sheltered,12.91916667,45.20833333,16_MY_365,Monacanthidae,Oxymonacanthus_longirostris,7.3,25.2
+WIO,Mayotte,South_east,2016,5,Site_7,Fringing,Sheltered,12.91916667,45.20833333,16_MY_377,Monacanthidae,Oxymonacanthus_longirostris,9.3,25.2
+WIO,Mayotte,South_east,2016,5,Site_7,Fringing,Sheltered,12.91916667,45.20833333,16_MY_381,Monacanthidae,Oxymonacanthus_longirostris,7.69,25.2
+WIO,Mayotte,South_east,2016,6,Site_7,Fringing,Sheltered,12.919,45.20816667,16_MY_757,Monacanthidae,Oxymonacanthus_longirostris,9.25,26
+WIO,Mayotte,South_east,2016,6,Site_7,Fringing,Sheltered,12.919,45.20816667,16_MY_764,Monacanthidae,Oxymonacanthus_longirostris,7.18,26
+WIO,Mayotte,South_east,2016,6,Site_7,Fringing,Sheltered,12.919,45.20816667,16_MY_773,Monacanthidae,Oxymonacanthus_longirostris,7.75,26
+WIO,Mayotte,South_west,2016,9,Site_9,Patch,Medium,12.94083333,45.0645,16_MY_849,Monacanthidae,Oxymonacanthus_longirostris,4.34,25.4
+WIO,Mayotte,South_west,2016,9,Site_9,Patch,Medium,12.94083333,45.0645,16_MY_850,Monacanthidae,Oxymonacanthus_longirostris,5.79,25.4
+WIO,Mayotte,South_west,2016,9,Site_9,Patch,Medium,12.94083333,45.0645,16_MY_851,Monacanthidae,Oxymonacanthus_longirostris,6.1,25.4
+WIO,Mayotte,South_west,2016,9,Site_9,Patch,Medium,12.94083333,45.0645,16_MY_854,Monacanthidae,Oxymonacanthus_longirostris,5.12,25.4
+WIO,Mayotte,South_west,2016,9,Site_9,Patch,Medium,12.94083333,45.0645,16_MY_855,Monacanthidae,Oxymonacanthus_longirostris,4.73,25.4
+WIO,Mayotte,South_west,2016,9,Site_9,Patch,Medium,12.94083333,45.0645,16_MY_864,Monacanthidae,Oxymonacanthus_longirostris,6.29,25.4
+WIO,Mayotte,South_west,2016,9,Site_9,Patch,Medium,12.94083333,45.0645,16_MY_865,Monacanthidae,Oxymonacanthus_longirostris,6.75,25.4
+WIO,Mayotte,South_west,2016,9,Site_9,Patch,Medium,12.94083333,45.0645,16_MY_866,Monacanthidae,Oxymonacanthus_longirostris,7.42,25.4
+WIO,Mayotte,South_west,2016,9,Site_9,Patch,Medium,12.94083333,45.0645,16_MY_873,Monacanthidae,Oxymonacanthus_longirostris,5.55,25.4
+WIO,Mayotte,South_west,2016,9,Site_9,Patch,Medium,12.94083333,45.0645,16_MY_882,Monacanthidae,Oxymonacanthus_longirostris,6.02,25.4
+WIO,Mayotte,South_west,2016,6.2,Site_9,Patch,Medium,12.94116667,45.06416667,Morpho_16_MY_001,Monacanthidae,Oxymonacanthus_longirostris,7.05,24.4
+WIO,Mayotte,South_west,2016,5,Site_9,Patch,Medium,12.94116667,45.06416667,Morpho_16_MY_010,Monacanthidae,Oxymonacanthus_longirostris,5.43,24.7
+WIO,Mayotte,South_west,2016,5,Site_9,Patch,Medium,12.94116667,45.06416667,Morpho_16_MY_011,Monacanthidae,Oxymonacanthus_longirostris,4.56,24.7
+WIO,Mayotte,South_west,2016,5,Site_9,Patch,Medium,12.94116667,45.06416667,Morpho_16_MY_012,Monacanthidae,Oxymonacanthus_longirostris,7.66,24.7
+WIO,Mayotte,South_west,2016,7,Site_9,Patch,Medium,12.94116667,45.06416667,16_MY_281,Monacanthidae,Oxymonacanthus_longirostris,6.3,24.8
+WIO,Mayotte,South_west,2016,7,Site_9,Patch,Medium,12.94116667,45.06416667,16_MY_286,Monacanthidae,Oxymonacanthus_longirostris,8.33,24.8
+WIO,Mayotte,South_west,2016,7,Site_9,Patch,Medium,12.94116667,45.06416667,16_MY_287,Monacanthidae,Oxymonacanthus_longirostris,5.16,24.8
+WIO,Mayotte,North,2016,3,Site_11,Patch,Medium,12.63766667,45.12916667,16_MY_709,Pinguipedidae,Parapercis_hexophtalma,36.52,25
+WIO,Mayotte,North,2016,3,Site_11,Patch,Medium,12.63766667,45.12916667,16_MY_721,Pinguipedidae,Parapercis_hexophtalma,35.2,25
+WIO,Mayotte,South_east,2016,5.5,Site_2,Barrier_out,Exposed,12.91916667,45.20833333,16_MY_396,Pinguipedidae,Parapercis_hexophtalma,55.47,25.3
+WIO,Mayotte,South_west,2016,5.5,Site_3,Barrier_in,Exposed,12.90483333,44.97133333,16_MY_483,Pinguipedidae,Parapercis_hexophtalma,82.99,25.1
+WIO,Mayotte,South_west,2016,5.5,Site_3,Barrier_in,Exposed,12.90483333,44.97133333,16_MY_490,Pinguipedidae,Parapercis_hexophtalma,41.85,25.1
+WIO,Mayotte,South_west,2016,9.7,Site_5,Fringing,Sheltered,12.89616667,45.072,16_MY_150,Pinguipedidae,Parapercis_hexophtalma,41.9,23.8
+WIO,Mayotte,South_west,2016,7,Site_9,Patch,Medium,12.94116667,45.06416667,16_MY_288,Pinguipedidae,Parapercis_hexophtalma,15.39,24.8
+WIO,Mayotte,North,2016,3,Site_11,Patch,Medium,12.63766667,45.12916667,16_MY_713,Mullidae,Parupeneus_macronemus,91.47,25
+WIO,Mayotte,North,2016,3,Site_11,Patch,Medium,12.63766667,45.12916667,16_MY_718,Mullidae,Parupeneus_macronemus,40.13,25
+WIO,Mayotte,North,2016,6,Site_12,Barrier_out,Exposed,12.62266667,45.15883333,16_MY_557,Mullidae,Parupeneus_macronemus,39.24,26
+WIO,Mayotte,North,2016,6,Site_12,Barrier_out,Exposed,12.62266667,45.15883333,16_MY_558,Mullidae,Parupeneus_macronemus,30.73,26
+WIO,Mayotte,North,2016,6,Site_12,Barrier_out,Exposed,12.62266667,45.15883333,16_MY_559,Mullidae,Parupeneus_macronemus,18.23,26
+WIO,Mayotte,South_east,2016,7,Site_2,Barrier_in,Exposed,12.95033333,45.2145,16_MY_898,Mullidae,Parupeneus_macronemus,14.97,25.2
+WIO,Mayotte,South_east,2016,7,Site_2,Barrier_in,Exposed,12.95033333,45.2145,16_MY_902,Mullidae,Parupeneus_macronemus,15.53,25.2
+WIO,Mayotte,South_east,2016,7,Site_2,Barrier_in,Exposed,12.95083333,45.215,16_MY_937,Mullidae,Parupeneus_macronemus,21.56,25.2
+WIO,Mayotte,South_east,2016,7,Site_2,Barrier_in,Exposed,12.951,45.21516667,16_MY_939,Mullidae,Parupeneus_macronemus,9.37,25.2
+WIO,Mayotte,South_east,2016,5.5,Site_2,Barrier_out,Exposed,12.91916667,45.20833333,16_MY_392,Mullidae,Parupeneus_macronemus,20.65,25.3
+WIO,Mayotte,South_east,2016,10,Site_2,Barrier_in,Exposed,12.95016667,45.21433333,16_MY_588,Mullidae,Parupeneus_macronemus,14.59,26
+WIO,Mayotte,South_east,2016,10,Site_2,Barrier_in,Exposed,12.95016667,45.21433333,16_MY_596,Mullidae,Parupeneus_macronemus,23.88,26
+WIO,Mayotte,South_east,2016,10,Site_2,Barrier_in,Exposed,12.95016667,45.21433333,16_MY_634,Mullidae,Parupeneus_macronemus,31.83,26
+WIO,Mayotte,South_west,2016,10,Site_3,Barrier_in,Exposed,12.905,44.9715,16_MY_318,Mullidae,Parupeneus_macronemus,27.95,25.1
+WIO,Mayotte,South_west,2016,10,Site_3,Barrier_in,Exposed,12.905,44.9715,16_MY_327,Mullidae,Parupeneus_macronemus,34.8,25.1
+WIO,Mayotte,South_west,2016,10,Site_3,Barrier_in,Exposed,12.905,44.9715,16_MY_331,Mullidae,Parupeneus_macronemus,17.6,25.1
+WIO,Mayotte,South_west,2016,10,Site_3,Barrier_in,Exposed,12.905,44.9715,16_MY_338,Mullidae,Parupeneus_macronemus,46.43,25.1
+WIO,Mayotte,South_west,2016,10,Site_3,Barrier_in,Exposed,12.905,44.9715,16_MY_339,Mullidae,Parupeneus_macronemus,44.79,25.1
+WIO,Mayotte,South_west,2016,10,Site_3,Barrier_in,Exposed,12.905,44.9715,16_MY_347,Mullidae,Parupeneus_macronemus,67.5,25.1
+WIO,Mayotte,South_west,2016,5.5,Site_3,Barrier_in,Exposed,12.90483333,44.97133333,16_MY_473,Mullidae,Parupeneus_macronemus,22.02,25.1
+WIO,Mayotte,South_west,2016,5.5,Site_3,Barrier_in,Exposed,12.90483333,44.97133333,16_MY_476,Mullidae,Parupeneus_macronemus,22.66,25.1
+WIO,Mayotte,South_west,2016,8,Site_5,Fringing,Sheltered,12.89616667,45.07183333,16_MY_203,Mullidae,Parupeneus_macronemus,28.2,24.4
+WIO,Mayotte,South_west,2016,9,Site_9,Patch,Medium,12.94083333,45.0645,16_MY_853,Mullidae,Parupeneus_macronemus,40.46,25.4
+WIO,Mayotte,North,2016,9.3,Site_0,Fringing,Sheltered,12.71883333,45.043,16_MY_072,Serranidae,Pseudanthias_squamipinnis,16.68,24.2
+WIO,Mayotte,North,2016,9.3,Site_0,Fringing,Sheltered,12.71883333,45.043,16_MY_079,Serranidae,Pseudanthias_squamipinnis,17.18,24.2
+WIO,Mayotte,North,2016,12,Site_0,Fringing,Sheltered,12.71883333,45.04283333,16_MY_402,Serranidae,Pseudanthias_squamipinnis,17.76,25
+WIO,Mayotte,South_east,2016,7,Site_2,Barrier_in,Exposed,12.95066667,45.21483333,16_MY_924,Serranidae,Pseudanthias_squamipinnis,8.48,25.2
+WIO,Mayotte,South_east,2016,7,Site_2,Barrier_in,Exposed,12.95083333,45.215,16_MY_936,Serranidae,Pseudanthias_squamipinnis,8.94,25.2
+WIO,Mayotte,South_east,2016,7,Site_2,Barrier_in,Exposed,12.951,45.21516667,16_MY_938,Serranidae,Pseudanthias_squamipinnis,8.97,25.2
+WIO,Mayotte,South_east,2016,10,Site_2,Barrier_in,Exposed,12.95016667,45.21433333,16_MY_589,Serranidae,Pseudanthias_squamipinnis,10.98,26
+WIO,Mayotte,South_east,2016,10,Site_2,Barrier_in,Exposed,12.95016667,45.21433333,16_MY_643,Serranidae,Pseudanthias_squamipinnis,9.26,26
+WIO,Mayotte,North,2016,8,Site_11,Patch,Medium,12.637,45.12916667,16_MY_214,Caesionidae,Pterocaesio_marri,46.3,24.8
+WIO,Mayotte,North,2016,8,Site_11,Patch,Medium,12.637,45.12916667,16_MY_215,Caesionidae,Pterocaesio_marri,50.61,24.8
+WIO,Mayotte,North,2016,8,Site_11,Patch,Medium,12.637,45.12916667,16_MY_216,Caesionidae,Pterocaesio_marri,48.55,24.8
+WIO,Mayotte,North,2016,8,Site_11,Patch,Medium,12.637,45.12916667,16_MY_217,Caesionidae,Pterocaesio_marri,35.11,24.8
+WIO,Mayotte,North,2016,8,Site_11,Patch,Medium,12.637,45.12916667,16_MY_219,Caesionidae,Pterocaesio_marri,33,24.8
+WIO,Mayotte,North,2016,8,Site_11,Patch,Medium,12.637,45.12916667,16_MY_220,Caesionidae,Pterocaesio_marri,31.6,24.8
+WIO,Mayotte,North,2016,8,Site_11,Patch,Medium,12.637,45.12916667,16_MY_221,Caesionidae,Pterocaesio_marri,50.46,24.8
+WIO,Mayotte,North,2016,8,Site_11,Patch,Medium,12.637,45.12916667,16_MY_222,Caesionidae,Pterocaesio_marri,34.28,24.8
+WIO,Mayotte,North,2016,8,Site_11,Patch,Medium,12.637,45.12916667,16_MY_223,Caesionidae,Pterocaesio_marri,40.45,24.8
+WIO,Mayotte,North,2016,8,Site_11,Patch,Medium,12.637,45.12916667,16_MY_224,Caesionidae,Pterocaesio_marri,40.4,24.8
+WIO,Mayotte,North,2016,8,Site_11,Patch,Medium,12.637,45.12916667,16_MY_225,Caesionidae,Pterocaesio_marri,46.6,24.8
+WIO,Mayotte,North,2016,8,Site_11,Patch,Medium,12.637,45.12916667,16_MY_226,Caesionidae,Pterocaesio_marri,44.5,24.8
+WIO,Mayotte,North,2016,8,Site_11,Patch,Medium,12.637,45.12916667,16_MY_227,Caesionidae,Pterocaesio_marri,46.38,24.8
+WIO,Mayotte,North,2016,8,Site_11,Patch,Medium,12.637,45.12916667,16_MY_228,Caesionidae,Pterocaesio_marri,32.8,24.8
+WIO,Mayotte,North,2016,8,Site_11,Patch,Medium,12.637,45.12916667,16_MY_230,Caesionidae,Pterocaesio_marri,47.9,24.8
+WIO,Mayotte,North,2016,8,Site_11,Patch,Medium,12.637,45.12916667,16_MY_231,Caesionidae,Pterocaesio_marri,46.8,24.8
+WIO,Mayotte,North,2016,8,Site_11,Patch,Medium,12.637,45.12916667,16_MY_232,Caesionidae,Pterocaesio_marri,33,24.8
+WIO,Mayotte,North,2016,8,Site_11,Patch,Medium,12.637,45.12916667,16_MY_234,Caesionidae,Pterocaesio_marri,48.1,24.8
+WIO,Mayotte,South_east,2016,5,Site_7,Fringing,Sheltered,12.91916667,45.20833333,16_MY_363,Caesionidae,Pterocaesio_marri,14.3,25.2
+WIO,Mayotte,South_east,2016,5,Site_7,Fringing,Sheltered,12.91916667,45.20833333,16_MY_373,Caesionidae,Pterocaesio_marri,14.27,25.2
+WIO,Mayotte,South_east,2016,5,Site_7,Fringing,Sheltered,12.91916667,45.20833333,16_MY_380,Caesionidae,Pterocaesio_marri,15.7,25.2
+WIO,Mayotte,North,2016,9.3,Site_0,Fringing,Sheltered,12.71883333,45.043,16_MY_082,Caesionidae,Pterocaesio_tile,27.02,24.2
+WIO,Mayotte,North,2016,9.3,Site_0,Fringing,Sheltered,12.71883333,45.043,16_MY_089,Caesionidae,Pterocaesio_tile,36.61,24.2
+WIO,Mayotte,North,2016,9.3,Site_0,Fringing,Sheltered,12.71883333,45.043,16_MY_093,Caesionidae,Pterocaesio_tile,27.2,24.2
+WIO,Mayotte,North,2016,9.3,Site_0,Fringing,Sheltered,12.71883333,45.043,16_MY_108,Caesionidae,Pterocaesio_tile,23.65,24.2
+WIO,Mayotte,North,2016,9.3,Site_0,Fringing,Sheltered,12.71883333,45.043,16_MY_109,Caesionidae,Pterocaesio_tile,24.57,24.2
+WIO,Mayotte,North,2016,9.3,Site_0,Fringing,Sheltered,12.71883333,45.043,16_MY_115,Caesionidae,Pterocaesio_tile,23.92,24.2
+WIO,Mayotte,North,2016,9.3,Site_0,Fringing,Sheltered,12.71883333,45.043,16_MY_116,Caesionidae,Pterocaesio_tile,12.26,24.2
+WIO,Mayotte,North,2016,9.3,Site_0,Fringing,Sheltered,12.71883333,45.043,16_MY_117,Caesionidae,Pterocaesio_tile,31.29,24.2
+WIO,Mayotte,North,2016,8,Site_11,Patch,Medium,12.637,45.12916667,16_MY_218,Caesionidae,Pterocaesio_tile,27.35,24.8
+WIO,Mayotte,North,2016,8,Site_11,Patch,Medium,12.637,45.12916667,16_MY_229,Caesionidae,Pterocaesio_tile,35.3,24.8
+WIO,Mayotte,North,2016,8,Site_11,Patch,Medium,12.637,45.12916667,16_MY_233,Caesionidae,Pterocaesio_tile,43.6,24.8
+WIO,Mayotte,South_east,2016,5,Site_7,Fringing,Sheltered,12.91916667,45.20833333,16_MY_356,Caesionidae,Pterocaesio_tile,18.05,25.2
+WIO,Mayotte,South_east,2016,5,Site_7,Fringing,Sheltered,12.91916667,45.20833333,16_MY_370,Caesionidae,Pterocaesio_tile,27.25,25.2
+WIO,Mayotte,South_east,2016,5,Site_7,Fringing,Sheltered,12.91916667,45.20833333,16_MY_382,Caesionidae,Pterocaesio_tile,17.9,25.2
+WIO,Mayotte,South_east,2016,5,Site_7,Fringing,Sheltered,12.91916667,45.20833333,16_MY_383,Caesionidae,Pterocaesio_tile,14.35,25.2
+WIO,Mayotte,South_east,2016,5,Site_7,Fringing,Sheltered,12.91916667,45.20833333,16_MY_387,Caesionidae,Pterocaesio_tile,20.16,25.2
+WIO,Mayotte,South_east,2016,5,Site_7,Fringing,Sheltered,12.91916667,45.20833333,16_MY_388,Caesionidae,Pterocaesio_tile,22.4,25.2
+WIO,Mayotte,South_west,2016,7,Site_9,Patch,Medium,12.94116667,45.06416667,16_MY_278,Caesionidae,Pterocaesio_tile,35.9,24.8
+WIO,Mayotte,South_west,2016,7,Site_9,Patch,Medium,12.94116667,45.06416667,16_MY_285,Caesionidae,Pterocaesio_tile,38.97,24.8
+WIO,Mayotte,North,2016,12,Site_0,Fringing,Sheltered,12.71883333,45.04283333,16_MY_405,Zanclidae,Zanclus_cornutus,107.57,25
+WIO,Mayotte,North,2016,6,Site_12,Barrier_out,Exposed,12.62266667,45.15883333,16_MY_543,Zanclidae,Zanclus_cornutus,103.7,26
+WIO,Mayotte,South_east,2016,7,Site_2,Barrier_in,Exposed,12.9505,45.21466667,16_MY_909,Zanclidae,Zanclus_cornutus,115.77,25.2
+WIO,Mayotte,South_east,2016,7,Site_2,Barrier_in,Exposed,12.9505,45.21466667,16_MY_912,Zanclidae,Zanclus_cornutus,129.74,25.2
+WIO,Mayotte,South_east,2016,7,Site_2,Barrier_in,Exposed,12.9505,45.21466667,16_MY_914,Zanclidae,Zanclus_cornutus,130.59,25.2
+WIO,Mayotte,South_east,2016,10,Site_2,Barrier_in,Exposed,12.95016667,45.21433333,16_MY_619,Zanclidae,Zanclus_cornutus,122.8,26
+WIO,Mayotte,South_west,2016,10,Site_3,Barrier_in,Exposed,12.905,44.9715,16_MY_349,Zanclidae,Zanclus_cornutus,83.96,25.1
+WIO,Mayotte,South_west,2016,10,Site_3,Barrier_out,Exposed,12.91233333,44.962,16_MY_434,Zanclidae,Zanclus_cornutus,121.2,25.1
+WIO,Mayotte,South_east,2016,5,Site_7,Fringing,Sheltered,12.91916667,45.20833333,16_MY_379,Zanclidae,Zanclus_cornutus,91.76,25.2
+WIO,Mayotte,South_east,2016,6,Site_7,Fringing,Sheltered,12.919,45.20816667,16_MY_772,Zanclidae,Zanclus_cornutus,83.01,26
+WIO,Mayotte,South_west,2016,9,Site_9,Patch,Medium,12.94083333,45.0645,16_MY_890,Zanclidae,Zanclus_cornutus,101.1,25.4
+WIO,Seychelles,Aquarium_Beau_Valon,2017,12,4.1,Patch,Medium,-4.60281,55.42241,17_SC_074,Pomacentridae,Amphiprion_akallopisos,21,26
+WIO,Seychelles,Aquarium_Beau_Valon,2017,12,4.1,Patch,Medium,-4.60281,55.42241,17_SC_075,Pomacentridae,Amphiprion_akallopisos,10,26
+WIO,Seychelles,St Anne,2017,8,1.1,Fringing,Sheltered,-4.60585,55.49427,17_SC_008,Tetraodontidae,Canthigaster_valentini,11,25
+WIO,Seychelles,St Anne,2017,9,2.1,Fringing,Sheltered,-4.611076,55.494518,17_SC_026,Tetraodontidae,Canthigaster_valentini,10,26
+WIO,Seychelles,St Anne,2017,9,2.1,Fringing,Sheltered,-4.611076,55.494518,17_SC_027,Tetraodontidae,Canthigaster_valentini,5,26
+WIO,Seychelles,Beau Valon,2017,10,3.1,Patch,Medium,-4.60113,55.42442,17_SC_056,Tetraodontidae,Canthigaster_valentini,15,26
+WIO,Seychelles,Beau Valon,2017,10,3.1,Patch,Medium,-4.60113,55.42442,17_SC_057,Tetraodontidae,Canthigaster_valentini,NA,26
+WIO,Seychelles,Aquarium_Beau_Valon,2017,14.5,5.1,Patch,Medium,-4.60287,55.42242,17_SC_113,Tetraodontidae,Canthigaster_valentini,35,26
+WIO,Seychelles,Praslin_La_Reserve,2017,8,6.1,Fringing,Sheltered,-4.30865,55.73193,17_SC_145,Tetraodontidae,Canthigaster_valentini,14,26
+WIO,Seychelles,Praslin_La_Reserve,2017,8,6.1,Fringing,Sheltered,-4.30865,55.73193,17_SC_149,Tetraodontidae,Canthigaster_valentini,9,26
+WIO,Seychelles,Beau Valon,2017,20,9.1,Patch,Medium,-4.60193,55.42192,17_SC_255,Tetraodontidae,Canthigaster_valentini,12,26
+WIO,Seychelles,Beau Valon,2017,20,9.1,Patch,Medium,-4.60193,55.42192,17_SC_256,Tetraodontidae,Canthigaster_valentini,10,26
+WIO,Seychelles,Praslin_La_Reserve,2017,6,6.1,Fringing,Sheltered,-4.30865,55.73193,17_SC_177,Carangidae,Caranx_melampygus,535,26
+WIO,Seychelles,Praslin_La_Reserve,2017,6,6.1,Fringing,Sheltered,-4.30865,55.73193,17_SC_178,Carangidae,Caranx_melampygus,655,26
+WIO,Seychelles,St Anne,2017,8,1.1,Fringing,Sheltered,-4.60585,55.49427,17_SC_001,Chaetodontidae,Chaetodon_trifasciatus,24,25
+WIO,Seychelles,St Anne,2017,8,1.1,Fringing,Sheltered,-4.60585,55.49427,17_SC_005,Chaetodontidae,Chaetodon_trifasciatus,38,25
+WIO,Seychelles,St Anne,2017,8,1.1,Fringing,Sheltered,-4.60585,55.49427,17_SC_006,Chaetodontidae,Chaetodon_trifasciatus,38,25
+WIO,Seychelles,Beau Valon,2017,10,3.1,Patch,Medium,-4.60113,55.42442,17_SC_053,Chaetodontidae,Chaetodon_trifasciatus,35,26
+WIO,Seychelles,Beau Valon,2017,10,3.1,Patch,Medium,-4.60113,55.42442,17_SC_054,Chaetodontidae,Chaetodon_trifasciatus,30,26
+WIO,Seychelles,Praslin_La_Reserve,2017,8,6.1,Fringing,Sheltered,-4.30865,55.73193,17_SC_135,Chaetodontidae,Chaetodon_trifasciatus,29,26
+WIO,Seychelles,Praslin_La_Reserve,2017,8,6.1,Fringing,Sheltered,-4.30865,55.73193,17_SC_136,Chaetodontidae,Chaetodon_trifasciatus,45,26
+WIO,Seychelles,Praslin_La_Reserve,2017,8,6.1,Fringing,Sheltered,-4.30865,55.73193,17_SC_142,Chaetodontidae,Chaetodon_trifasciatus,31,26
+WIO,Seychelles,Praslin_La_Reserve,2017,8,6.1,Fringing,Sheltered,-4.30865,55.73193,17_SC_156,Chaetodontidae,Chaetodon_trifasciatus,NA,26
+WIO,Seychelles,Praslin_La_Reserve,2017,6,6.1,Fringing,Sheltered,-4.30865,55.73193,17_SC_161,Chaetodontidae,Chaetodon_trifasciatus,NA,26
+WIO,Seychelles,St Anne,2017,8,1.1,Fringing,Sheltered,-4.60585,55.49427,17_SC_010,Pomacentridae,Chromis_atripectoralis,22,25
+WIO,Seychelles,St Anne,2017,8,1.1,Fringing,Sheltered,-4.60585,55.49427,17_SC_011,Pomacentridae,Chromis_atripectoralis,13,25
+WIO,Seychelles,St Anne,2017,8,1.1,Fringing,Sheltered,-4.60585,55.49427,17_SC_012,Pomacentridae,Chromis_atripectoralis,18,25
+WIO,Seychelles,St Anne,2017,8,1.1,Fringing,Sheltered,-4.60585,55.49427,17_SC_013,Pomacentridae,Chromis_atripectoralis,11,25
+WIO,Seychelles,La_Digue,2017,7,7.1,Fringing,Sheltered,-4.34162,55.82841,17_SC_182,Pomacentridae,Chromis_atripectoralis,10,26
+WIO,Seychelles,La_Digue,2017,7,7.1,Fringing,Sheltered,-4.34162,55.82841,17_SC_183,Pomacentridae,Chromis_atripectoralis,9,26
+WIO,Seychelles,La_Digue,2017,7,7.1,Fringing,Sheltered,-4.34162,55.82841,17_SC_184,Pomacentridae,Chromis_atripectoralis,8,26
+WIO,Seychelles,Anse_La_mouche,2017,5,7.2,Fringing,Sheltered,-4.74075,55.4715,17_SC_199,Pomacentridae,Chromis_atripectoralis,20,27
+WIO,Seychelles,Anse_La_mouche,2017,5,7.2,Fringing,Sheltered,-4.74075,55.4715,17_SC_200,Pomacentridae,Chromis_atripectoralis,20,27
+WIO,Seychelles,Anse_La_mouche,2017,5,7.2,Fringing,Sheltered,-4.74075,55.4715,17_SC_201,Pomacentridae,Chromis_atripectoralis,20,27
+WIO,Seychelles,Anse_La_mouche,2017,5,7.2,Fringing,Sheltered,-4.74075,55.4715,17_SC_202,Pomacentridae,Chromis_atripectoralis,20,27
+WIO,Seychelles,Anse_La_mouche,2017,5,7.2,Fringing,Sheltered,-4.74075,55.4715,4�35.565',55�28.947',Chromis_atripectoralis,20,27
+WIO,Seychelles,Anse_La_mouche,2017,5,7.2,Fringing,Sheltered,-4.74075,55.4715,17_SC_204,Pomacentridae,Chromis_atripectoralis,15,27
+WIO,Seychelles,Anse_La_mouche,2017,5,7.2,Fringing,Sheltered,-4.74075,55.4715,17_SC_205,Pomacentridae,Chromis_atripectoralis,20,27
+WIO,Seychelles,St Anne,2017,9,2.1,Fringing,Sheltered,-4.611076,55.494518,17_SC_029,Pomacentridae,Chromis_ternatensis,20,26
+WIO,Seychelles,St Anne,2017,9,2.1,Fringing,Sheltered,-4.611076,55.494518,17_SC_030,Pomacentridae,Chromis_ternatensis,19,26
+WIO,Seychelles,St Anne,2017,9,2.1,Fringing,Sheltered,-4.611076,55.494518,17_SC_031,Pomacentridae,Chromis_ternatensis,17,26
+WIO,Seychelles,Four_seasons,2017,8,8.1,Fringing,Sheltered,-4.7383,55.47532,17_SC_230,Pomacentridae,Chromis_ternatensis,20,27
+WIO,Seychelles,Four_seasons,2017,8,8.1,Fringing,Sheltered,-4.7383,55.47532,17_SC_231,Pomacentridae,Chromis_ternatensis,20,27
+WIO,Seychelles,Four_seasons,2017,8,8.1,Fringing,Sheltered,-4.7383,55.47532,17_SC_232,Pomacentridae,Chromis_ternatensis,20,27
+WIO,Seychelles,Four_seasons,2017,8,8.1,Fringing,Sheltered,-4.7383,55.47532,17_SC_234,Pomacentridae,Chromis_ternatensis,20,27
+WIO,Seychelles,Four_seasons,2017,8,8.1,Fringing,Sheltered,-4.7383,55.47532,17_SC_235,Pomacentridae,Chromis_ternatensis,20,27
+WIO,Seychelles,Four_seasons,2017,8,8.1,Fringing,Sheltered,-4.7383,55.47532,17_SC_236,Pomacentridae,Chromis_ternatensis,20,27
+WIO,Seychelles,Four_seasons,2017,8,8.1,Fringing,Sheltered,-4.7383,55.47532,17_SC_237,Pomacentridae,Chromis_ternatensis,20,27
+WIO,Seychelles,Four_seasons,2017,8,8.1,Fringing,Sheltered,-4.7383,55.47532,17_SC_238,Pomacentridae,Chromis_ternatensis,15,27
+WIO,Seychelles,St Anne,2017,8,1.1,Fringing,Sheltered,-4.60585,55.49427,17_SC_009,Pomacentridae,Chromis_weberi,20,25
+WIO,Seychelles,St Anne,2017,9,2.1,Fringing,Sheltered,-4.611076,55.494518,17_SC_028,Pomacentridae,Chromis_weberi,16,26
+WIO,Seychelles,Ile_Therese,2017,7,4.2,Fringing,Sheltered,-4.6703,55.40377,17_SC_090,Pomacentridae,Chromis_weberi,10,26
+WIO,Seychelles,Ile_Therese,2017,7,4.2,Fringing,Sheltered,-4.6703,55.40377,17_SC_091,Pomacentridae,Chromis_weberi,22,26
+WIO,Seychelles,Aquarium_Beau_Valon,2017,14.5,5.1,Patch,Medium,-4.60287,55.42242,17_SC_105,Pomacentridae,Chromis_weberi,30,26
+WIO,Seychelles,Aquarium_Beau_Valon,2017,14.5,5.1,Patch,Medium,-4.60287,55.42242,17_SC_106,Pomacentridae,Chromis_weberi,39,26
+WIO,Seychelles,Praslin_La_Reserve,2017,8,6.1,Fringing,Sheltered,-4.30865,55.73193,17_SC_144,Pomacentridae,Chromis_weberi,16,26
+WIO,Seychelles,Praslin_La_Reserve,2017,8,6.1,Fringing,Sheltered,-4.30865,55.73193,17_SC_152,Pomacentridae,Chromis_weberi,24,26
+WIO,Seychelles,Praslin_La_Reserve,2017,8,6.1,Fringing,Sheltered,-4.30865,55.73193,17_SC_153,Pomacentridae,Chromis_weberi,5,26
+WIO,Seychelles,Praslin_La_Reserve,2017,8,6.1,Fringing,Sheltered,-4.30865,55.73193,17_SC_154,Pomacentridae,Chromis_weberi,21,26
+WIO,Seychelles,Praslin_La_Reserve,2017,8,6.1,Fringing,Sheltered,-4.30865,55.73193,17_SC_155,Pomacentridae,Chromis_weberi,NA,26
+WIO,Seychelles,Praslin_La_Reserve,2017,8,6.1,Fringing,Sheltered,-4.30865,55.73193,17_SC_157,Pomacentridae,Chromis_weberi,NA,26
+WIO,Seychelles,Praslin_La_Reserve,2017,8,6.1,Fringing,Sheltered,-4.30865,55.73193,Morpho_17_SC_003,Pomacentridae,Chromis_weberi,NA,26
+WIO,Seychelles,Praslin_La_Reserve,2017,8,6.1,Fringing,Sheltered,-4.30865,55.73193,Morpho_17_SC_004,Pomacentridae,Chromis_weberi,NA,26
+WIO,Seychelles,Four_seasons,2017,8,8.1,Fringing,Sheltered,-4.7383,55.47532,17_SC_233,Pomacentridae,Chromis_weberi,20,27
+WIO,Seychelles,Praslin_La_Reserve,2017,8,6.1,Fringing,Sheltered,-4.30865,55.73193,17_SC_137,Acanthuridae,Ctenochaetus_striatus,86,26
+WIO,Seychelles,Praslin_La_Reserve,2017,6,6.1,Fringing,Sheltered,-4.30865,55.73193,17_SC_166,Acanthuridae,Ctenochaetus_striatus,NA,26
+WIO,Seychelles,Praslin_La_Reserve,2017,6,6.1,Fringing,Sheltered,-4.30865,55.73193,17_SC_171,Acanthuridae,Ctenochaetus_striatus,NA,26
+WIO,Seychelles,Anse_La_mouche,2017,5,7.2,Fringing,Sheltered,-4.74075,55.4715,17_SC_195,Acanthuridae,Ctenochaetus_striatus,100,27
+WIO,Seychelles,Anse_La_mouche,2017,5,7.2,Fringing,Sheltered,-4.74075,55.4715,17_SC_196,Acanthuridae,Ctenochaetus_striatus,75,27
+WIO,Seychelles,Anse_La_mouche,2017,5,7.2,Fringing,Sheltered,-4.74075,55.4715,17_SC_219,Acanthuridae,Ctenochaetus_striatus,85,27
+WIO,Seychelles,Ile au Cerf,2017,6,2.2,Fringing,Sheltered,-4.61679,55.50827,17_SC_040,Pomacentridae,Dascyllus_aruanus,3,26
+WIO,Seychelles,Ile_Therese,2017,7,4.2,Fringing,Sheltered,-4.6703,55.40377,17_SC_092,Pomacentridae,Dascyllus_aruanus,8,26
+WIO,Seychelles,Praslin_La_Reserve,2017,8,6.1,Fringing,Sheltered,-4.30865,55.73193,17_SC_146,Pomacentridae,Dascyllus_aruanus,4,26
+WIO,Seychelles,Praslin_La_Reserve,2017,8,6.1,Fringing,Sheltered,-4.30865,55.73193,17_SC_158,Pomacentridae,Dascyllus_aruanus,NA,26
+WIO,Seychelles,Praslin_La_Reserve,2017,8,6.1,Fringing,Sheltered,-4.30865,55.73193,17_SC_159,Pomacentridae,Dascyllus_aruanus,NA,26
+WIO,Seychelles,Praslin_La_Reserve,2017,8,6.1,Fringing,Sheltered,-4.30865,55.73193,17_SC_160,Pomacentridae,Dascyllus_aruanus,NA,26
+WIO,Seychelles,Anse_La_mouche,2017,5,7.2,Fringing,Sheltered,-4.74075,55.4715,17_SC_222,Pomacentridae,Dascyllus_aruanus,7,27
+WIO,Seychelles,Anse_La_mouche,2017,5,7.2,Fringing,Sheltered,-4.74075,55.4715,17_SC_223,Pomacentridae,Dascyllus_aruanus,5,27
+WIO,Seychelles,Beau Valon,2017,20,9.1,Patch,Medium,-4.60193,55.42192,17_SC_257,Pomacentridae,Dascyllus_aruanus,8,26
+WIO,Seychelles,La_Digue,2017,7,7.1,Fringing,Sheltered,-4.34162,55.82841,17_SC_185,Pomacentridae,Dascyllus_carneus,6,26
+WIO,Seychelles,La_Digue,2017,7,7.1,Fringing,Sheltered,-4.34162,55.82841,17_SC_186,Pomacentridae,Dascyllus_carneus,8,26
+WIO,Seychelles,La_Digue,2017,7,7.1,Fringing,Sheltered,-4.34162,55.82841,17_SC_187,Pomacentridae,Dascyllus_carneus,7,26
+WIO,Seychelles,La_Digue,2017,7,7.1,Fringing,Sheltered,-4.34162,55.82841,17_SC_188,Pomacentridae,Dascyllus_carneus,6,26
+WIO,Seychelles,La_Digue,2017,7,7.1,Fringing,Sheltered,-4.34162,55.82841,17_SC_189,Pomacentridae,Dascyllus_carneus,6,26
+WIO,Seychelles,La_Digue,2017,7,7.1,Fringing,Sheltered,-4.34162,55.82841,17_SC_190,Pomacentridae,Dascyllus_carneus,7,26
+WIO,Seychelles,La_Digue,2017,7,7.1,Fringing,Sheltered,-4.34162,55.82841,17_SC_191,Pomacentridae,Dascyllus_carneus,5,26
+WIO,Seychelles,La_Digue,2017,7,7.1,Fringing,Sheltered,-4.34162,55.82841,17_SC_192,Pomacentridae,Dascyllus_carneus,4,26
+WIO,Seychelles,La_Digue,2017,7,7.1,Fringing,Sheltered,-4.34162,55.82841,17_SC_193,Pomacentridae,Dascyllus_carneus,4,26
+WIO,Seychelles,Aquarium_Beau_Valon,2017,12,4.1,Patch,Medium,-4.60281,55.42241,17_SC_078,Pomacentridae,Dascyllus_trimaculatus,8,26
+WIO,Seychelles,Aquarium_Beau_Valon,2017,12,4.1,Patch,Medium,-4.60281,55.42241,17_SC_079,Pomacentridae,Dascyllus_trimaculatus,5,26
+WIO,Seychelles,Aquarium_Beau_Valon,2017,12,4.1,Patch,Medium,-4.60281,55.42241,17_SC_080,Pomacentridae,Dascyllus_trimaculatus,6,26
+WIO,Seychelles,Aquarium_Beau_Valon,2017,14.5,5.1,Patch,Medium,-4.60287,55.42242,17_SC_108,Pomacentridae,Dascyllus_trimaculatus,58,26
+WIO,Seychelles,Aquarium_Beau_Valon,2017,14.5,5.1,Patch,Medium,-4.60287,55.42242,17_SC_109,Pomacentridae,Dascyllus_trimaculatus,79,26
+WIO,Seychelles,Aquarium_Beau_Valon,2017,14.5,5.1,Patch,Medium,-4.60287,55.42242,17_SC_110,Pomacentridae,Dascyllus_trimaculatus,63,26
+WIO,Seychelles,Aquarium_Beau_Valon,2017,14.5,5.1,Patch,Medium,-4.60287,55.42242,17_SC_111,Pomacentridae,Dascyllus_trimaculatus,48,26
+WIO,Seychelles,Aquarium_Beau_Valon,2017,14.5,5.1,Patch,Medium,-4.60287,55.42242,17_SC_112,Pomacentridae,Dascyllus_trimaculatus,52,26
+WIO,Seychelles,Praslin_La_Reserve,2017,8,6.1,Fringing,Sheltered,-4.30865,55.73193,17_SC_122,Pomacentridae,Dascyllus_trimaculatus,37,26
+WIO,Seychelles,St Anne,2017,9,2.1,Fringing,Sheltered,-4.611076,55.494518,17_SC_025,Labridae,Gomphosus_caeruleus,14,26
+WIO,Seychelles,Ile au Cerf,2017,6,2.2,Fringing,Sheltered,-4.61679,55.50827,17_SC_041,Labridae,Gomphosus_caeruleus,54,26
+WIO,Seychelles,Ile au Cerf,2017,6,2.2,Fringing,Sheltered,-4.61679,55.50827,17_SC_042,Labridae,Gomphosus_caeruleus,24,26
+WIO,Seychelles,Ile au Cerf,2017,6,2.2,Fringing,Sheltered,-4.61679,55.50827,17_SC_043,Labridae,Gomphosus_caeruleus,23,26
+WIO,Seychelles,Ile au Cerf,2017,6,2.2,Fringing,Sheltered,-4.61679,55.50827,17_SC_044,Labridae,Gomphosus_caeruleus,22,26
+WIO,Seychelles,Aquarium_Beau_Valon,2017,12,4.1,Patch,Medium,-4.60281,55.42241,17_SC_072,Labridae,Gomphosus_caeruleus,27,26
+WIO,Seychelles,Ile_Therese,2017,7,4.2,Fringing,Sheltered,-4.6703,55.40377,17_SC_093,Labridae,Gomphosus_caeruleus,30,26
+WIO,Seychelles,Four_seasons,2017,8,8.1,Fringing,Sheltered,-4.7383,55.47532,17_SC_244,Labridae,Gomphosus_caeruleus,45,27
+WIO,Seychelles,Four_seasons,2017,8,8.1,Fringing,Sheltered,-4.7383,55.47532,17_SC_245,Labridae,Gomphosus_caeruleus,25,27
+WIO,Seychelles,Four_seasons,2017,8,8.1,Fringing,Sheltered,-4.7383,55.47532,17_SC_246,Labridae,Gomphosus_caeruleus,25,27
+WIO,Seychelles,St Anne,2017,8,1.1,Fringing,Sheltered,-4.60585,55.49427,17_SC_002,Labridae,Halichoeres_hortulanus,18,25
+WIO,Seychelles,St Anne,2017,8,1.1,Fringing,Sheltered,-4.60585,55.49427,17_SC_007,Labridae,Halichoeres_hortulanus,26,25
+WIO,Seychelles,St Anne,2017,9,2.1,Fringing,Sheltered,-4.611076,55.494518,17_SC_020,Labridae,Halichoeres_hortulanus,128,26
+WIO,Seychelles,Beau Valon,2017,10,3.1,Patch,Medium,-4.60113,55.42442,17_SC_048,Labridae,Halichoeres_hortulanus,35,26
+WIO,Seychelles,Beau Valon,2017,10,3.1,Patch,Medium,-4.60113,55.42442,17_SC_050,Labridae,Halichoeres_hortulanus,40,26
+WIO,Seychelles,Beau Valon,2017,10,3.1,Patch,Medium,-4.60113,55.42442,17_SC_055,Labridae,Halichoeres_hortulanus,60,26
+WIO,Seychelles,Aquarium_Beau_Valon,2017,12,4.1,Patch,Medium,-4.60281,55.42241,17_SC_070,Labridae,Halichoeres_hortulanus,20,26
+WIO,Seychelles,Praslin_La_Reserve,2017,6,6.1,Fringing,Sheltered,-4.30865,55.73193,17_SC_169,Labridae,Halichoeres_hortulanus,NA,26
+WIO,Seychelles,La_Digue,2017,7,7.1,Fringing,Sheltered,-4.34162,55.82841,17_SC_179,Labridae,Halichoeres_hortulanus,30,26
+WIO,Seychelles,La_Digue,2017,7,7.1,Fringing,Sheltered,-4.34162,55.82841,17_SC_180,Labridae,Halichoeres_hortulanus,25,26
+WIO,Seychelles,St Anne,2017,8,1.1,Fringing,Sheltered,-4.60585,55.49427,17_SC_003,Labridae,Hemigymnus_fasciatus,97,25
+WIO,Seychelles,St Anne,2017,9,2.1,Fringing,Sheltered,-4.611076,55.494518,17_SC_018,Labridae,Hemigymnus_fasciatus,144,26
+WIO,Seychelles,St Anne,2017,9,2.1,Fringing,Sheltered,-4.611076,55.494518,17_SC_019,Labridae,Hemigymnus_fasciatus,34,26
+WIO,Seychelles,Beau Valon,2017,10,3.1,Patch,Medium,-4.60113,55.42442,17_SC_049,Labridae,Hemigymnus_fasciatus,220,26
+WIO,Seychelles,Aquarium_Beau_Valon,2017,14.5,5.1,Patch,Medium,-4.60287,55.42242,17_SC_115,Labridae,Hemigymnus_fasciatus,92,26
+WIO,Seychelles,Praslin_La_Reserve,2017,8,6.1,Fringing,Sheltered,-4.30865,55.73193,17_SC_117,Labridae,Hemigymnus_fasciatus,54,26
+WIO,Seychelles,Anse_La_mouche,2017,5,7.2,Fringing,Sheltered,-4.74075,55.4715,17_SC_198,Labridae,Hemigymnus_fasciatus,65,27
+WIO,Seychelles,Anse_La_mouche,2017,5,7.2,Fringing,Sheltered,-4.74075,55.4715,17_SC_221,Labridae,Hemigymnus_fasciatus,45,27
+WIO,Seychelles,Four_seasons,2017,8,8.1,Fringing,Sheltered,-4.7383,55.47532,17_SC_241,Labridae,Hemigymnus_fasciatus,55,27
+WIO,Seychelles,Four_seasons,2017,8,8.1,Fringing,Sheltered,-4.7383,55.47532,17_SC_242,Labridae,Hemigymnus_fasciatus,25,27
+WIO,Seychelles,Four_seasons,2017,8,8.1,Fringing,Sheltered,-4.7383,55.47532,17_SC_243,Labridae,Hemigymnus_fasciatus,15,27
+WIO,Seychelles,Praslin_La_Reserve,2017,8,6.1,Fringing,Sheltered,-4.30865,55.73193,17_SC_118,Lutjanidae,Lutjanus_kasmira,111,26
+WIO,Seychelles,Praslin_La_Reserve,2017,8,6.1,Fringing,Sheltered,-4.30865,55.73193,17_SC_119,Lutjanidae,Lutjanus_kasmira,123,26
+WIO,Seychelles,Praslin_La_Reserve,2017,8,6.1,Fringing,Sheltered,-4.30865,55.73193,17_SC_126,Lutjanidae,Lutjanus_kasmira,123,26
+WIO,Seychelles,Praslin_La_Reserve,2017,8,6.1,Fringing,Sheltered,-4.30865,55.73193,17_SC_138,Lutjanidae,Lutjanus_kasmira,137,26
+WIO,Seychelles,Channel_Victoria,2017,NA,NA,Fishermen,NA,-4.7402778,55.72972222222222,17_SC_058,Lutjanidae,Lutjanus_kasmira,145,26
+WIO,Seychelles,Channel_Victoria,2017,NA,NA,Fishermen,NA,-4.7402778,55.72972222222222,17_SC_059,Lutjanidae,Lutjanus_kasmira,171,26
+WIO,Seychelles,Channel_Victoria,2017,NA,NA,Fishermen,NA,-4.7402778,55.72972222222222,17_SC_060,Lutjanidae,Lutjanus_kasmira,181,26
+WIO,Seychelles,Channel_Victoria,2017,NA,NA,Fishermen,NA,-4.7402778,55.72972222222222,17_SC_061,Lutjanidae,Lutjanus_kasmira,163,26
+WIO,Seychelles,Channel_Victoria,2017,NA,NA,Fishermen,NA,-4.7402778,55.72972222222222,17_SC_062,Lutjanidae,Lutjanus_kasmira,226,26
+WIO,Seychelles,Channel_Victoria,2017,NA,NA,Fishermen,NA,-4.7402778,55.72972222222222,17_SC_063,Lutjanidae,Lutjanus_kasmira,164,26
+WIO,Seychelles,Channel_Victoria,2017,NA,NA,Fishermen,NA,-4.7402778,55.72972222222222,17_SC_064,Lutjanidae,Lutjanus_kasmira,176,26
+WIO,Seychelles,Channel_Victoria,2017,NA,NA,Fishermen,NA,-4.7402778,55.72972222222222,17_SC_065,Lutjanidae,Lutjanus_kasmira,157,26
+WIO,Seychelles,Channel_Victoria,2017,NA,NA,Fishermen,NA,-4.7402778,55.72972222222222,17_SC_066,Lutjanidae,Lutjanus_kasmira,181,26
+WIO,Seychelles,Channel_Victoria,2017,NA,NA,Fishermen,NA,-4.7402778,55.72972222222222,17_SC_067,Lutjanidae,Lutjanus_kasmira,200,26
+WIO,Seychelles,Channel_Victoria,2017,NA,NA,Fishermen,NA,-4.7402778,55.72972222222222,17_SC_068,Lutjanidae,Lutjanus_kasmira,186,26
+WIO,Seychelles,Channel_Victoria,2017,NA,NA,Fishermen,NA,-4.7402778,55.72972222222222,17_SC_069,Lutjanidae,Lutjanus_kasmira,181,26
+WIO,Seychelles,Praslin_La_Reserve,2017,8,6.1,Fringing,Sheltered,-4.30865,55.73193,17_SC_120,Lethrinidae,Monotaxis_grandoculis,124,26
+WIO,Seychelles,Praslin_La_Reserve,2017,8,6.1,Fringing,Sheltered,-4.30865,55.73193,17_SC_121,Lethrinidae,Monotaxis_grandoculis,81,26
+WIO,Seychelles,Praslin_La_Reserve,2017,8,6.1,Fringing,Sheltered,-4.30865,55.73193,17_SC_125,Lethrinidae,Monotaxis_grandoculis,52,26
+WIO,Seychelles,Praslin_La_Reserve,2017,8,6.1,Fringing,Sheltered,-4.30865,55.73193,17_SC_139,Lethrinidae,Monotaxis_grandoculis,48,26
+WIO,Seychelles,Praslin_La_Reserve,2017,6,6.1,Fringing,Sheltered,-4.30865,55.73193,17_SC_163,Lethrinidae,Monotaxis_grandoculis,NA,26
+WIO,Seychelles,Praslin_La_Reserve,2017,6,6.1,Fringing,Sheltered,-4.30865,55.73193,17_SC_164,Lethrinidae,Monotaxis_grandoculis,NA,26
+WIO,Seychelles,Praslin_La_Reserve,2017,6,6.1,Fringing,Sheltered,-4.30865,55.73193,17_SC_168,Lethrinidae,Monotaxis_grandoculis,NA,26
+WIO,Seychelles,Praslin_La_Reserve,2017,6,6.1,Fringing,Sheltered,-4.30865,55.73193,17_SC_170,Lethrinidae,Monotaxis_grandoculis,NA,26
+WIO,Seychelles,Praslin_La_Reserve,2017,6,6.1,Fringing,Sheltered,-4.30865,55.73193,17_SC_173,Lethrinidae,Monotaxis_grandoculis,190,26
+WIO,Seychelles,St Anne,2017,9,2.1,Fringing,Sheltered,-4.611076,55.494518,17_SC_021,Holocentridae,Myripristis_violacea,102,26
+WIO,Seychelles,St Anne,2017,9,2.1,Fringing,Sheltered,-4.611076,55.494518,17_SC_022,Holocentridae,Myripristis_violacea,103,26
+WIO,Seychelles,St Anne,2017,9,2.1,Fringing,Sheltered,-4.611076,55.494518,17_SC_023,Holocentridae,Myripristis_violacea,108,26
+WIO,Seychelles,St Anne,2017,9,2.1,Fringing,Sheltered,-4.611076,55.494518,17_SC_024,Holocentridae,Myripristis_violacea,127,26
+WIO,Seychelles,Ile au Cerf,2017,6,2.2,Fringing,Sheltered,-4.61679,55.50827,17_SC_038,Holocentridae,Myripristis_violacea,105,26
+WIO,Seychelles,Ile au Cerf,2017,6,2.2,Fringing,Sheltered,-4.61679,55.50827,17_SC_039,Holocentridae,Myripristis_violacea,100,26
+WIO,Seychelles,Praslin_La_Reserve,2017,8,6.1,Fringing,Sheltered,-4.30865,55.73193,17_SC_127,Holocentridae,Myripristis_violacea,102,26
+WIO,Seychelles,Praslin_La_Reserve,2017,8,6.1,Fringing,Sheltered,-4.30865,55.73193,17_SC_128,Holocentridae,Myripristis_violacea,99,26
+WIO,Seychelles,Praslin_La_Reserve,2017,8,6.1,Fringing,Sheltered,-4.30865,55.73193,17_SC_129,Holocentridae,Myripristis_violacea,124,26
+WIO,Seychelles,Praslin_La_Reserve,2017,8,6.1,Fringing,Sheltered,-4.30865,55.73193,17_SC_130,Holocentridae,Myripristis_violacea,115,26
+WIO,Seychelles,Praslin_La_Reserve,2017,8,6.1,Fringing,Sheltered,-4.30865,55.73193,17_SC_133,Holocentridae,Myripristis_violacea,135,26
+WIO,Seychelles,Praslin_La_Reserve,2017,8,6.1,Fringing,Sheltered,-4.30865,55.73193,17_SC_134,Holocentridae,Myripristis_violacea,170,26
+WIO,Seychelles,Praslin_La_Reserve,2017,8,6.1,Fringing,Sheltered,-4.30865,55.73193,17_SC_140,Holocentridae,Myripristis_violacea,57,26
+WIO,Seychelles,Beau_Valon_Aquarium,2017,13,5.1,Patch,Medium,-4.60287,55.42242,17_SC_258,Acanthuridae,Naso_brevirostris,160,26
+WIO,Seychelles,Beau_Valon_Aquarium,2017,13,5.1,Patch,Medium,-4.60287,55.42242,17_SC_259,Acanthuridae,Naso_brevirostris,160,26
+WIO,Seychelles,Beau_Valon_Aquarium,2017,13,5.1,Patch,Medium,-4.60287,55.42242,17_SC_260,Acanthuridae,Naso_brevirostris,200,26
+WIO,Seychelles,Beau_Valon_Aquarium,2017,13,5.1,Patch,Medium,-4.60287,55.42242,17_SC_261,Acanthuridae,Naso_brevirostris,215,26
+WIO,Seychelles,St Anne,2017,9,2.1,Fringing,Sheltered,-4.611076,55.494518,17_SC_015,Labridae,Oxycheilinus_digramma,249,26
+WIO,Seychelles,St Anne,2017,9,2.1,Fringing,Sheltered,-4.611076,55.494518,17_SC_016,Labridae,Oxycheilinus_digramma,355,26
+WIO,Seychelles,St Anne,2017,9,2.1,Fringing,Sheltered,-4.611076,55.494518,17_SC_017,Labridae,Oxycheilinus_digramma,308,26
+WIO,Seychelles,Beau Valon,2017,10,3.1,Patch,Medium,-4.60113,55.42442,17_SC_046,Labridae,Oxycheilinus_digramma,245,26
+WIO,Seychelles,Beau Valon,2017,10,3.1,Patch,Medium,-4.60113,55.42442,17_SC_047,Labridae,Oxycheilinus_digramma,165,26
+WIO,Seychelles,Aquarium_Beau_Valon,2017,12,4.1,Patch,Medium,-4.60281,55.42241,17_SC_071,Labridae,Oxycheilinus_digramma,30,26
+WIO,Seychelles,Ile_Therese,2017,7,4.2,Fringing,Sheltered,-4.6703,55.40377,17_SC_088,Labridae,Oxycheilinus_digramma,49,26
+WIO,Seychelles,Praslin_La_Reserve,2017,6,6.1,Fringing,Sheltered,-4.30865,55.73193,17_SC_165,Labridae,Oxycheilinus_digramma,NA,26
+WIO,Seychelles,Praslin_La_Reserve,2017,6,6.1,Fringing,Sheltered,-4.30865,55.73193,17_SC_172,Acanthuridae,Oxycheilinus_digramma,405,26
+WIO,Seychelles,Anse_La_mouche,2017,5,7.2,Fringing,Sheltered,-4.74075,55.4715,17_SC_212,Labridae,Oxycheilinus_digramma,105,27
+WIO,Seychelles,Anse_La_mouche,2017,5,7.2,Fringing,Sheltered,-4.74075,55.4715,17_SC_213,Labridae,Oxycheilinus_digramma,125,27
+WIO,Seychelles,Anse_La_mouche,2017,5,7.2,Fringing,Sheltered,-4.74075,55.4715,17_SC_220,Labridae,Oxycheilinus_digramma,70,27
+WIO,Seychelles,Anse_La_mouche,2017,5,7.2,Fringing,Sheltered,-4.74075,55.4715,17_SC_206,Monacanthidae,Oxymonacanthus_longirostris,12,27
+WIO,Seychelles,Anse_La_mouche,2017,5,7.2,Fringing,Sheltered,-4.74075,55.4715,17_SC_203,Pomacentridae,Chromis_atripectoralis,20.16,27
+WIO,Seychelles,Anse_La_mouche,2017,5,7.2,Fringing,Sheltered,-4.74075,55.4715,17_SC_207,Monacanthidae,Oxymonacanthus_longirostris,11,27
+WIO,Seychelles,Anse_La_mouche,2017,5,7.2,Fringing,Sheltered,-4.74075,55.4715,17_SC_208,Monacanthidae,Oxymonacanthus_longirostris,10,27
+WIO,Seychelles,Baie_Ternay,2017,8,10.1,Fringing,Sheltered,NA,NA,17_SC_269,Pinguipedidae,Parapercis_hexophtalma,NA,NA
+WIO,Seychelles,Aquarium_Beau_Valon,2017,12,4.1,Patch,Medium,-4.60281,55.42241,17_SC_077,Pinguipedidae,Parapercis_hexophtalma,38,26
+WIO,Seychelles,Aquarium_Beau_Valon,2017,14.5,5.1,Patch,Medium,-4.60287,55.42242,17_SC_107,Pinguipedidae,Parapercis_hexophtalma,89,26
+WIO,Seychelles,Beau Valon,2017,10,3.1,Patch,Medium,-4.60113,55.42442,17_SC_045,Mullidae,Parupeneus_macronemus,50,26
+WIO,Seychelles,Aquarium_Beau_Valon,2017,12,4.1,Patch,Medium,-4.60281,55.42241,17_SC_073,Mullidae,Parupeneus_macronemus,98,26
+WIO,Seychelles,Ile_Therese,2017,7,4.2,Fringing,Sheltered,-4.6703,55.40377,17_SC_085,Mullidae,Parupeneus_macronemus,33,26
+WIO,Seychelles,Ile_Therese,2017,7,4.2,Fringing,Sheltered,-4.6703,55.40377,17_SC_086,Mullidae,Parupeneus_macronemus,109,26
+WIO,Seychelles,Ile_Therese,2017,7,4.2,Fringing,Sheltered,-4.6703,55.40377,17_SC_087,Mullidae,Parupeneus_macronemus,78,26
+WIO,Seychelles,Praslin_La_Reserve,2017,8,6.1,Fringing,Sheltered,-4.30865,55.73193,17_SC_141,Mullidae,Parupeneus_macronemus,70,26
+WIO,Seychelles,Praslin_La_Reserve,2017,8,6.1,Fringing,Sheltered,-4.30865,55.73193,17_SC_151,Mullidae,Parupeneus_macronemus,9,26
+WIO,Seychelles,Praslin_La_Reserve,2017,8,6.1,Fringing,Sheltered,-4.30865,55.73193,Morpho_17_SC_001,Mullidae,Parupeneus_macronemus,NA,26
+WIO,Seychelles,Praslin_La_Reserve,2017,8,6.1,Fringing,Sheltered,-4.30865,55.73193,Morpho_17_SC_002,Mullidae,Parupeneus_macronemus,NA,26
+WIO,Seychelles,Four_seasons,2017,8,8.1,Fringing,Sheltered,-4.7383,55.47532,17_SC_224,Serranidae,Pseudanthias_squamipinnis,20,27
+WIO,Seychelles,Four_seasons,2017,8,8.1,Fringing,Sheltered,-4.7383,55.47532,17_SC_225,Serranidae,Pseudanthias_squamipinnis,15,27
+WIO,Seychelles,Four_seasons,2017,8,8.1,Fringing,Sheltered,-4.7383,55.47532,17_SC_226,Serranidae,Pseudanthias_squamipinnis,15,27
+WIO,Seychelles,Four_seasons,2017,8,8.1,Fringing,Sheltered,-4.7383,55.47532,17_SC_227,Serranidae,Pseudanthias_squamipinnis,15,27
+WIO,Seychelles,Four_seasons,2017,8,8.1,Fringing,Sheltered,-4.7383,55.47532,17_SC_228,Serranidae,Pseudanthias_squamipinnis,15,27
+WIO,Seychelles,Four_seasons,2017,8,8.1,Fringing,Sheltered,-4.7383,55.47532,17_SC_229,Serranidae,Pseudanthias_squamipinnis,15,27
+WIO,Seychelles,Beau Valon,2017,20,9.1,Patch,Medium,-4.60193,55.42192,17_SC_249,Serranidae,Pseudanthias_squamipinnis,20,26
+WIO,Seychelles,Beau Valon,2017,20,9.1,Patch,Medium,-4.60193,55.42192,17_SC_250,Serranidae,Pseudanthias_squamipinnis,20,26
+WIO,Seychelles,Beau Valon,2017,20,9.1,Patch,Medium,-4.60193,55.42192,17_SC_251,Serranidae,Pseudanthias_squamipinnis,20,26
+WIO,Seychelles,Beau Valon,2017,20,9.1,Patch,Medium,-4.60193,55.42192,17_SC_252,Serranidae,Pseudanthias_squamipinnis,20,26
+WIO,Seychelles,Beau Valon,2017,20,9.1,Patch,Medium,-4.60193,55.42192,17_SC_253,Serranidae,Pseudanthias_squamipinnis,15,26
+WIO,Seychelles,Aquarium_Beau_Valon,2017,14.5,5.1,Patch,Medium,-4.60287,55.42242,17_SC_094,Caesionidae,Pterocaesio_pisang,40,26
+WIO,Seychelles,Aquarium_Beau_Valon,2017,14.5,5.1,Patch,Medium,-4.60287,55.42242,17_SC_095,Caesionidae,Pterocaesio_pisang,110,26
+WIO,Seychelles,Aquarium_Beau_Valon,2017,14.5,5.1,Patch,Medium,-4.60287,55.42242,17_SC_096,Caesionidae,Pterocaesio_pisang,15,26
+WIO,Seychelles,Aquarium_Beau_Valon,2017,14.5,5.1,Patch,Medium,-4.60287,55.42242,17_SC_097,Caesionidae,Pterocaesio_pisang,19,26
+WIO,Seychelles,Aquarium_Beau_Valon,2017,14.5,5.1,Patch,Medium,-4.60287,55.42242,17_SC_098,Caesionidae,Pterocaesio_pisang,12,26
+WIO,Seychelles,Aquarium_Beau_Valon,2017,14.5,5.1,Patch,Medium,-4.60287,55.42242,17_SC_099,Caesionidae,Pterocaesio_pisang,81,26
+WIO,Seychelles,Aquarium_Beau_Valon,2017,14.5,5.1,Patch,Medium,-4.60287,55.42242,17_SC_100,Caesionidae,Pterocaesio_pisang,65,26
+WIO,Seychelles,Aquarium_Beau_Valon,2017,14.5,5.1,Patch,Medium,-4.60287,55.42242,17_SC_101,Caesionidae,Pterocaesio_pisang,55,26
+WIO,Seychelles,Aquarium_Beau_Valon,2017,14.5,5.1,Patch,Medium,-4.60287,55.42242,17_SC_102,Caesionidae,Pterocaesio_pisang,65,26
+WIO,Seychelles,Aquarium_Beau_Valon,2017,14.5,5.1,Patch,Medium,-4.60287,55.42242,17_SC_103,Caesionidae,Pterocaesio_pisang,90,26
+WIO,Seychelles,Aquarium_Beau_Valon,2017,14.5,5.1,Patch,Medium,-4.60287,55.42242,17_SC_104,Caesionidae,Pterocaesio_pisang,23,26
+WIO,Seychelles,Praslin_La_Reserve,2017,8,6.1,Fringing,Sheltered,-4.30865,55.73193,17_SC_143,Caesionidae,Pterocaesio_pisang,11,26
+WIO,Seychelles,Praslin_La_Reserve,2017,8,6.1,Fringing,Sheltered,-4.30865,55.73193,17_SC_148,Caesionidae,Pterocaesio_pisang,26,26
+WIO,Seychelles,Praslin_La_Reserve,2017,8,6.1,Fringing,Sheltered,-4.30865,55.73193,17_SC_150,Caesionidae,Pterocaesio_pisang,22,26
+WIO,Seychelles,Beau Valon,2017,20,9.1,Patch,Medium,-4.60193,55.42192,17_SC_254,Caesionidae,Pterocaesio_pisang,25,26
+WIO,Seychelles,St Anne,2017,8,1.1,Fringing,Sheltered,-4.60585,55.49427,17_SC_004,Zanclidae,Zanclus_cornutus,104,25
+WIO,Seychelles,Ile au Cerf,2017,6,2.2,Fringing,Sheltered,-4.61679,55.50827,17_SC_035,Zanclidae,Zanclus_cornutus,73,26
+WIO,Seychelles,Ile au Cerf,2017,6,2.2,Fringing,Sheltered,-4.61679,55.50827,17_SC_036,Zanclidae,Zanclus_cornutus,83,26
+WIO,Seychelles,Ile_Therese,2017,7,4.2,Fringing,Sheltered,-4.6703,55.40377,17_SC_082,Zanclidae,Zanclus_cornutus,45,26
+WIO,Seychelles,Ile_Therese,2017,7,4.2,Fringing,Sheltered,-4.6703,55.40377,17_SC_083,Zanclidae,Zanclus_cornutus,30,26
+WIO,Seychelles,Ile_Therese,2017,7,4.2,Fringing,Sheltered,-4.6703,55.40377,17_SC_084,Zanclidae,Zanclus_cornutus,51,26
+WIO,Seychelles,Praslin_La_Reserve,2017,8,6.1,Fringing,Sheltered,-4.30865,55.73193,17_SC_123,Zanclidae,Zanclus_cornutus,46,26
+WIO,Seychelles,Praslin_La_Reserve,2017,8,6.1,Fringing,Sheltered,-4.30865,55.73193,17_SC_124,Zanclidae,Zanclus_cornutus,31,26
+WIO,Seychelles,Praslin_La_Reserve,2017,8,6.1,Fringing,Sheltered,-4.30865,55.73193,17_SC_132,Zanclidae,Zanclus_cornutus,82,26
+WIO,Seychelles,Praslin_La_Reserve,2017,6,6.1,Fringing,Sheltered,-4.30865,55.73193,17_SC_162,Zanclidae,Zanclus_cornutus,NA,26
+WIO,Seychelles,Praslin_La_Reserve,2017,6,6.1,Fringing,Sheltered,-4.30865,55.73193,17_SC_167,Zanclidae,Zanclus_cornutus,NA,26
