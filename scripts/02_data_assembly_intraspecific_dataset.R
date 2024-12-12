@@ -61,10 +61,10 @@ database <- database[match(dimnames(All_tps)[[3]],database$Sample_ID),]
 
 ### gpagen and visualisation
 All_tps_WIO <- gpagen(All_tps[,,],ProcD=T) # Procrustes analysis corrects for scale, rotation and translation
-plotAllSpecimens(All_tps_WIO$coords)# gpa-aligned landmark data
+#plotAllSpecimens(All_tps_WIO$coords)# gpa-aligned landmark data
 
 All_tps <- All_tps_WIO$coords # replacement of non gpa aligned coordinates with superimposed ones
-plotOutliers(All_tps) # outliers are exclusively Zanclidae so I kept them !
+#plotOutliers(All_tps) # outliers are exclusively Zanclidae so I kept them !
 
 ### plotTangentspace - micro with 14 landmarks matching Claverie et al. 2014
 All_tps14 <- All_tps[-c(6,16),,]
@@ -78,8 +78,8 @@ cool <- substr(colorRampPalette(c("cyan", "blue"))(25), 1, 7)
 # Assign colors to groups based on sample IDs (from the 3rd dimension of All_tps14)
 groups <- setNames(cool[as.factor(dimnames(All_tps14)[[3]])], dimnames(All_tps14)[[3]])
 
-plotTangentSpace_tot(All_tps14,gp=dimnames(All_tps14)[[3]],col_sp =unique(groups),groups=groups,
-                     legend=unique(dimnames(All_tps14)[[3]]),label=dimnames(All_tps14)[[3]],txt.cex=0.2)
+#plotTangentSpace_tot(All_tps14,gp=dimnames(All_tps14)[[3]],col_sp =unique(groups),groups=groups,
+#                     legend=unique(dimnames(All_tps14)[[3]]),label=dimnames(All_tps14)[[3]],txt.cex=0.2)
 
 #####################################################################################
 ### Part 2. Creation of the morphological traits data including length and ratios ###
@@ -188,7 +188,7 @@ sp_PBL_ratio <- sp_PBL/sp_SL
 ################  Adding the morphological traits to the metadata ##############
 ################################################################################ 
 
-database <- cbind(database,EyeD=sp_ED,JawL=sp_JL,HeadL=sp_HL,PreED=sp_PreOD,PeduncleH=sp_PH,
+trait_db <- cbind(EyeD=sp_ED,JawL=sp_JL,HeadL=sp_HL,PreED=sp_PreOD,PeduncleH=sp_PH,
                   PeduncleL=sp_PL,DorsalL=sp_DL,AnalL=sp_AL,PectoralBL=sp_PBL,Pre_Anal=sp_Pre_AL,
                   SL=sp_SL,BH=sp_BH,Pre_PectoralBL=sp_PrePBL,Pre_DorsalL=sp_PreDL,ratio_ELO=sp_ELO_ratio
                   ,ratio_PeduncleELO=sp_PELO_ratio,ratio_EyeD=sp_ED_ratio,ratio_JawL=sp_JL_ratio,
@@ -196,6 +196,10 @@ database <- cbind(database,EyeD=sp_ED,JawL=sp_JL,HeadL=sp_HL,PreED=sp_PreOD,Pedu
                   ratio_AnalL=sp_AL_ratio,ratio_PectoralBL=sp_PBL_ratio,ratio_PreED=sp_PreOD_ratio,
                   ratio_Pre_AL=sp_Pre_AL_ratio,ratio_Pre_PectoralBL=sp_PrePBL_ratio,ratio_Pre_DorsalL=sp_PreDL_ratio)
 
+database <- data.frame(Site2=database[,"Site"],genus_species=database[,"genus_species"],trait_db)
+database[,3:ncol(database)] <-  apply(database[,3:ncol(database)],2,as.numeric)
+
+
 BigSp_list <- list("landmark"=All_tps,"data"=database)
-saveRDS(BigSp_list,"results//intra_sp_morpho_traits.RDS") 
+saveRDS(BigSp_list,"results/intra_sp_morpho_traits.RDS") 
 ######################## end of script #########################################

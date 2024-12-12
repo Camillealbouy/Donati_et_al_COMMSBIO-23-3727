@@ -1,13 +1,14 @@
 #function to load to read tps data
 read.tps <-  function(data) {
-  a <- readLines(data)
-  LM <- grep("LM", a)
-  ID.ind <- grep("ID", a)  
-  images <- basename(gsub("(IMAGE=)(.*)", "\\2", a[ID.ind - 1]))
-  skip <- LM
-  nrows <- as.numeric(gsub("(LM=)([0-9])", "\\2", grep("LM", a, value=T)))
-  l <- length(LM)
-  landmarks <- vector("list", l)
+  a = readLines(data)
+  LM = grep("LM", a)
+  ID.ind = grep("ID", a)  
+  images = basename(gsub("(IMAGE=)(.*)", "\\2", a[ID.ind - 1]))
+  skip = LM
+  nrows = as.numeric(gsub("(LM=)([0-9])", "\\2", grep("LM", a, value=T)))
+  l = length(LM)
+  landmarks = vector("list", l)
+  
   
   for (i in 1:l) {
     cat("i=",i,"\n")
@@ -22,7 +23,6 @@ read.tps <-  function(data) {
   }
   do.call(rbind, landmarks)
 }
-
 # Function to extract Landmark data and curve points data from .TPS per image
 readland.tps <- function (file="/Volumes/LaCie/MSc_Camille/Project_morpho/Maldives/TPS/Amphiprion_clarkii_MV.TPS", specID = c("ID","IMAGE"), 
                           readcurves=T,warnmsg=T) {
