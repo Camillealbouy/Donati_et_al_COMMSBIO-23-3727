@@ -5,9 +5,9 @@
 ##################################################################
 
 ### Libary loading
-lib <- c("gtools","ade4","cluster","phytools","caper","lavaan","FactoMineR")
+lib <- c("gtools","ade4","cluster","phytools","caper","lavaan","FactoMineR",
+         "factoextra","piecewiseSEM")
 sapply(lib,library, character.only=TRUE)
-
 
 ### Functions loading
 get_res_funct <- function(Data){
@@ -37,11 +37,8 @@ Data_PCOA <-Data_G[,c("Body_size","PLD","Home_range","Reproduction","Schooling",
 ###############################################################
 
 ### INtervariability loading 
+Data_inter <- readRDS("results/Inter_specific_dataset.RDS")$inter_variability_obs
 
-macro <- readRDS("/Users/calbouy/Documents/These_Guilia/Papier_3/Data/macro/macro_data3.RDS")
-
-macro <- readRDS("results/Inter_specific_dataset.RDS")
-Data_inter <- macro$inter_variability_obs
 
 ### Searching for the best PCOA that represent the correlation between beta and gamma
 listcom <-lapply(1:7,function(i){combinations(7,i,1:7)})
@@ -72,11 +69,11 @@ factoextra::fviz_pca_biplot(res.pca,labelsize = 3,repel = TRUE,alpha.var ="contr
 dev.off()
 
 ################################################################################
-####
-####.   Relation between the Gamma/beta and the main traits by accounting 
-####                            for the phylogeny 
-####
-###############################################################################
+###                                                                          ###
+###     Relation between the Gamma/beta and the main traits by accounting    ###
+###                            for the phylogeny                             ###
+###                                                                          ###
+################################################################################
 
 ### Get the phylogenetic tree from the rabosky tree
 ### Tree Rabosky loading and modification
@@ -90,8 +87,10 @@ Test$tip.label <- as.character(Data_G$Family)
 Fam_tree  <- drop.tip(Test, which(duplicated(Test$tip.label)==T))
 
 ### Data preparation for the pgls
-PGLS_dataIn <- data.frame(Species=rownames(PCA$ind$coord),Beta_D=Data_G[,"Jst"],Gamma_D=Data_G[,"Jt"],
-                         PCA_1=PCA$ind$coord[,1],PCA_2=PCA$ind$coord[,2],BS=Data_G[,"Body_size"],Pld=Data_G[,"PLD"])
+PGLS_dataIn <- data.frame(Species=rownames(PCA$ind$coord),Beta_D=Data_G[,"Jst"],
+                          Gamma_D=Data_G[,"Jt"],PCA_1=PCA$ind$coord[,1],
+                          PCA_2=PCA$ind$coord[,2],BS=Data_G[,"Body_size"],
+                          Pld=Data_G[,"PLD"])
 
 LBeta <- phylosig(tree=Prun_Rabos_T,method="lambda",x=setNames(PGLS_dataIn$Beta_D,PGLS_dataIn[,1]))
 LGama <- phylosig(tree=Prun_Rabos_T,method="lambda",x=setNames(PGLS_dataIn$Gamma_D,PGLS_dataIn[,1]))
@@ -150,95 +149,6 @@ model <- psem(lm(PCA1~Beta+Gamma,data=SEM_dataIn),
 plot(model,node_attrs = list(cex=0.2,cex.axis=0.3))
 
 
-###############################################################
-#### Procruste analysis
-DataGenet <- read.csv2("/home/emh-albouy/Documents/These_Giulia/Papier_3/morpho_Nov2019/data/Genet/gen_morpho_data_test.csv",sep=",",dec=",")
-DataGenet <- DataGenet[,c("Genus_species","MV_MF","MV_MY","MV_SC","MF_MY","MF_SC","MY_SC")]
-
-
-Genet_mat <- lapply(1:nrow(DataGenet), function(i){
-  a <- matrix(0,ncol=4,nrow=4)
-a[lower.tri(a, diag = F)] <- as.numeric(DataGenet[i,2:7])
-a[upper.tri(a, diag = F)] <-  t(a)[upper.tri(t(a), diag = F)]
-colnames(a) <- rownames(a) <- c("MV","MF","MY","SC")
-a[a<0] <- 0; a
-})
-
-names(Genet_mat) <- DataGenet$Genus_species
-
-##########################################################################
-##################### exploration scripts
-### Perform the analyses with the PCoa
-MAtgo <- quasieuclid(daisy(x=data.frame(Data_PCA),metric=c("gower")))
-PCoA <- dudi.pco(MAtgo,nf=10,scannf=FALSE)
-
-PGLS_dataInPCoA <- data.frame(Species=rownames(PCoA$li),Beta_D=Data_G[,"Jst"],Gamma_D=Data_G[,"Jt"],
-                              PPCA_1=PCoA$li[,1],PPCA_2=PCoA$li[,2],BS=Data_G[,"Body_size"],Pld=Data_G[,"PLD"])
-
-LBeta <- phylosig(tree=Prun_Rabos_T,method="lambda",x=setNames(PGLS_dataInPCoA$Beta_D,PGLS_dataInPCoA[,1]))
-LGama <- phylosig(tree=Prun_Rabos_T,method="lambda",x=setNames(PGLS_dataInPCoA$Gamma_D,PGLS_dataInPCoA[,1]))
-PGLS_dataPCoA <- comparative.data(Prun_Rabos_T,PGLS_dataInPCoA,names.col=Species)
-
-### PGLS traits vs Gamma and beta
-summary(lm(Gamma_D~BS,PGLS_dataInPCoA))
-summary(pgls(Gamma_D~BS,PGLS_dataPCoA,lambda=LGama$lambda))
-
-summary(lm(Beta_D~Pld,PGLS_dataInPCoA))
-summary(pgls(Beta_D~Pld,PGLS_dataPCoA,lambda=LBeta$lambda))
-
-### PGLS with PPCA-1
-summary(pgls(Gamma_D~PPCA_1,PGLS_dataPCoA,lambda=LGama$lambda))
-summary(lm(Gamma_D~PPCA_1,PGLS_dataInPCoA))
-
-summary(pgls(Beta_D~PPCA_1,PGLS_dataPCoA,lambda=LBeta$lambda))
-summary(lm(Beta_D~PPCA_1,PGLS_dataInPCoA))
-
-model <- ' # regression 
-                PCA1 ~ Beta+Gamma  
-                PCA2 ~ Beta+Gamma
-                Beta ~ PCoA_inter+PCoA_intra
-                Gamma ~ PCoA_inter+PCoA_intra
-                PCoA_intra ~ PCA1+PCA2
-                PCoA_inter ~ PCA1 + PCA2'
-
-model <- ' # latent variables 
-                yop =~   PCoA_inter+PCoA_intra+PCA1+PCA2
-            # regression 
-                Beta ~  yop
-                Gamma~ yop
-        
-'
-
-
-fit <- sem(model, data = SEM_dataIn)
-summary(fit, fit.measures = TRUE)
-
-fitMeasures(fit, c("cfi","rmsea","srmr"))
-
-library(lavaanPlot)
-lavaanPlot(model = fit, node_options = list(shape = "box", fontname = "Helvetica"), edge_options = list(color = "grey"), coefs = TRUE)
-
-### SEM Intra with BS and PLD
-SEM_dataIn[,2:27] <- scale(SEM_dataIn[,2:27]) 
-model2 <- psem(lm(BS~Gamma,data=SEM_dataIn),
-               lm(PLD~Beta,data=SEM_dataIn),
-               lm(Abd~Gamma,data=SEM_dataIn),
-               lm(Beta ~ PCoA_inter+PCoA_intra,data=SEM_dataIn),
-               lm(Gamma~ PCoA_inter+PCoA_intra,data=SEM_dataIn),
-               lm(PCoA_intra ~ PCoA_inter+BS+PLD+Abd,data=SEM_dataIn),
-               lm(PCoA_inter ~ BS+PLD+Abd,data=SEM_dataIn)
-)
-
-model3 <- psem(lm(BS~Alpha,data=SEM_dataIn),
-               lm(PLD~Beta,data=SEM_dataIn),
-               lm(Abd~Alpha,data=SEM_dataIn),
-               lm(Beta ~ PCoA_inter+PCoA_intra,data=SEM_dataIn),
-               lm(Alpha~ PCoA_inter+PCoA_intra,data=SEM_dataIn),
-               lm(PCoA_intra ~ PCoA_inter+BS+PLD+Abd,data=SEM_dataIn),
-               lm(PCoA_inter ~ BS+PLD+Abd,data=SEM_dataIn)
-)
-
-
-plot(model,node_attrs=list(cex=0.2,cex.axis=0.3))
-plot(model2,node_attrs=list(cex=0.2,cex.axis=0.3),add=T)
-plot(model3,node_attrs=list(cex=0.2,cex.axis=0.3),add=T)
+################################################################################ 
+######################## end of script #########################################
+################################################################################
